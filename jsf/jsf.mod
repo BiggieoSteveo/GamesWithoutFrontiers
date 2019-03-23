@@ -7,3 +7,5 @@ tags={
 	"National Focuses"
 }
 supported_version="1.6.1"
+
+replace_path = "common/ideas"
