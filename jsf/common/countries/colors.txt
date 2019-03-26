@@ -741,3 +741,43 @@ PNG = {
 	color = rgb { 90 119 99 }
 	color_ui = rgb { 138 155 116 }
 }
+
+DCI = {
+	color = rgb { 144 41 150 }
+	color_ui = rgb { 144 41 150 }
+}
+
+PAK = {
+	color = rgb { 7 23 10 }
+	color_ui = rgb { 7 23 10 }
+}
+
+BAN = {
+	color = rgb { 63 127 71 }
+	color_ui = rgb { 63 127 71 }
+}
+
+BOM = {
+	color = rgb { 143 2 41 }
+	color_ui = rgb { 143 2 41 }
+}
+
+IRI = {
+	color = rgb { 116 140 31 }
+	color_ui = rgb { 116 140 31 }
+}
+
+JKA = {
+	color = rgb { 100 61 112 }
+	color_ui = rgb { 100 61 112 }
+}
+
+TAM = {
+	color = rgb { 255 232 135 }
+	color_ui = rgb { 255 232 135 }
+}
+
+RAJ = {
+	color = rgb { 183 79 35 }
+	color_ui = rgb { 183 79 35 }
+}
