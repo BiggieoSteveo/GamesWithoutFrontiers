@@ -14,6 +14,9 @@ state={
 
 	history={
 		owner = RAJ
+		add_core_of = RAJ
+		add_core_of = IRI
+		add_core_of = DCI
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
