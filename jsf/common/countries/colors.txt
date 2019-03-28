@@ -781,3 +781,8 @@ RAJ = {
 	color = rgb { 183 79 35 }
 	color_ui = rgb { 183 79 35 }
 }
+
+FOR = {
+	color = rgb { 144 41 150 }
+	color_ui = rgb { 144 41 150 }
+}
