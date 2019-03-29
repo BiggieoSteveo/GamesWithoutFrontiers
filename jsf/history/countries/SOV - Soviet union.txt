@@ -1,9 +1,5 @@
 ﻿capital = 219
 
-#oob = "SOV_1936"
-
-set_convoys = 50
-
 set_politics = {
 
 	parties = {
@@ -57,3 +53,25 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_faction = Interform
+
+add_to_faction = SOV
+add_to_faction = EST
+add_to_faction = LAT
+add_to_faction = LIT
+add_to_faction = BLR
+add_to_faction = UKR
+add_to_faction = GEO
+add_to_faction = ARM
+add_to_faction = AZR
+add_to_faction = KAZ
+add_to_faction = UZB
+add_to_faction = KYR
+add_to_faction = TAJ
+add_to_faction = TMS
+add_to_faction = GER
+add_to_faction = POL
+add_to_faction = AUS
+add_to_faction = HUN
+add_to_faction = CZE

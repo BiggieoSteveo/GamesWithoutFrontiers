@@ -1,4 +1,4 @@
-﻿ l_english:
+﻿l_english:
  
  ###Country Names###
  GER_cluster:0 "Cluster Empire"
@@ -54,7 +54,7 @@
  GER_autocracy_party_long:0 "Nationaldemokratische Partei Deutschlands"
  GER_ultranationalism_party:1 "NPD"
  GER_ultranationalism_party_long:1 "Nationaldemokratische Partei Deutschlands"
- GER_supremacism_party:1 "NSDAP"
- GER_supremacism_party_long:1 "Nationalsozialistische Deutsche Arbeiterpartei"
+ GER_supremacism_party:1 "SAF"
+ GER_supremacism_party_long:1 "Schwarz Armee Fraktion"
  GER_death_cultism_party:0 "DC"
- GER_death_cultism_long_party:0 "Death Cult"
+ GER_death_cultism_party_long:0 "Death Cult"

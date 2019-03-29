@@ -1,6 +1,6 @@
-﻿ l_english:
+﻿l_english:
  
-###Country Names###
+ ###Country Names###
  SOV_cluster:0 "Cluster Empire"
  SOV_cluster_DEF:0 "the Cluster Empire"
  SOV_internationalism:0 "Union of Soviet Socialist Republics"
@@ -57,4 +57,4 @@
  SOV_supremacism_party:1 "RFP"
  SOV_supremacism_party_long:1 "Russkaya fashistskaya partiya"
  SOV_death_cultism_party:0 "DC"
- SOV_death_cultism_long_party:0 "Death Cult"
+ SOV_death_cultism_party_long:0 "Death Cult"
