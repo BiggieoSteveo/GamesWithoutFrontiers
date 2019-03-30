@@ -1,0 +1,91 @@
+﻿capital = 229 #Baku
+
+set_politics = {
+
+	parties = {
+		cluster = { 
+			popularity = 9 
+		}
+
+		internationalism = { 
+			popularity = 9 
+		}
+		
+		neo-bolshevism = { 
+			popularity = 9 
+		}
+		
+		technocracy = { 
+			popularity = 9 
+		}
+		
+		social_liberalism = {
+			popularity = 9
+		}
+		
+		social_conservatism = {
+			popularity = 9
+		}
+		
+		reactionary = { 
+			popularity = 9 
+		}
+		
+		autocracy = { 
+			popularity = 9 
+		}
+		
+		ultranationalism = { 
+			popularity = 9 
+		}
+		
+		supremacism = { 
+			popularity = 9 
+		}
+		
+		death_cultism = { 
+			popularity = 9 
+		}
+	}
+	
+	ruling_party = neo-bolshevism
+	last_election = "1934.3.26"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Mir Jafar Baghirov"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	expire = "1953.3.1"
+	ideology = stalinism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Mammad Amin Rasulzade"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1953.3.1"
+	ideology = conservatism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Gara Garabeyov"
+	desc = ""
+	picture = "gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds"
+	expire = "1953.3.1"
+	ideology = moderatism
+	traits = {
+		
+	}
+}
+
+
+

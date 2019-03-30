@@ -1,0 +1,77 @@
+﻿capital = 219
+
+set_politics = {
+
+	parties = {
+		cluster = { 
+			popularity = 9 
+		}
+
+		internationalism = { 
+			popularity = 9 
+		}
+		
+		neo-bolshevism = { 
+			popularity = 9 
+		}
+		
+		technocracy = { 
+			popularity = 9 
+		}
+		
+		social_liberalism = {
+			popularity = 9
+		}
+		
+		social_conservatism = {
+			popularity = 9
+		}
+		
+		reactionary = { 
+			popularity = 9 
+		}
+		
+		autocracy = { 
+			popularity = 9 
+		}
+		
+		ultranationalism = { 
+			popularity = 9 
+		}
+		
+		supremacism = { 
+			popularity = 9 
+		}
+		
+		death_cultism = { 
+			popularity = 9 
+		}
+	}
+	
+	ruling_party = neo-bolshevism
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_faction = Interform
+
+add_to_faction = SOV
+add_to_faction = EST
+add_to_faction = LAT
+add_to_faction = LIT
+add_to_faction = BLR
+add_to_faction = UKR
+add_to_faction = GEO
+add_to_faction = ARM
+add_to_faction = AZR
+add_to_faction = KAZ
+add_to_faction = UZB
+add_to_faction = KYR
+add_to_faction = TAJ
+add_to_faction = TMS
+add_to_faction = GER
+add_to_faction = POL
+add_to_faction = AUS
+add_to_faction = HUN
+add_to_faction = CZE
