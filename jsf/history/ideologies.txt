@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 parties = {
 		cluster = { 
 			popularity = 9 
@@ -50,4 +51,58 @@ parties = {
 		death_cultism = { 
 			popularity = 9 
 		}
+=======
+parties = {
+		cluster = { 
+			popularity = 9 
+		}
+
+		internationalism = { 
+			popularity = 9 
+		}
+		
+		anarchism = { 
+			popularity = 9 
+		}
+		
+		neo-bolshevism = { 
+			popularity = 9 
+		}
+		
+		technocracy = { 
+			popularity = 9 
+		}
+		
+		progressivism = { 
+			popularity = 9 
+		}
+		
+		social_liberalism = {
+			popularity = 9
+		}
+		
+		social_conservatism = {
+			popularity = 9
+		}
+		
+		reactionary = { 
+			popularity = 9 
+		}
+		
+		autocracy = { 
+			popularity = 9 
+		}
+		
+		ultranationalism = { 
+			popularity = 9 
+		}
+		
+		supremacism = { 
+			popularity = 9 
+		}
+		
+		death_cultism = { 
+			popularity = 9 
+		}
+>>>>>>> d2a07ce73071de826f58b5e5b5fe6b4706884dae
 	}
