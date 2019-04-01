@@ -1,53 +1,59 @@
+set_politics = {
+
 parties = {
 		cluster = { 
-			popularity = 9 
+			popularity = 7 
 		}
 
 		internationalism = { 
-			popularity = 9 
+			popularity = 7
 		}
 		
 		anarchism = { 
-			popularity = 9 
+			popularity = 7 
 		}
 		
 		neo-bolshevism = { 
-			popularity = 9 
+			popularity = 7 
 		}
 		
 		technocracy = { 
-			popularity = 9 
+			popularity = 7 
 		}
 		
 		progressivism = { 
-			popularity = 9 
+			popularity = 7 
 		}
 		
 		social_liberalism = {
-			popularity = 9
+			popularity = 7
 		}
 		
 		social_conservatism = {
-			popularity = 9
+			popularity = 7
 		}
 		
 		reactionary = { 
-			popularity = 9 
+			popularity = 7 
+		}
+
+		corporatist = { 
+			popularity = 7 
 		}
 		
 		autocracy = { 
-			popularity = 9 
+			popularity = 7 
 		}
 		
 		ultranationalism = { 
-			popularity = 9 
+			popularity = 7 
 		}
 		
 		supremacism = { 
-			popularity = 9 
+			popularity = 7 
 		}
 		
 		death_cultism = { 
-			popularity = 9 
+			popularity = 7 
 		}
 	}
