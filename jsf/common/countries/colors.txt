@@ -790,3 +790,8 @@ INC = {
 	color = rgb { 177 31 46 }
 	color_ui = rgb { 177 31 46 }
 }
+SKK = {
+	color = rgb { 5 39 92 }
+	color_ui = rgb { 5 39 92 }
+}
+
