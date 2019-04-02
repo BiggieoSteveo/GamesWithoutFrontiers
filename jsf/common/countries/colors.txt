@@ -786,3 +786,7 @@ FOR = {
 	color = rgb { 144 41 150 }
 	color_ui = rgb { 144 41 150 }
 }
+INC = {
+	color = rgb { 177 31 46 }
+	color_ui = rgb { 177 31 46 }
+}
