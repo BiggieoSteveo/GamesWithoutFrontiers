@@ -1,5 +1,6 @@
-﻿name="JSF"
+name="JSF"
 path="mod/jsf/"
+replace_path = "common/bookmarks" 
 tags={
 	"Alternative History"
 	"National Focuses"
