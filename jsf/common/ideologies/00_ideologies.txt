@@ -381,7 +381,7 @@ ideologies = {
 
 	supremacism = {
 		types = {
-		valkist_subtype = {}
+		supremacism_subtype = {}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_VALKIST_1"
@@ -409,7 +409,7 @@ ideologies = {
 
 	death_cultism = {
 		types = {
-		valkist_subtype = {}
+		death_cultism_subtype = {}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_VALKIST_1"
