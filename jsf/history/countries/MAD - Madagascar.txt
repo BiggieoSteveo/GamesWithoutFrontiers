@@ -1,115 +1,63 @@
 ﻿capital = 543
 
-#oob = ""
-
-# Starting tech
-set_technology = {
-	infantry_weapons = 1
-}
-
-set_convoys = 5
-
-1939.1.1 = {
-	#generic focuses
-	complete_national_focus = army_effort
-	complete_national_focus = equipment_effort
-	complete_national_focus = motorization_effort
-	complete_national_focus = aviation_effort
-	complete_national_focus = naval_effort
-	complete_national_focus = flexible_navy
-	complete_national_focus = industrial_effort
-	complete_national_focus = construction_effort
-	complete_national_focus = production_effort
-	
-	set_technology = {
-
-		#doctrines
-		grand_battle_plan = 1
-		trench_warfare = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-	}
-}
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 27
+		cluster = { 
+			popularity = 9 
 		}
 
-		fascism = {
-			popularity = 8
+		anarchism = { 
+			popularity = 7 
+		}
+
+		internationalism = { 
+			popularity = 9 
 		}
 		
-		communism = {
-			popularity = 15
-			#banned = no #default is no
+		neo-bolshevism = { 
+			popularity = 9 
 		}
 		
-		neutrality = { 
-			popularity = 60
+		technocracy = { 
+			popularity = 9 
+		}
+		
+		social_liberalism = {
+			popularity = 9
+		}
+		
+		social_conservatism = {
+			popularity = 9
+		}
+		
+		reactionary = { 
+			popularity = 9 
+		}
+
+		corporatist = { 
+			popularity = 7 
+		}
+		
+		autocracy = { 
+			popularity = 9 
+		}
+		
+		ultranationalism = { 
+			popularity = 9 
+		}
+		
+		supremacism = { 
+			popularity = 9 
+		}
+		
+		death_cultism = { 
+			popularity = 9 
 		}
 	}
 	
-	ruling_party = neutrality
-	last_election = "1936.1.1"
+	ruling_party = neo-bolshevism
+	last_election = "1935.11.14"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
-
-#create_country_leader = {
-#	
-#	name = "Jonas Lote"
-#	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
-#	expire = "1965.1.1"
-#	ideology = centrism
-#	traits = {
-#		#
-#	}
-#}
-
-
-}
-
-
-1939.1.1 = {
-	set_politics = {
-
-	parties = {
-		democratic = { 
-			popularity = 27
-		}
-
-		fascism = {
-			popularity = 8
-		}
-		
-		communism = {
-			popularity = 15
-			#banned = no #default is no
-		}
-		
-		neutrality = { 
-			popularity = 60
-		}
-	}
-	
-	ruling_party = neutrality
-	last_election = "1936.1.1"
-	election_frequency = 48
-	elections_allowed = yes
-}
-
