@@ -7,3 +7,5 @@ tags={
 	"Technologies"
 }
 supported_version="1.6.2"
+
+replace_path = "common/bookmarks"
