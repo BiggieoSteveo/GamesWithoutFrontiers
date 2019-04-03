@@ -420,7 +420,7 @@ guiTypes = {
 		}
 		iconType = {
 			name = "leader"
-			position = { x = 18 y = 58 }
+			position = { x = 18 y = 62 }
 			spriteType = "GFX_leader_unknown"
 		}
 		
@@ -433,7 +433,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "leader_name"
-			position = { x = 18 y = 271 }
+			position = { x = 18 y = 278 }
 			font = "hoi_18mbs"
 			text = "leader_name"
 			maxWidth = 155
