@@ -1,0 +1,33 @@
+
+state={
+	id=788
+	name="STATE_788"
+	manpower = 2845317
+	
+	state_category = enclave
+
+	history={
+		owner = SKK
+		
+		victory_points = {
+			4435 20
+		}
+		buildings = {
+			infrastructure = 7
+			air_base = 3
+			4435 = {
+			bunker = 8
+			}
+			arms_factory = 8
+			industrial_complex = 13
+			rocket_site = 5
+			radar_station = 4
+			anti_air_building = 6
+		}
+		add_core_of = SKK
+	}
+
+	provinces={
+		4435
+	}
+}
