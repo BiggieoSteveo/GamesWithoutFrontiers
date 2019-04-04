@@ -221,7 +221,7 @@ spriteTypes = {
                 name = "GFX_bookmark_entry_bg"
                 texturefile = "gfx/interface/bookmark_entry_bg.dds"
                 noOfFrames = 2
-                effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
+               # effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
         }
 	
 	spriteType = {
@@ -236,7 +236,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_select_date_1939"
-		texturefile = "gfx/interface/select_date_1939.dds"
+		texturefile = "gfx/interface/select_date_2072.dds"
+	}
+	spriteType = {
+		name = "GFX_select_date_2080"
+		texturefile = "gfx/interface/select_date_2080.dds"
 	}
 	
 	spriteType = {

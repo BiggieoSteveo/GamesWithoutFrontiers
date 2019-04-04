@@ -3,7 +3,7 @@ bookmarks = {
 		name = "FOLDED_FLAGS_NAME"
 		desc = "FOLDED_FLAGS_DESC"
 		date = 2080.1.1.1
-		picture = "GFX_select_date_1939"
+		picture = "GFX_select_date_2080"
 		default_country = "GER"
 	
 		FRA = {
