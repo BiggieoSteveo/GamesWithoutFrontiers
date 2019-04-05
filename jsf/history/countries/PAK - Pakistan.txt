@@ -1,63 +1,164 @@
-﻿capital = 440
+capital = 440
+
 
 set_politics = {
 
 	parties = {
 		cluster = { 
-			popularity = 9 
+			popularity = 0
 		}
 
 		anarchism = { 
-			popularity = 7 
+			popularity = 0
 		}
 
 		internationalism = { 
-			popularity = 9 
+			popularity = 0
 		}
 		
 		neo-bolshevism = { 
-			popularity = 9 
+			popularity = 0
 		}
 		
 		technocracy = { 
-			popularity = 9 
+			popularity = 0
 		}
 		
 		social_liberalism = {
-			popularity = 9
+			popularity = 67
 		}
 		
 		social_conservatism = {
-			popularity = 9
+			popularity = 0
 		}
 		
 		reactionary = { 
-			popularity = 9 
+			popularity = 33
 		}
 
 		corporatist = { 
-			popularity = 7 
+			popularity = 0
 		}
 		
 		autocracy = { 
-			popularity = 9 
+			popularity = 0
 		}
 		
 		ultranationalism = { 
-			popularity = 9 
+			popularity = 0
 		}
 		
 		supremacism = { 
-			popularity = 9 
+			popularity = 0
 		}
 		
 		death_cultism = { 
-			popularity = 9 
+			popularity = 0
 		}
 	}
 	
-	ruling_party = neo-bolshevism
+	ruling_party = social_liberalism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+create_country_leader = {
+	name = "Javeed Hassan"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dude.dds"
+	expire = "4000.1.1"
+	ideology = social_liberalism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Javeed Hassan"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dude.dds"
+	expire = "4000.1.1"
+	ideology = progressivism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Javeed Hassan"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dude.dds"
+	expire = "4000.1.1"
+	ideology = internationalism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Javeed Hassan"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dude.dds"
+	expire = "4000.1.1"
+	ideology = corporatist_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Javeed Hassan"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dude.dds"
+	expire = "4000.1.1"
+	ideology = social_conservatism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Abdul Baasid Mahar"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dudetwo.dds"
+	expire = "4000.1.1"
+	ideology = reactionary_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Abdul Baasid Mahar"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dudetwo.dds"
+	expire = "4000.1.1"
+	ideology = ultranationalism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Abdul Baasid Mahar"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dudetwo.dds"
+	expire = "4000.1.1"
+	ideology = supremacism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Abdul Baasid Mahar"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dudetwo.dds"
+	expire = "4000.1.1"
+	ideology = technocracy_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Abdul Baasid Mahar"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PAK/portrait_PAK_dudetwo.dds"
+	expire = "4000.1.1"
+	ideology = autocracy_subtype
+	traits = {
+		
+	}
 }
