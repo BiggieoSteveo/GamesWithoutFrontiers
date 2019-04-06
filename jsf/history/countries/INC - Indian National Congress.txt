@@ -1,0 +1,103 @@
+capital = 443
+
+set_politics = {
+
+	parties = {
+		cluster = { 
+			popularity = 0
+		}
+
+		anarchism = { 
+			popularity = 0
+		}
+
+		internationalism = { 
+			popularity = 0
+		}
+		
+		neo-bolshevism = { 
+			popularity = 0
+		}
+		
+		technocracy = { 
+			popularity = 0
+		}
+
+		progressivism = {
+		popularity = 20
+		}
+
+		social_liberalism = {
+			popularity = 60
+		}
+		
+		social_conservatism = {
+			popularity = 10
+		}
+		
+		reactionary = { 
+			popularity = 0
+		}
+
+		corporatist = { 
+			popularity = 0
+		}
+		
+		autocracy = { 
+			popularity = 0
+		}
+		
+		ultranationalism = { 
+			popularity = 0 
+		}
+		
+		supremacism = { 
+			popularity = 0
+		}
+		
+		death_cultism = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = social_liberalism
+	last_election = "4000.11.14"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_stability = 0.37
+set_war_support = 0.72
+create_country_leader = {
+	name = "Swarup Gandhi"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/INC/portrait_INC_swarup_gandhi.dds"
+	expire = "4000.1.1"
+	ideology = social_liberalism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Swarup Gandhi"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/INC/portrait_INC_swarup_gandhi.dds"
+	expire = "4000.1.1"
+	ideology = progressivism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Swarup Gandhi"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/INC/portrait_INC_swarup_gandhi.dds"
+	expire = "4000.1.1"
+	ideology = social_conservatism_subtype
+	traits = {
+		
+	}
+}
+set_technology = {
+	radio_detection = 1 
+	experimental_rockets = 1 
+}

@@ -639,6 +639,8 @@ NGraphics = {
 	STRATEGIC_NAVY_COLOR_GOOD = {0, 0.8, 0, 1}, -- zones has missions with good suppremacy
 	STRATEGIC_NAVY_COLOR_AVERAGE = {0.8, 0.8, 0, 1}, -- zones has missions with average suppremacy
 	
+	STRATEGIC_NAVY_NO_TASKFORCES_ASSIGNED = {0.9, 0.3, 0.3, 1},  -- zones has fleets assigned to them but no no taskforce can reach it or not enough taskforce to cover that region
+	
 	STRATEGIC_NAVY_COLOR_BAD_WHILE_HIGHLIGHTING_HOLD = {0.7, 0.0, 0.40, 0.5}, 	-- zones has missions with bad suppremacy on highlighted regions with a hold mission selected
 	STRATEGIC_NAVY_COLOR_GOOD_WHILE_HIGHLIGHTING_HOLD = {0, 0.6, 0.5, 1},		-- zones has missions with good suppremacy on highlighted regions with a hold mission selected
 	STRATEGIC_NAVY_COLOR_AVERAGE_WHILE_HIGHLIGHTING_HOLD = {0.5, 0.5, 0.6, 1},	-- zones has missions with average suppremacy on highlighted regions with a hold mission selected
@@ -751,10 +753,10 @@ NGraphics = {
 	HDR_ADJUSTMENT_SPEED = 15.0, -- 6
 	TONE_MAP_MIDDLE_GREY = 0.5, --0.7
 	TONE_MAP_LUMINANCE_WHITE = 1.0, --
-	MOON_HEIGHT = 400, -- higher means softer shadows and more intense light
-	SUN_HEIGHT  = 100, -- higher means softer shadows and more intense light
-	MOON_HEIGHT_WATER = 250,   -- higher means softer shadows and more intense light
-	SUN_HEIGHT_WATER  = 1500,  -- higher means softer shadows and more intense light
+	MOON_HEIGHT = 600, -- higher means softer shadows and more intense light
+	SUN_HEIGHT  = 600, -- higher means softer shadows and more intense light
+	MOON_HEIGHT_WATER = 550,   -- higher means softer shadows and more intense light
+	SUN_HEIGHT_WATER  = 5000,  -- higher means softer shadows and more intense light
 	MOON_LATITUDE = 0, -- NOT USED
 	SUN_LATITUDE  = 848,
 	SECOND_MOON_LATITUDE = 100, -- Used to put a "fake" sun/moon on the other side of the globe to hide the seem that would otherwise appear there
@@ -769,7 +771,7 @@ NGraphics = {
 	AMBIENT_LIGHT_NEG_Z = { 0.55, 0.1, 0.9 }, -- bottom
 
 	SUN_DIFFUSE_COLOR   = {0.14, 0.0, 1.0},
-	SUN_INTENSITY 		= 0.9; -- 0.4
+	SUN_INTENSITY 		= 1.0; -- 0.4
 	MOON_DIFFUSE_COLOR  = {0.58, 0.5, 1.0},
 	MOON_INTENSITY 		= 2.5;
 
@@ -953,6 +955,20 @@ NInterface = {
 	PRODUCTION_SHIP_FILTERS_ROLE_SELECTION_WINDOW_OFFSET_Y = -8,
 
 	SHIP_FUEL_EFFICIENCY_WARNING_THRESHOLD = 60.0,			-- Fuel usage threshold above which a ship is considered fuel inefficient for always on missions
+
+	NAVAL_STRIKE_FORCE_ATTACK_LIKELYHOOD_THR_VERY_LIKELY = 0.8,	-- threshold above which to show that a strike force is "very likely" to engage an enemy
+	NAVAL_STRIKE_FORCE_ATTACK_LIKELYHOOD_THR_LIKELY = 0.6,		-- same, for "likely"
+	NAVAL_STRIKE_FORCE_ATTACK_LIKELYHOOD_THR_UNLIKELY = 0.3,	-- same, for "unlikely"
+
+	CONVOY_ESCORT_PRESENCE_WARNING_THRESHOLD = 0.95,		-- Value for the Escort Presence below which a warning will be shown on the naval mission map icon
+
+	MISSION_PATROL_SOFT_REQ_THRESHOLD_SURFACE_DETECTION = 22,	-- Value below which the mission icon for the patrol mission is showing a warning
+	MISSION_PATROL_SOFT_REQ_THRESHOLD_SPEED = 30,			-- (kph) Same, but for Speed of the task force
+	MISSION_PATROL_SOFT_REQ_THRESHOLD_SURFACE_VISIBILITY = 1.4,	-- Same, but for the surface visibility of the task force (lower means more fit for the mission for this one)
+	MISSION_CONVOY_ESCORT_SOFT_REQ_THRESHOLD_SUB_DETECTION = 2,	-- Same, for convoy escort
+	MISSION_CONVOY_ESCORT_SOFT_REQ_THRESHOLD_DEPTH_CHARGES_AVG = 8,	-- Average of the stat Depth Charges in the task force
+	MISSION_CONVOY_ESCORT_SOFT_REQ_THRESHOLD_DEPTH_CHARGES_SUM = 8,	-- Sum of the stat Depth Charges in the task force
+	MISSION_NAVAL_INVASION_SUPPORT_SOFT_REQ_THRESHOLD_SHORE_BOMBARDMENT = 3,	-- Same, for naval invasion. Sum of the stat Shore Bombardment in the task force
 },
 
 

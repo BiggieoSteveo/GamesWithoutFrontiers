@@ -127,7 +127,7 @@ CHL = {
 
 ARG = {
 	color = rgb { 79 142 183 }
-	color_ui = rgb { 138 155 116 }
+	color_ui = rgb { 79 142 183 }
 }
 
 JAM = {
@@ -141,8 +141,8 @@ URG = {
 }
 
 SAF = {
-	color = rgb { 180 116 26 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 225 140 47 }
+	color_ui = rgb { 225 140 47 }
 }
 
 BOT = {
@@ -151,8 +151,8 @@ BOT = {
 }
 
 ZIM = {
-	color = rgb { 103 123 131 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 52 99 54 }
+	color_ui = rgb { 52 99 54 }
 }
 
 MZB = {
@@ -181,8 +181,8 @@ COG = {
 }
 
 RCG = {
-	color = rgb { 79 118 64 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 130 0 0 }
+	color_ui = rgb { 191 0 0 }
 }
 
 
@@ -273,13 +273,13 @@ TOG = {
 }
 
 GHA = {
-	color = rgb { 201 170 166 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 135 32 32 }
+	color_ui = rgb { 135 32 32 }
 }
 
 IVO = {
-	color = rgb { 135 32 32 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 230 138 0 }
+	color_ui = rgb { 230 138 0 }
 }
 
 VOL = {
@@ -708,8 +708,8 @@ KOR = {
 }
 
 JAP = {
-	color = rgb { 222 148 178 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 231 220 227 }
+	color_ui = rgb { 231 220 227 }
 }
 
 MAL = {
@@ -768,8 +768,8 @@ IRI = {
 }
 
 JKA = {
-	color = rgb { 100 61 112 }
-	color_ui = rgb { 100 61 112 }
+	color = rgb { 147 156 202 }
+	color_ui = rgb { 147 156 202 }
 }
 
 TAM = {
@@ -778,11 +778,20 @@ TAM = {
 }
 
 RAJ = {
-	color = rgb { 183 79 35 }
-	color_ui = rgb { 183 79 35 }
+	color = rgb { 219 111 64 }
+	color_ui = rgb { 219 111 64 }
 }
 
 FOR = {
 	color = rgb { 144 41 150 }
 	color_ui = rgb { 144 41 150 }
 }
+INC = {
+	color = rgb { 177 31 46 }
+	color_ui = rgb { 177 31 46 }
+}
+SKK = {
+	color = rgb { 5 39 92 }
+	color_ui = rgb { 5 39 92 }
+}
+

@@ -1,0 +1,33 @@
+state=
+{
+	id=789
+	name="STATE_800"
+	manpower = 1784635
+	
+	state_category = metropolis
+
+	resources={
+		rubber=60 # was: 116
+	}
+
+	history={
+		add_core_of = SRL
+		owner = SRL
+		victory_points = {
+			7260 20
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 2
+			7260 = {
+				naval_base = 3
+				coastal_bunker = 3
+			}
+		}
+
+	}
+	provinces={
+		7260
+	}
+}

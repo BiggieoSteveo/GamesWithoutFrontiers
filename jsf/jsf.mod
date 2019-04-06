@@ -1,11 +1,12 @@
-﻿name="JSF"
+name="JSF"
 path="mod/jsf/"
+replace_path = "common/bookmarks" 
 tags={
 	"Alternative History"
-	"Technologies"
-	"Events"
 	"National Focuses"
+	"Ideologies"
+	"Technologies"
 }
-supported_version="1.6.1"
+supported_version="1.6.2"
 
-replace_path = "common/ideas"
+replace_path = "common/bookmarks"

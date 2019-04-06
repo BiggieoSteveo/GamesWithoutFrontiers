@@ -7,7 +7,7 @@ state={
 	state_category = city
 	
 	history={
-		owner = IRI
+		owner = INC
 		add_core_of = RAJ
 		add_core_of = IRI
 		add_core_of = DCI

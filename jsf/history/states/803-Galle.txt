@@ -1,0 +1,33 @@
+state=
+{
+	id=792
+	name="STATE_803"
+	manpower = 1862068
+	
+	state_category = large_city
+
+	resources={
+		 # was: 116
+	}
+
+	history={
+		add_core_of = SRL
+		owner = SRL
+		victory_points = {
+			4219 5
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+			4219 = {
+				naval_base = 1
+				coastal_bunker = 2
+			}
+		}
+
+	}
+	provinces={
+		4219
+	}
+}

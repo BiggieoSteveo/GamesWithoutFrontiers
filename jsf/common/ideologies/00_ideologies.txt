@@ -14,7 +14,7 @@ ideologies = {
 			"FACTION_NAME_VANGUARDIST_5"
 			"FACTION_NAME_VANGUARDIST_6"
 		}
-		color = { 102 0 0 }
+		color = { 79 0 0 }
 		rules = {
 			can_force_government = no
 			can_puppet = no
@@ -28,6 +28,39 @@ ideologies = {
 		}
 		ai_neutral = yes			
 		can_be_boosted = no
+	}
+	
+	anarchism = {
+		types = {
+			anarchism_subtype = {}
+			anarcho-primitivism = {}
+			anarcha-feminism = {}
+			anarcho-naturism = {}
+			}
+		dynamic_faction_names = {
+			"FACTION_NAME_collectivist_1"
+			"FACTION_NAME_collectivist_2"
+			"FACTION_NAME_collectivist_3"
+			"FACTION_NAME_collectivist_4"
+			"FACTION_NAME_collectivist_5"
+			"FACTION_NAME_collectivist_6"
+		}
+		color = { 105 0 0 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}		
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.25
+			ai_get_ally_desire_factor = -500
+			production_speed_buildings_factor = 0.05
+		}
+		ai_neutral = yes	
+		can_be_boosted = no
+
 	}
 	
 	internationalism = {
@@ -253,6 +286,35 @@ ideologies = {
 		ai_neutral = yes		
 		can_be_boosted = no
 	}
+
+	corporatist = {
+		types = {
+			corporatist_subtype = {}
+			plutocracy = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_CORPORATIST_1"
+			"FACTION_NAME_CORPORATIST_2"
+			"FACTION_NAME_CORPORATIST_3"
+			"FACTION_NAME_CORPORATIST_4"
+			"FACTION_NAME_CORPORATIST_5"
+			"FACTION_NAME_CORPORATIST_6"
+		}
+		color = { 234 175 0 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.75
+			industrial_capacity_factory = 0.05
+		}
+		ai_neutral = yes		
+		can_be_boosted = no
+	}
 	
 	autocracy = {
 		types = {
@@ -319,7 +381,7 @@ ideologies = {
 
 	supremacism = {
 		types = {
-		valkist_subtype = {}
+		supremacism_subtype = {}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_VALKIST_1"
@@ -347,7 +409,7 @@ ideologies = {
 
 	death_cultism = {
 		types = {
-		valkist_subtype = {}
+		death_cultism_subtype = {}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_VALKIST_1"
