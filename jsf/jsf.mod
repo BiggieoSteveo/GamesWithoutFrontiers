@@ -1,5 +1,5 @@
 name="JSF"
-path="mod/jsf/"
+path="mod/jsf/jsf"
 replace_path = "common/bookmarks" 
 tags={
 	"Alternative History"

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ AFG_cluster:0 "Cluster Empire"
+ AFG_cluster_DEF:0 "The Cluster Empire"
+ AFG_cluster_ADJ:0 "Cluster"
+ AFG_internationalism:0 "People's Republic of Afghanistan"
+ AFG_internationalism_ADJ:0 "Afghan"
+ AFG_neo-bolshevism:0 "People's Republic of Afghanistan"
+ AFG_neo-bolshevism_ADJ:0 "Afghan"
+ AFG_technocrat:0 "Afghanistan"
+ AFG_technocrat_ADJ:0 "Afghan"
+ AFG_social_liberal:0 "Afghanistan"
+ AFG_social_liberal_ADJ:0 "Afghan"
+ AFG_social_conservative:0 "Afghanistan"
+ AFG_social_conservative_ADJ:0 "Afghan"
+ AFG_reactionary:0 "Afghanistan"
+ AFG_reactionary_ADJ:0 "Afghan"
+ AFG_corporatist:0 "Afghanistan"
+ AFG_corporatist_ADJ:0 "Afghan"
+ AFG_autocracy:0 "Afghanistan"
+ AFG_autocracy_ADJ:0 "Afghan"
+ AFG_ultranationalist:0 "Afghanistan"
+ AFG_ultranationalist_ADJ:0 "Afghan"
+ AFG_supremacist:0 "Afghanistan"
+ AFG_supremacist_ADJ:0 "Afghan"
+ AFG_death_cult:0 "Death Cult Afghanistan"
+ AFG_death_cult_ADJ:0 "Afghan"
+ 
+ ###Political Parties###
