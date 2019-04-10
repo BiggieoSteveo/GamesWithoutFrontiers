@@ -417,23 +417,73 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_neutrality_group"
-		texturefile = "gfx/interface/ideologies/neutrality_group.dds"
+		name = "GFX_ideology_cluster_group"
+		texturefile = "gfx/interface/ideologies/cluster_group.dds"
 	}	
 	
 	spriteType = {
-		name = "GFX_ideology_communism_group"
+		name = "GFX_ideology_anarchism_group"
 		texturefile = "gfx/interface/ideologies/communism_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_fascism_group"
-		texturefile = "gfx/interface/ideologies/fascism_group.dds"
+		name = "GFX_ideology_internationalism_group"
+		texturefile = "gfx/interface/ideologies/internationalism_group.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_democratic_group"
-		texturefile = "gfx/interface/ideologies/democratic_group.dds"
+		name = "GFX_ideology_neo-bolshevism_group"
+		texturefile = "gfx/interface/ideologies/neo-bolshevism_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_technocracy_group"
+		texturefile = "gfx/interface/ideologies/technocrat_group.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_ideology_progressivism_group"
+		texturefile = "gfx/interface/ideologies/communism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_social_liberalism_group"
+		texturefile = "gfx/interface/ideologies/social_liberal_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_social_conservatism_group"
+		texturefile = "gfx/interface/ideologies/social_conservative_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_reactionary_group"
+		texturefile = "gfx/interface/ideologies/reactionary_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_corporatist_group"
+		texturefile = "gfx/interface/ideologies/corporatist_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_autocracy_group"
+		texturefile = "gfx/interface/ideologies/autocracy_group.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_ideology_ultranationalism_group"
+		texturefile = "gfx/interface/ideologies/ultranationalist_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_supremacism_group"
+		texturefile = "gfx/interface/ideologies/supremacist_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_death_cultism_group"
+		texturefile = "gfx/interface/ideologies/death_cult_group.dds"
 	}
 	
 	spriteType = {
@@ -552,7 +602,7 @@ spriteTypes = {
 	
 	pieChartType = {
 		name = "GFX_political_chart"
-		size = 53
+		size = 58
 	}
 	
 	pieChartType = {
