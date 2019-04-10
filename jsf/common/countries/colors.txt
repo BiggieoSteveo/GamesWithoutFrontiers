@@ -794,4 +794,7 @@ SKK = {
 	color = rgb { 5 39 92 }
 	color_ui = rgb { 5 39 92 }
 }
-
+GRL = {
+	color = rgb { 242 138 149 }
+	color_ui = rgb { 242 138 149 }
+}	
