@@ -6,7 +6,7 @@ set_politics = {
 
 	parties = {
 		cluster = { 
-			popularity = 9 
+			popularity = 0
 		}
 
 		anarchism = { 
@@ -14,47 +14,47 @@ set_politics = {
 		}
 
 		internationalism = { 
-			popularity = 9 
+			popularity = 2 
 		}
 		
 		neo-bolshevism = { 
-			popularity = 9 
+			popularity = 15 
 		}
 		
 		technocracy = { 
-			popularity = 9 
+			popularity = 5
 		}
 		
 		social_liberalism = {
-			popularity = 9
+			popularity = 15
 		}
 		
 		social_conservatism = {
-			popularity = 9
+			popularity = 5
 		}
 		
 		reactionary = { 
-			popularity = 9 
+			popularity = 35
 		}
 
 		corporatist = { 
-			popularity = 7 
+			popularity = 2
 		}
 		
 		autocracy = { 
-			popularity = 9 
+			popularity = 5
 		}
 		
 		ultranationalism = { 
-			popularity = 9 
+			popularity = 5
 		}
 		
 		supremacism = { 
-			popularity = 9 
+			popularity = 5
 		}
 		
 		death_cultism = { 
-			popularity = 9 
+			popularity = 0
 		}
 	}
 	
@@ -62,4 +62,13 @@ set_politics = {
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Omar Abd-Aziz"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Afghanistan_Omar_Abd_Aziz.dds"
+	expire = "1965.1.1"
+	ideology = neo-bolshevist_subtype
+	traits = {}
 }

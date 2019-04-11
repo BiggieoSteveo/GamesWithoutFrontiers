@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ PER_cluster:0 "Cluster Empire"
+ PER_cluster_DEF:0 "The Cluster Empire"
+ PER_cluster_ADJ:0 "Cluster"
+ PER_internationalism:0 "People's Republic of Iran"
+ PER_internationalism_ADJ:0 "Iranian"
+ PER_neo-bolshevism:0 "People's Republic of Iran"
+ PER_neo-bolshevism_ADJ:0 "Iranian"
+ PER_technocrat:0 "Iran"
+ PER_technocrat_ADJ:0 "Iranian"
+ PER_social_liberal:0 "Iran"
+ PER_social_liberal_ADJ:0 "Iranian"
+ PER_social_conservative:0 "Iran"
+ PER_social_conservative_ADJ:0 "Iranian"
+ PER_reactionary:0 "Iran"
+ PER_reactionary_ADJ:0 "Iranian"
+ PER_corporatist:0 "Iran"
+ PER_corporatist_ADJ:0 "Iranian"
+ PER_autocracy:0 "Iran"
+ PER_autocracy_ADJ:0 "Iranian"
+ PER_ultranationalist:0 "Iran"
+ PER_ultranationalist_ADJ:0 "Iranian"
+ PER_supremacist:0 "Iran"
+ PER_supremacist_ADJ:0 "Iranian"
+ PER_death_cult:0 "Death Cult Iran"
+ PER_death_cult_ADJ:0 "Iranian"
+
+ ###Political Parties###

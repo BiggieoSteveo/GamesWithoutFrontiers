@@ -1,0 +1,27 @@
+state=
+{
+	id=796
+	name="Anuradhapura"
+	manpower = 1099347
+	
+	state_category = large_city
+
+	resources={
+		 # was: 116
+	}
+
+	history={
+		add_core_of = SRL
+		owner = SRL
+		victory_points = {
+			10287 5
+		}
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+	provinces={
+		10287
+	}
+}
