@@ -1,0 +1,73 @@
+capital = 438
+
+set_politics = {
+
+	parties = {
+		cluster = { 
+			popularity = 0
+		}
+
+		anarchism = { 
+			popularity = 0
+		}
+
+		internationalism = { 
+			popularity = 0
+		}
+		
+		neo-bolshevism = { 
+			popularity = 0
+		}
+		
+		technocracy = { 
+			popularity = 0
+		}
+		
+		social_liberalism = {
+			popularity = 0
+		}
+		
+		social_conservatism = {
+			popularity = 0
+		}
+		
+		reactionary = { 
+			popularity = 0
+		}
+
+		corporatist = { 
+			popularity = 0
+		}
+		
+		autocracy = { 
+			popularity = 0
+		}
+		
+		ultranationalism = { 
+			popularity = 0
+		}
+		
+		supremacism = { 
+			popularity = 0
+		}
+		
+		death_cultism = { 
+			popularity = 100
+		}
+	}
+	
+	ruling_party = death_cultism
+	last_election = "4000.11.14"
+	election_frequency = 48
+	elections_allowed = no
+}
+create_country_leader = {
+	name = "Father Death"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/DCI/portrait_DCI_death.dds"
+	expire = "4000.1.1"
+	ideology = death_cultism_subtype
+	traits = {
+		
+	}
+}

@@ -1,0 +1,88 @@
+capital = 443
+
+set_politics = {
+
+	parties = {
+		cluster = { 
+			popularity = 0
+		}
+
+		anarchism = { 
+			popularity = 0 
+		}
+
+		internationalism = { 
+			popularity = 0
+		}
+		
+		neo-bolshevism = { 
+			popularity = 0
+		}
+		
+		technocracy = { 
+			popularity = 0
+		}
+		
+		social_liberalism = {
+			popularity = 40
+		}
+		
+		progressivism = {
+		popularity = 60
+		}
+
+		social_conservatism = {
+			popularity = 0
+		}
+		
+		reactionary = { 
+			popularity = 0
+		}
+
+		corporatist = { 
+			popularity = 0
+		}
+		
+		autocracy = { 
+			popularity = 0
+		}
+		
+		ultranationalism = { 
+			popularity = 0
+		}
+		
+		supremacism = { 
+			popularity = 0
+		}
+		
+		death_cultism = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = progressivism
+	last_election = "1935.11.14"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Enver Awan"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/JKA/portrait_JKA_jeb_bush.dds"
+	expire = "4000.1.1"
+	ideology = progressivism_subtype
+	traits = {
+		
+	}
+}
+create_country_leader = {
+	name = "Abdul Majid Sulemani"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/JKA/portrait_JKA_jeb_bush.dds"
+	expire = "4000.1.1"
+	ideology = social_liberalism_subtype
+	traits = {
+		
+	}
+}
