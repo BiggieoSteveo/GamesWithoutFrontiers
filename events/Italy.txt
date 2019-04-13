@@ -1,0 +1,37 @@
+﻿add_namespace = italy
+
+country_event = {
+	id = italy.1
+	title = italy.1.t
+	desc = italy.1.d
+	picture = italy_president_ded
+	
+	is_triggered_only = yes
+	
+	option = {    
+		name = italy.1.o1
+		hidden_effect = {
+		    ITA = {
+		        country_event = { days = 10 id = italy.2 } 
+		    }
+
+			create_country_leader = {
+	        name = "Provisional Council"
+	        desc = ""
+	        picture = ".dds"
+	        ideology = authoritarian_democracy
+	   		}
+			add_political_power = -200
+			add_stability = -0.05
+			every_country = {
+		    limit = {
+			    NOT = {
+				    tag = ITA
+				}
+		    }
+		}
+	}
+}
+		}
+	}
+}
