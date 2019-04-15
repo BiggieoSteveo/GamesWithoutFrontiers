@@ -4,69 +4,60 @@ set_politics = {
 
 	parties = {
 		cluster = { 
-			popularity = 0 
+			popularity = 9 
 		}
 
 		anarchism = { 
-			popularity = 0 
+			popularity = 7 
 		}
 
 		internationalism = { 
-			popularity = 10 
+			popularity = 9 
 		}
 		
 		neo-bolshevism = { 
-			popularity = 10 
+			popularity = 9 
 		}
 		
 		technocracy = { 
-			popularity = 10 
+			popularity = 9 
 		}
 		
 		social_liberalism = {
-			popularity = 20
+			popularity = 9
 		}
 		
 		social_conservatism = {
-			popularity = 15
+			popularity = 9
 		}
 		
 		reactionary = { 
-			popularity = 25 
+			popularity = 9 
 		}
 
 		corporatist = { 
-			popularity = 0
+			popularity = 7 
 		}
 		
 		autocracy = { 
-			popularity = 0
+			popularity = 9 
 		}
 		
 		ultranationalism = { 
-			popularity = 5 
+			popularity = 9 
 		}
 		
 		supremacism = { 
-			popularity = 0 
+			popularity = 9 
 		}
 		
 		death_cultism = { 
-			popularity = 0
+			popularity = 9 
 		}
 	}
 	
-	ruling_party = reactionary
+	ruling_party = neo-bolshevism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Amatore Pieretti"
-	desc = "POLITICS_KING_ZOG_DESC"
-	picture = ".dds"
-	expire = "1965.1.1"
-	ideology = authoritarian_democracy
-	traits = { }
 }
