@@ -1,0 +1,18 @@
+state={
+	id=799
+	name="STATE_799"
+	state_category = rural
+
+	history = {
+		owner = BIA
+		add_core_of = BIA
+		add_core_of = NGA
+	}
+
+	provinces={
+		10831 13225 13227 13228 13230 13231 13232 13233 13234 13243 13244 13246 
+	}
+
+	manpower=532818
+	buildings_max_level_factor=1.000
+}
