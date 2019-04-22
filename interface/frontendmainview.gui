@@ -95,7 +95,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "sp_continue_button"
-			position = { x = 773 y = 410 }
+			position = { x = 825 y = 410 }
 			spriteType ="GFX_continue_button"	
 			buttonText = ""
 			buttonFont = "hoi_24header"
@@ -105,7 +105,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "sp_new_button"
-			position = { x = 795 y = 500 }
+			position = { x = 800 y = 500 }
 			spriteType = "GFX_new_button"	
 			buttonText = ""
 			buttonFont = "hoi_24header"
@@ -115,7 +115,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "sp_load_button"
-			position = { x = 863 y = 593 }
+			position = { x = 867 y = 593 }
 			spriteType ="GFX_load_button"	
 			buttonText = ""
 			buttonFont = "hoi_24header"
@@ -125,7 +125,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "sp_back_button"
-			position = { x = 860 y = 693 }
+			position = { x = 864 y = 693 }
 			spriteType ="GFX_back_button"	
 			buttonText = ""
 			buttonFont = "hoi_24header"
