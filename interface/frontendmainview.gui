@@ -68,7 +68,7 @@ guiTypes = {
 		{
 			name ="frontend_dev_logo"
 			spriteType = "GFX_frontend_dev_logo"
-			position = { x= -120 y = 70 }
+			position = { x= 70 y = 70 }
 		}
 		
 		iconType =
