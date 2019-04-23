@@ -1,5 +1,5 @@
 ﻿name="JSF"
-path="mod/jsf/"
+path="mod/GamesWithoutFrontiers/"
 replace_path = "common/bookmarks" 
 tags={
 	"Alternative History"
