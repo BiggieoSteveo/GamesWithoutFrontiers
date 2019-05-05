@@ -1,0 +1,6 @@
+﻿l_english:
+ ##NEWS EVENTS##
+ #Startup news event
+ static_OBAMA_news.1.t:0 "Jeux Sans Frontiere | Dev Build - Introduction"
+ static_OBAMA_news.1.d:0 "This is the JSF Dev Build, all things seen are TBA"
+ static_OBAMA_news.1.a:0 "Understood."
