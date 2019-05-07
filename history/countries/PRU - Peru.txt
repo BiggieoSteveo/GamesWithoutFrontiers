@@ -63,3 +63,14 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Chairman Maroto"
+	desc = "POLITICS_RONALD_MCDONALD_DESC"
+	picture = "gfx/leaders/PRU/portrait_per_Chairman_Maroto.dds"
+	expire = "4000.1.1"
+	ideology = totalitarian_socialism
+	traits = {
+		
+	}
+}
