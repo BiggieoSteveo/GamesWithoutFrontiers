@@ -1,4 +1,4 @@
-﻿capital = 286 #Phnom Penh NOT on the map as VP!
+﻿capital = 286
 
 oob = "CAM_1936"
 
@@ -62,4 +62,13 @@ set_politics = {
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Meang Visna"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_CAM_Meang_Visna.dds"
+	expire = "4000.1.1"
+	ideology = totalitarian_socialism
+	traits = {}
 }

@@ -51,3 +51,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Goktas Aksit"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Turkey_Goktas_Aksit.dds"
+	expire = "1965.1.1"
+	ideology = social_conservatism_subtype
+	traits = {}
+}

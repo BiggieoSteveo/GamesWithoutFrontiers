@@ -51,3 +51,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Arshad Toure"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_PAL_Arshad_Toure.dds"
+	expire = "1965.1.1"
+	ideology = arab_socialism
+	traits = {}
+}
