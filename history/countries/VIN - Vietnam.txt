@@ -63,3 +63,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Phi Diep"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_VIN_Phi_Diep.dds"
+	expire = "4000.1.1"
+	ideology = agrarian_socialism
+	traits = {}
+}

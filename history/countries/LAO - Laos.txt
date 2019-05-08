@@ -1,4 +1,4 @@
-﻿capital = 670 #today Vientiane in 1945 Luang Prabang sel proclaimed indie Laos 
+﻿capital = 670
 
 oob = "LAO_1936"
 
@@ -62,4 +62,13 @@ set_politics = {
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Pekelo Siyavong"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_LAO_Pekelo_Siyavong.dds"
+	expire = "4000.1.1"
+	ideology = agrarian_socialism
+	traits = {}
 }
