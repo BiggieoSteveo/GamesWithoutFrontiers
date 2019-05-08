@@ -63,3 +63,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Rigoberto Coronil"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "portrait_dom_Rigoberto_Coronil.dds"
+	expire = "1965.1.1"
+	ideology = supremacism_subtype
+	traits = { }
+}
