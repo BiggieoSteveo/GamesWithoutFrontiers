@@ -61,3 +61,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Chosaningoma Kamusisi"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_ZAM_Chosaningoma_Kamusisi.dds"
+	expire = "1965.1.1"
+	ideology = african_socialism
+	traits = {}
+}
