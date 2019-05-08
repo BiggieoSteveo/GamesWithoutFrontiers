@@ -67,6 +67,6 @@ create_country_leader = {
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_JAM_Barrington_Sturridge.dds"
 	expire = "1965.1.1"
-	ideology = fiscal_conservative
+	ideology = fiscal_conservatism
 	traits = { }
 }
