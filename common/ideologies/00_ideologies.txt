@@ -4,7 +4,7 @@ ideologies = {
 	cluster = {
 		types = {
 		CLUSTER_subtype = {}
-		internationalist_subtype = {}
+		
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_CLUSTER_1"
@@ -67,7 +67,7 @@ ideologies = {
 	
 	internationalism = {
 		types = {
-			internationalism_subtype = {}
+			internationalist_subtype = {}
 			permanent_revolutionary_socialism = {}
 			proletarian_internationalism = {}
 			}
