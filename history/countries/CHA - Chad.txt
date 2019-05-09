@@ -61,3 +61,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Rodolphe Charbonneau"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_CHD_Rodolphe_Charbonneau.dds"
+	expire = "1965.1.1"
+	ideology = african_socialism
+	traits = { }
+}
