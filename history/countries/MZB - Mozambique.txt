@@ -63,3 +63,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Baloi Mabulu"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "portrait_MZB_Baloi_Mabulu.dds"
+	expire = "1965.1.1"
+	ideology = african_socialism
+	traits = {}
+}
