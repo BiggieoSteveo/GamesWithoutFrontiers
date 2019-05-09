@@ -61,3 +61,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Garaad Jeylaani"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_SOM_Garaad_Jeylaani.dds"
+	expire = "1965.1.1"
+	ideology = totalitarian_socialism
+	traits = { }
+}

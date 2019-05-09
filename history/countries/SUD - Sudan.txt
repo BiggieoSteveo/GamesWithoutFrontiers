@@ -56,8 +56,17 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neo-bolshevism
+	ruling_party = social_conservatism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Abdul Baatin"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "portrait_SUD_Abdul_Baatin.dds"
+	expire = "1965.1.1"
+	ideology = national_conservatism
+	traits = { }
 }
