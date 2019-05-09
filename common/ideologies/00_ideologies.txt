@@ -67,7 +67,7 @@ ideologies = {
 	
 	internationalism = {
 		types = {
-			internationalist_subtype = {}
+			internationalism_subtype = {}
 			permanent_revolutionary_socialism = {}
 			proletarian_internationalism = {}
 			}
