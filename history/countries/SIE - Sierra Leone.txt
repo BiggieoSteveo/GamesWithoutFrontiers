@@ -1,6 +1,6 @@
 ﻿capital = 700
 
-#set_politics = {
+set_politics = {
 
 	parties = {
 		cluster = { 
