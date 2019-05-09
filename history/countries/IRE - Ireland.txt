@@ -51,3 +51,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Seosamh O'Cathasaigh"
+	desc = "POLITICS_CORNELIU_ZELEA_CODREANU_DESC"
+	picture = "Portrait_Ireland_Seosamh_O_Cathasaigh.dds"
+	expire = "1965.1.1"
+	ideology = christian_democracy
+	traits = { }
+}

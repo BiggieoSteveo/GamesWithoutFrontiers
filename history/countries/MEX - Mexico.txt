@@ -24,6 +24,10 @@ set_politics = {
 		technocracy = { 
 			popularity = 9 
 		}
+
+		progressivism = {
+			popularity = 9
+		}
 		
 		social_liberalism = {
 			popularity = 9
@@ -34,7 +38,7 @@ set_politics = {
 		}
 		
 		reactionary = { 
-			popularity = 9 
+			popularity = 4
 		}
 
 		corporatist = { 
@@ -42,11 +46,11 @@ set_politics = {
 		}
 		
 		autocracy = { 
-			popularity = 9 
+			popularity = 4 
 		}
 		
 		ultranationalism = { 
-			popularity = 9 
+			popularity = 5
 		}
 		
 		supremacism = { 
@@ -54,12 +58,166 @@ set_politics = {
 		}
 		
 		death_cultism = { 
-			popularity = 9 
+			popularity = 5
 		}
 	}
 	
-	ruling_party = neo-bolshevism
+	ruling_party = technocracy
 	last_election = "1935.11.14"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Sebastián Caballo"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = gfx/leaders/MEX/Portrait_Mexico_Bernabe_Carballo.dds
+	expire = "1965.1.1"
+	ideology = robotic_democracy
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Reina Vexus"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = internationalist_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Generalissimo Zapaara Blanco"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = gfx/leaders/MEX/blanco.dds
+	expire = "1965.1.1"
+	ideology = anarcho-communism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Abram Murillo"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = proletarian_internationalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Gerardo Reyes"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = agrarian_socialism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Antonio Berganza"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = democratic_socialism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Oscar Alemán"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = libertarianism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Emmanuel Piñón"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = christian_democracy
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Arellano Ramón"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = oligarchism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Joel Mastache"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = corporatist_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Brigadier Gálvez"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Sánchez Franco"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = falangism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Alfonso Curbelo"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = supremacism_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Profeto Rasgado"
+	desc = "POLITICS_LAZARO_CARDENAS_DESC"
+	picture = tbd
+	expire = "1965.1.1"
+	ideology = death_cultism_subtype
+	traits = {
+		#
+	}
 }

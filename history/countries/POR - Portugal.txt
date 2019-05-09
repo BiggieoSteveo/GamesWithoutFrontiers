@@ -46,8 +46,17 @@ set_politics = {
 			popularity = 9 
 		}
 	}
-	ruling_party = social_liberalism
+	ruling_party = ultranationalism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Eustaquio Magalhes"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Portugal_Eustaquio_Magalhes.dds"
+	expire = "1965.1.1"
+	ideology = estado_novo
+	traits = { }
 }

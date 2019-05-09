@@ -46,8 +46,19 @@ set_politics = {
 			popularity = 9 
 		}
 	}
-	ruling_party = social_liberalism
+	ruling_party = progressivism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Althing"
+	desc = ""
+	picture = "portrait_ice_Althing.dds"
+	expire = "1965.1.1"
+	ideology = social_democracy
+	traits = {
+		#
+	}
 }
