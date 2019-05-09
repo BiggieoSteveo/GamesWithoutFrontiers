@@ -57,7 +57,6 @@ set_politics = {
 			popularity = 9 
 		}
 	}
-	
 	ruling_party = autocracy
 	last_election = "1935.11.14"
 	election_frequency = 48
@@ -72,4 +71,12 @@ create_country_leader = {
 	traits = {
 	
 	}
+
+create_country_leader = {
+	name = "Shomari Kuende"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_KEN_Shomari_Kuende.dds"
+	expire = "1965.1.1"
+	ideology = fiscal_conservatism
+	traits = { }
 }
