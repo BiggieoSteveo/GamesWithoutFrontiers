@@ -65,10 +65,10 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Aatos Nieminen"
+	name = "Omo Titopor"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Finland_Aatos_Nieminen.dds"
+	picture = "Portrait_Finland_Omo_Titopor.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
-	traits = { }
+	traits = {}
 }
