@@ -91,11 +91,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Generalissimo Rafael Marco "
+	name = "Generalissimo Zapaara Blanco"
 	desc = "POLITICS_LAZARO_CARDENAS_DESC"
-	picture = tbd
+	picture = gfx/leaders/MEX/blanco.dds
 	expire = "1965.1.1"
-	ideology = anarcho_communism
+	ideology = anarcho-communism
 	traits = {
 		#
 	}
