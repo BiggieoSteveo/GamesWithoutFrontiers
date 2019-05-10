@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SYR_cluster:0 "Cluster Empire"
+ SYR_cluster_DEF:0 "The Cluster Empire"
+ SYR_cluster_ADJ:0 "Cluster"
+ SYR_internationalism:0 "People's Republic of Syria"
+ SYR_internationalism_ADJ:0 "Syrian"
+ SYR_neo-bolshevism:0 "People's Republic of Syria"
+ SYR_neo-bolshevism_ADJ:0 "Syrian"
+ SYR_technocracy:0 "Syria"
+ SYR_technocracy_ADJ:0 "Syrian"
+ SYR_social_liberalism:0 "Syria"
+ SYR_social_liberalism_ADJ:0 "Syrian"
+ SYR_social_conservatism:0 "Syria"
+ SYR_social_conservatism_ADJ:0 "Syrian"
+ SYR_reactionary:0 "Syria"
+ SYR_reactionary_ADJ:0 "Syrian"
+ SYR_corporatist:0 "Syria"
+ SYR_corporatist_ADJ:0 "Syrian"
+ SYR_autocracy:0 "Syria"
+ SYR_autocracy_ADJ:0 "Syrian"
+ SYR_ultranationalism:0 "Syria"
+ SYR_ultranationalism_ADJ:0 "Syrian"
+ SYR_supremacism:0 "Syria"
+ SYR_supremacism_ADJ:0 "Syrian"
+ SYR_death_cultism:0 "Death Cult Syria"
+ SYR_death_cultism_ADJ:0 "Syrian"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ IRQ_cluster:0 "Cluster Empire"
+ IRQ_cluster_DEF:0 "The Cluster Empire"
+ IRQ_cluster_ADJ:0 "Cluster"
+ IRQ_internationalism:0 "People's Republic of Iraq"
+ IRQ_internationalism_ADJ:0 "Iraqi"
+ IRQ_neo-bolshevism:0 "People's Republic of Iraq"
+ IRQ_neo-bolshevism_ADJ:0 "Iraqi"
+ IRQ_technocracy:0 "Iraq"
+ IRQ_technocracy_ADJ:0 "Iraqi"
+ IRQ_social_liberalism:0 "Iraq"
+ IRQ_social_liberalism_ADJ:0 "Iraqi"
+ IRQ_social_conservatism:0 "Iraq"
+ IRQ_social_conservatism_ADJ:0 "Iraqi"
+ IRQ_reactionary:0 "Iraq"
+ IRQ_reactionary_ADJ:0 "Iraqi"
+ IRQ_corporatist:0 "Iraq"
+ IRQ_corporatist_ADJ:0 "Iraqi"
+ IRQ_autocracy:0 "Iraq"
+ IRQ_autocracy_ADJ:0 "Iraqi"
+ IRQ_ultranationalism:0 "Iraq"
+ IRQ_ultranationalism_ADJ:0 "Iraqi"
+ IRQ_supremacism:0 "Iraq"
+ IRQ_supremacism_ADJ:0 "Iraqi"
+ IRQ_death_cultism:0 "Death Cult Iraq"
+ IRQ_death_cultism_ADJ:0 "Iraqi"
+ 
+ ###Political Parties###

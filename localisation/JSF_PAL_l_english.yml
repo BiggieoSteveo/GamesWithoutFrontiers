@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ PAL_cluster:0 "Cluster Empire"
+ PAL_cluster_DEF:0 "The Cluster Empire"
+ PAL_cluster_ADJ:0 "Cluster"
+ PAL_internationalism:0 "People's Republic of Palestine"
+ PAL_internationalism_ADJ:0 "Palestinian"
+ PAL_neo-bolshevism:0 "People's Republic of Palestine"
+ PAL_neo-bolshevism_ADJ:0 "Palestinian"
+ PAL_technocracy:0 "Palestine"
+ PAL_technocracy_ADJ:0 "Palestinian"
+ PAL_social_liberalism:0 "Palestine"
+ PAL_social_liberalism_ADJ:0 "Palestinian"
+ PAL_social_conservatism:0 "Palestine"
+ PAL_social_conservatism_ADJ:0 "Palestinian"
+ PAL_reactionary:0 "Palestine"
+ PAL_reactionary_ADJ:0 "Palestinian"
+ PAL_corporatist:0 "Palestine"
+ PAL_corporatist_ADJ:0 "Palestinian"
+ PAL_autocracy:0 "Palestine"
+ PAL_autocracy_ADJ:0 "Palestinian"
+ PAL_ultranationalism:0 "Palestine"
+ PAL_ultranationalism_ADJ:0 "Palestinian"
+ PAL_supremacism:0 "Palestine"
+ PAL_supremacism_ADJ:0 "Palestinian"
+ PAL_death_cultism:0 "Death Cult Palestine"
+ PAL_death_cultism_ADJ:0 "Palestinian"
+ 
+ ###Political Parties###
