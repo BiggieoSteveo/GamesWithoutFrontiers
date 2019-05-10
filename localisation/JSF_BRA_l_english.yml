@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ BRA_cluster:0 "Cluster Empire"
+ BRA_cluster_DEF:0 "The Cluster Empire"
+ BRA_cluster_ADJ:0 "Cluster"
+ BRA_internationalism:0 "People's Republic of Brazil"
+ BRA_internationalism_ADJ:0 "Brazilian"
+ BRA_neo-bolshevism:0 "People's Republic of Brazil"
+ BRA_neo-bolshevism_ADJ:0 "Brazilian"
+ BRA_technocracy:0 "Brazil"
+ BRA_technocracy_ADJ:0 "Brazilian"
+ BRA_social_liberalism:0 "Brazil"
+ BRA_social_liberalism_ADJ:0 "Brazilian"
+ BRA_social_conservatism:0 "Brazil"
+ BRA_social_conservatism_ADJ:0 "Brazilian"
+ BRA_reactionary:0 "Brazil"
+ BRA_reactionary_ADJ:0 "Brazilian"
+ BRA_corporatist:0 "Brazil"
+ BRA_corporatist_ADJ:0 "Brazilian"
+ BRA_autocracy:0 "Integralist Brazil"
+ BRA_autocracy_ADJ:0 "Brazilian"
+ BRA_ultranationalism:0 "Brazil"
+ BRA_ultranationalism_ADJ:0 "Brazilian"
+ BRA_supremacism:0 "Brazil"
+ BRA_supremacism_ADJ:0 "Brazilian"
+ BRA_death_cultism:0 "Death Cult Brazil"
+ BRA_death_cultism_ADJ:0 "Brazilian"
+ 
+ ###Political Parties###

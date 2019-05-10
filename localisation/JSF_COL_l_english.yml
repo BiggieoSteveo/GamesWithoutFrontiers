@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ COL_cluster:0 "Cluster Empire"
+ COL_cluster_DEF:0 "The Cluster Empire"
+ COL_cluster_ADJ:0 "Cluster"
+ COL_internationalism:0 "People's Republic of Colombia"
+ COL_internationalism_ADJ:0 "Colombian"
+ COL_neo-bolshevism:0 "People's Republic of Colombia"
+ COL_neo-bolshevism_ADJ:0 "Colombian"
+ COL_technocracy:0 "Colombia"
+ COL_technocracy_ADJ:0 "Colombian"
+ COL_progressivism:0 "Colombia"
+ COL_progressivism_ADJ:0 "Colombian"
+ COL_social_liberalism:0 "Colombia"
+ COL_social_liberalism_ADJ:0 "Colombian"
+ COL_social_conservatism:0 "Colombia"
+ COL_social_conservatism_ADJ:0 "Colombian"
+ COL_reactionary:0 "Colombia"
+ COL_reactionary_ADJ:0 "Colombian"
+ COL_corporatist:0 "Colombia"
+ COL_corporatist_ADJ:0 "Colombian"
+ COL_autocracy:0 "Colombia"
+ COL_autocracy_ADJ:0 "Colombian"
+ COL_ultranationalism:0 "Colombia"
+ COL_ultranationalism_ADJ:0 "Colombian"
+ COL_supremacism:0 "Colombia"
+ COL_supremacism_ADJ:0 "Colombian"
+ COL_death_cultism:0 "Death Cult Colombia"
+ COL_death_cultism_ADJ:0 "Colombian"
+ 
+ ###Political Parties###
