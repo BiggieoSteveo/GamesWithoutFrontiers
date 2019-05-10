@@ -69,9 +69,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Joshua Correa"
+	name = "Sergio_Quesada"
 	desc = "POLITICS_LAZARO_CARDENAS_DESC"
-	picture = "portrait_cos_Sergio_Quesada"
+	picture = "portrait_cos_Sergio_Quesada.dds"
 	expire = "1965.1.1"
 	ideology = democratic_socialism
 	traits = {
