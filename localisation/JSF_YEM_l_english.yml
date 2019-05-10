@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ YEM_cluster:0 "Cluster Empire"
+ YEM_cluster_DEF:0 "The Cluster Empire"
+ YEM_cluster_ADJ:0 "Cluster"
+ YEM_internationalism:0 "People's Republic of Yemen"
+ YEM_internationalism_ADJ:0 "Yemeni"
+ YEM_neo-bolshevism:0 "People's Republic of Yemen"
+ YEM_neo-bolshevism_ADJ:0 "Yemeni"
+ YEM_technocracy:0 "Yemen"
+ YEM_technocracy_ADJ:0 "Yemeni"
+ YEM_social_liberalism:0 "Yemen"
+ YEM_social_liberalism_ADJ:0 "Yemeni"
+ YEM_social_conservatism:0 "Yemen"
+ YEM_social_conservatism_ADJ:0 "Yemeni"
+ YEM_reactionary:0 "Yemen"
+ YEM_reactionary_ADJ:0 "Yemeni"
+ YEM_corporatist:0 "Yemen"
+ YEM_corporatist_ADJ:0 "Yemeni"
+ YEM_autocracy:0 "Yemen"
+ YEM_autocracy_ADJ:0 "Yemeni"
+ YEM_ultranationalism:0 "Yemen"
+ YEM_ultranationalism_ADJ:0 "Yemeni"
+ YEM_supremacism:0 "Yemen"
+ YEM_supremacism_ADJ:0 "Yemeni"
+ YEM_death_cultism:0 "Death Cult Yemen"
+ YEM_death_cultism_ADJ:0 "Yemeni"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ TUR_cluster:0 "Cluster Empire"
+ TUR_cluster_DEF:0 "The Cluster Empire"
+ TUR_cluster_ADJ:0 "Cluster"
+ TUR_internationalism:0 "People's Republic of Turkey"
+ TUR_internationalism_ADJ:0 "Turkish"
+ TUR_neo-bolshevism:0 "People's Republic of Turkey"
+ TUR_neo-bolshevism_ADJ:0 "Turkish"
+ TUR_technocracy:0 "Turkey"
+ TUR_technocracy_ADJ:0 "Turkish"
+ TUR_social_liberalism:0 "Turkey"
+ TUR_social_liberalism_ADJ:0 "Turkish"
+ TUR_social_conservatism:0 "Turkey"
+ TUR_social_conservatism_ADJ:0 "Turkish"
+ TUR_reactionary:0 "Turkey"
+ TUR_reactionary_ADJ:0 "Turkish"
+ TUR_corporatist:0 "Turkey"
+ TUR_corporatist_ADJ:0 "Turkish"
+ TUR_autocracy:0 "Turkey"
+ TUR_autocracy_ADJ:0 "Turkish"
+ TUR_ultranationalism:0 "Turkey"
+ TUR_ultranationalism_ADJ:0 "Turkish"
+ TUR_supremacism:0 "Turkey"
+ TUR_supremacism_ADJ:0 "Turkish"
+ TUR_death_cultism:0 "Death Cult Turkey"
+ TUR_death_cultism_ADJ:0 "Turkish"
+ 
+ ###Political Parties###

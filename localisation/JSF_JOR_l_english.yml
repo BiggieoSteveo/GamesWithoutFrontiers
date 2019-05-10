@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ JOR_cluster:0 "Cluster Empire"
+ JOR_cluster_DEF:0 "The Cluster Empire"
+ JOR_cluster_ADJ:0 "Cluster"
+ JOR_internationalism:0 "People's Republic of Jordan"
+ JOR_internationalism_ADJ:0 "Jordanian"
+ JOR_neo-bolshevism:0 "People's Republic of Jordan"
+ JOR_neo-bolshevism_ADJ:0 "Jordanian"
+ JOR_technocracy:0 "Jordan"
+ JOR_technocracy_ADJ:0 "Jordanian"
+ JOR_social_liberalism:0 "Jordan"
+ JOR_social_liberalism_ADJ:0 "Jordanian"
+ JOR_social_conservatism:0 "Jordan"
+ JOR_social_conservatism_ADJ:0 "Jordanian"
+ JOR_reactionary:0 "Jordan"
+ JOR_reactionary_ADJ:0 "Jordanian"
+ JOR_corporatist:0 "Jordan"
+ JOR_corporatist_ADJ:0 "Jordanian"
+ JOR_autocracy:0 "Jordan"
+ JOR_autocracy_ADJ:0 "Jordanian"
+ JOR_ultranationalism:0 "Jordan"
+ JOR_ultranationalism_ADJ:0 "Jordanian"
+ JOR_supremacism:0 "Jordan"
+ JOR_supremacism_ADJ:0 "Jordanian"
+ JOR_death_cultism:0 "Death Cult Jordan"
+ JOR_death_cultism_ADJ:0 "Jordanian"
+ 
+ ###Political Parties###

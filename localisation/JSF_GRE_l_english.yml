@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ GRE_cluster:0 "Cluster Empire"
+ GRE_cluster_DEF:0 "The Cluster Empire"
+ GRE_cluster_ADJ:0 "Cluster"
+ GRE_internationalism:0 "People's Republic of Greece"
+ GRE_internationalism_ADJ:0 "Greek"
+ GRE_neo-bolshevism:0 "People's Republic of Greece"
+ GRE_neo-bolshevism_ADJ:0 "Greek"
+ GRE_technocracy:0 "Greece"
+ GRE_technocracy_ADJ:0 "Greek"
+ GRE_social_liberalism:0 "Greece"
+ GRE_social_liberalism_ADJ:0 "Greek"
+ GRE_social_conservatism:0 "Greece"
+ GRE_social_conservatism_ADJ:0 "Greek"
+ GRE_reactionary:0 "Greece"
+ GRE_reactionary_ADJ:0 "Greek"
+ GRE_corporatist:0 "Greece"
+ GRE_corporatist_ADJ:0 "Greek"
+ GRE_autocracy:0 "Greece"
+ GRE_autocracy_ADJ:0 "Greek"
+ GRE_ultranationalism:0 "Greece"
+ GRE_ultranationalism_ADJ:0 "Greek"
+ GRE_supremacism:0 "Greece"
+ GRE_supremacism_ADJ:0 "Greek"
+ GRE_death_cultism:0 "Death Cult Greece"
+ GRE_death_cultism_ADJ:0 "Greek"
+ 
+ ###Political Parties###
