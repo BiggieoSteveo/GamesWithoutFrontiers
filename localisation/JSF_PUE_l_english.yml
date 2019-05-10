@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ PUE_cluster:0 "Cluster Empire"
+ PUE_cluster_DEF:0 "The Cluster Empire"
+ PUE_cluster_ADJ:0 "Cluster"
+ PUE_internationalism:0 "People's Republic of Puerto Rico"
+ PUE_internationalism_ADJ:0 "Puerto Rican"
+ PUE_neo-bolshevism:0 "People's Republic of Puerto Rico"
+ PUE_neo-bolshevism_ADJ:0 "Puerto Rican"
+ PUE_technocracy:0 "Puerto Rico"
+ PUE_technocracy_ADJ:0 "Puerto Rican"
+ PUE_social_liberalism:0 "Puerto Rico"
+ PUE_social_liberalism_ADJ:0 "Puerto Rican"
+ PUE_social_conservatism:0 "Puerto Rico"
+ PUE_social_conservatism_ADJ:0 "Puerto Rican"
+ PUE_reactionary:0 "Puerto Rico"
+ PUE_reactionary_ADJ:0 "Puerto Rican"
+ PUE_corporatist:0 "Puerto Rico"
+ PUE_corporatist_ADJ:0 "Puerto Rican"
+ PUE_autocracy:0 "Puerto Rico"
+ PUE_autocracy_ADJ:0 "Puerto Rican"
+ PUE_ultranationalism:0 "Puerto Rico"
+ PUE_ultranationalism_ADJ:0 "Puerto Rican"
+ PUE_supremacism:0 "Puerto Rico"
+ PUE_supremacism_ADJ:0 "Puerto Rican"
+ PUE_death_cultism:0 "Death Cult Puerto Rico"
+ PUE_death_cultism_ADJ:0 "Puerto Rican"
+ 
+ ###Political Parties###

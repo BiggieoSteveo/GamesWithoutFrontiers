@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ CUB_cluster:0 "Cluster Empire"
+ CUB_cluster_DEF:0 "The Cluster Empire"
+ CUB_cluster_ADJ:0 "Cluster"
+ CUB_internationalism:0 "People's Republic of Cuba"
+ CUB_internationalism_ADJ:0 "Cuban"
+ CUB_neo-bolshevism:0 "People's Republic of Cuba"
+ CUB_neo-bolshevism_ADJ:0 "Cuban"
+ CUB_technocracy:0 "Cuba"
+ CUB_technocracy_ADJ:0 "Cuban"
+ CUB_social_liberalism:0 "Cuba"
+ CUB_social_liberalism_ADJ:0 "Cuban"
+ CUB_social_conservatism:0 "Cuba"
+ CUB_social_conservatism_ADJ:0 "Cuban"
+ CUB_reactionary:0 "Cuba"
+ CUB_reactionary_ADJ:0 "Cuban"
+ CUB_corporatist:0 "Cuba"
+ CUB_corporatist_ADJ:0 "Cuban"
+ CUB_autocracy:0 "Cuba"
+ CUB_autocracy_ADJ:0 "Cuban"
+ CUB_ultranationalism:0 "Cuba"
+ CUB_ultranationalism_ADJ:0 "Cuban"
+ CUB_supremacism:0 "Cuba"
+ CUB_supremacism_ADJ:0 "Cuban"
+ CUB_death_cultism:0 "Death Cult Cuba"
+ CUB_death_cultism_ADJ:0 "Cuban"
+ 
+ ###Political Parties###

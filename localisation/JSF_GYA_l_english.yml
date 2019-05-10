@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ GYA_cluster:0 "Cluster Empire"
+ GYA_cluster_DEF:0 "The Cluster Empire"
+ GYA_cluster_ADJ:0 "Cluster"
+ GYA_internationalism:0 "People's Republic of Guyana"
+ GYA_internationalism_ADJ:0 "Guyanese"
+ GYA_neo-bolshevism:0 "People's Republic of Guyana"
+ GYA_neo-bolshevism_ADJ:0 "Guyanese"
+ GYA_technocracy:0 "Guyana"
+ GYA_technocracy_ADJ:0 "Guyanese"
+ GYA_social_liberalism:0 "Guyana"
+ GYA_social_liberalism_ADJ:0 "Guyanese"
+ GYA_social_conservatism:0 "Guyana"
+ GYA_social_conservatism_ADJ:0 "Guyanese"
+ GYA_reactionary:0 "Guyana"
+ GYA_reactionary_ADJ:0 "Guyanese"
+ GYA_corporatist:0 "Guyana"
+ GYA_corporatist_ADJ:0 "Guyanese"
+ GYA_autocracy:0 "Guyana"
+ GYA_autocracy_ADJ:0 "Guyanese"
+ GYA_ultranationalism:0 "Guyana"
+ GYA_ultranationalism_ADJ:0 "Guyanese"
+ GYA_supremacism:0 "Guyana"
+ GYA_supremacism_ADJ:0 "Guyanese"
+ GYA_death_cultism:0 "Death Cult Guyana"
+ GYA_death_cultism_ADJ:0 "Guyanese"
+ 
+ ###Political Parties###

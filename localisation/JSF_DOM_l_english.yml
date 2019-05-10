@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ DOM_cluster:0 "Cluster Empire"
+ DOM_cluster_DEF:0 "The Cluster Empire"
+ DOM_cluster_ADJ:0 "Cluster"
+ DOM_internationalism:0 "Dominican People's Republic"
+ DOM_internationalism_ADJ:0 "Dominican"
+ DOM_neo-bolshevism:0 "Dominican People's Republic"
+ DOM_neo-bolshevism_ADJ:0 "Dominican"
+ DOM_technocracy:0 "Dominican Republic"
+ DOM_technocracy_ADJ:0 "Dominican"
+ DOM_social_liberalism:0 "Dominican Republic"
+ DOM_social_liberalism_ADJ:0 "Dominican"
+ DOM_social_conservatism:0 "Dominican Republic"
+ DOM_social_conservatism_ADJ:0 "Dominican"
+ DOM_reactionary:0 "Dominican Republic"
+ DOM_reactionary_ADJ:0 "Dominican"
+ DOM_corporatist:0 "Dominican Republic"
+ DOM_corporatist_ADJ:0 "Dominican"
+ DOM_autocracy:0 "Dominican Republic"
+ DOM_autocracy_ADJ:0 "Dominican"
+ DOM_ultranationalism:0 "Dominican Republic"
+ DOM_ultranationalism_ADJ:0 "Dominican"
+ DOM_supremacism:0 "Dominican Republic"
+ DOM_supremacism_ADJ:0 "Dominican"
+ DOM_death_cultism:0 "Death Cult Santo Domingo"
+ DOM_death_cultism_ADJ:0 "Dominican"
+ 
+ ###Political Parties###
