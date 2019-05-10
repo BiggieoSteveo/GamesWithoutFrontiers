@@ -69,7 +69,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Sergio_Quesada"
+	name = "Sergio Quesada"
 	desc = "POLITICS_LAZARO_CARDENAS_DESC"
 	picture = "portrait_cos_Sergio_Quesada.dds"
 	expire = "1965.1.1"
