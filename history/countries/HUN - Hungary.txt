@@ -53,9 +53,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Lajos Bodrog"
+	name = "Bertók Horváth"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Hungary_Lajos_Bodrog.dds"
+	picture = "Portrait_Hungary_Bertók_Horváth.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
 	traits = { }
