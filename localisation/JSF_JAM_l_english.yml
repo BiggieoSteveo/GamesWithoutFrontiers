@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ JAM_cluster:0 "Cluster Empire"
+ JAM_cluster_DEF:0 "The Cluster Empire"
+ JAM_cluster_ADJ:0 "Cluster"
+ JAM_internationalism:0 "People's Republic of Jamaica"
+ JAM_internationalism_ADJ:0 "Jamaican"
+ JAM_neo-bolshevism:0 "People's Republic of Jamaica"
+ JAM_neo-bolshevism_ADJ:0 "Jamaican"
+ JAM_technocracy:0 "Jamaica"
+ JAM_technocracy_ADJ:0 "Jamaican"
+ JAM_social_liberalism:0 "Jamaica"
+ JAM_social_liberalism_ADJ:0 "Jamaican"
+ JAM_social_conservatism:0 "Jamaica"
+ JAM_social_conservatism_ADJ:0 "Jamaican"
+ JAM_reactionary:0 "Jamaica"
+ JAM_reactionary_ADJ:0 "Jamaican"
+ JAM_corporatist:0 "Jamaica"
+ JAM_corporatist_ADJ:0 "Jamaican"
+ JAM_autocracy:0 "Jamaica"
+ JAM_autocracy_ADJ:0 "Jamaican"
+ JAM_ultranationalism:0 "Jamaica"
+ JAM_ultranationalism_ADJ:0 "Jamaican"
+ JAM_supremacism:0 "Jamaica"
+ JAM_supremacism_ADJ:0 "Jamaican"
+ JAM_death_cultism:0 "Death Cult Jamaica"
+ JAM_death_cultism_ADJ:0 "Jamaican"
+ 
+ ###Political Parties###
