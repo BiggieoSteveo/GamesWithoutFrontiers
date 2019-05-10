@@ -63,3 +63,14 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Council of Oman"
+	desc = "POLITICS_SAID_BIN_TAIMUR_DESC"
+	picture = "portrait_oma_Council_of_Oman.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+		#
+	}
+}

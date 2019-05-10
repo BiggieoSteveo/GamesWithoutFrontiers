@@ -53,3 +53,14 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
+create_country_leader = {
+	name = "Inatsisartut"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_GRL_Inatsisartut.dds"
+	expire = "1965.1.1"
+	ideology = social_democracy
+	traits = {
+		#
+	}
+}
