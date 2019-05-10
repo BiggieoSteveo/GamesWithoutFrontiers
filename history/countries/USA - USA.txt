@@ -65,9 +65,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Jenny 'XJ9' Wakeman"
+	name = "Marcus Bowler"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_USA_XJ9.dds"
+	picture = "Portrait_USA_Marcus_Bowler.dds"
 	expire = "1965.1.1"
 	ideology = technocracy_subtype
 	traits = { }

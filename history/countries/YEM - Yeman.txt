@@ -63,3 +63,14 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Baahir al-Bashara"
+	desc = "POLITICS_IMAM_YAHYA_DESC"
+	picture = "portrait_yem_Baahir_al_Bashara.dds"
+	expire = "1965.1.1"
+	ideology = arab_socialism
+	traits = {
+		#
+	}
+}

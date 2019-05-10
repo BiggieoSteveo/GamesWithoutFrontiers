@@ -57,12 +57,20 @@ set_politics = {
 			popularity = 9 
 		}
 	}
-	
-	ruling_party = social_conservatism
+	ruling_party = autocracy
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
 }
+create_country_leader = {
+	name = "Abioye Okonkwo"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "portrait_KEN_Abioye_Okonkwo.dds"
+	expire = "1960.1.1"
+	ideology = autocracy_subtype
+	traits = {
+	
+	}
 
 create_country_leader = {
 	name = "Shomari Kuende"
