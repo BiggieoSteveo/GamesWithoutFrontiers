@@ -58,8 +58,17 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neo-bolshevism
+	ruling_party = internationalism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Mazdak Pazhman"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_TAJ_Mazdak_Pazhman.dds"
+	expire = "1965.1.1"
+	ideology = proletarian_internationalism
+	traits = { }
 }
