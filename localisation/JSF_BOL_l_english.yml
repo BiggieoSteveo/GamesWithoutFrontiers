@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ BOL_cluster:0 "Cluster Empire"
+ BOL_cluster_DEF:0 "The Cluster Empire"
+ BOL_cluster_ADJ:0 "Cluster"
+ BOL_internationalism:0 "People's Republic of Bolivia"
+ BOL_internationalism_ADJ:0 "Bolivian"
+ BOL_neo-bolshevism:0 "People's Republic of Bolivia"
+ BOL_neo-bolshevism_ADJ:0 "Bolivian"
+ BOL_technocracy:0 "Bolivia"
+ BOL_technocracy_ADJ:0 "Bolivian"
+ BOL_social_liberalism:0 "Bolivia"
+ BOL_social_liberalism_ADJ:0 "Bolivian"
+ BOL_social_conservatism:0 "Bolivia"
+ BOL_social_conservatism_ADJ:0 "Bolivian"
+ BOL_reactionary:0 "Bolivia"
+ BOL_reactionary_ADJ:0 "Bolivian"
+ BOL_corporatist:0 "Bolivia"
+ BOL_corporatist_ADJ:0 "Bolivian"
+ BOL_autocracy:0 "Bolivia"
+ BOL_autocracy_ADJ:0 "Bolivian"
+ BOL_ultranationalism:0 "Bolivia"
+ BOL_ultranationalism_ADJ:0 "Bolivian"
+ BOL_supremacism:0 "Bolivia"
+ BOL_supremacism_ADJ:0 "Bolivian"
+ BOL_death_cultism:0 "Death Cult Bolivia"
+ BOL_death_cultism_ADJ:0 "Bolivian"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ PAR_cluster:0 "Cluster Empire"
+ PAR_cluster_DEF:0 "The Cluster Empire"
+ PAR_cluster_ADJ:0 "Cluster"
+ PAR_internationalism:0 "People's Republic of Paraguay"
+ PAR_internationalism_ADJ:0 "Paraguayan"
+ PAR_neo-bolshevism:0 "People's Republic of Paraguay"
+ PAR_neo-bolshevism_ADJ:0 "Paraguayan"
+ PAR_technocracy:0 "Paraguay"
+ PAR_technocracy_ADJ:0 "Paraguayan"
+ PAR_social_liberalism:0 "Paraguay"
+ PAR_social_liberalism_ADJ:0 "Paraguayan"
+ PAR_social_conservatism:0 "Paraguay"
+ PAR_social_conservatism_ADJ:0 "Paraguayan"
+ PAR_reactionary:0 "Paraguay"
+ PAR_reactionary_ADJ:0 "Paraguayan"
+ PAR_corporatist:0 "Paraguay"
+ PAR_corporatist_ADJ:0 "Paraguayan"
+ PAR_autocracy:0 "Paraguay"
+ PAR_autocracy_ADJ:0 "Paraguayan"
+ PAR_ultranationalism:0 "Paraguay"
+ PAR_ultranationalism_ADJ:0 "Paraguayan"
+ PAR_supremacism:0 "Paraguay"
+ PAR_supremacism_ADJ:0 "Paraguayan"
+ PAR_death_cultism:0 "Death Cult Paraguay"
+ PAR_death_cultism_ADJ:0 "Paraguayan"
+ 
+ ###Political Parties###

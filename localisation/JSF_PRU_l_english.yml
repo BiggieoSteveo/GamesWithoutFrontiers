@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ PRU_cluster:0 "Cluster Empire"
+ PRU_cluster_DEF:0 "The Cluster Empire"
+ PRU_cluster_ADJ:0 "Cluster"
+ PRU_internationalism:0 "People's Republic of Peru"
+ PRU_internationalism_ADJ:0 "Peruvian"
+ PRU_neo-bolshevism:0 "People's Republic of Peru"
+ PRU_neo-bolshevism_ADJ:0 "Peruvian"
+ PRU_technocracy:0 "Peru"
+ PRU_technocracy_ADJ:0 "Peruvian"
+ PRU_social_liberalism:0 "Peru"
+ PRU_social_liberalism_ADJ:0 "Peruvian"
+ PRU_social_conservatism:0 "Peru"
+ PRU_social_conservatism_ADJ:0 "Peruvian"
+ PRU_reactionary:0 "Peru"
+ PRU_reactionary_ADJ:0 "Peruvian"
+ PRU_corporatist:0 "Peru"
+ PRU_corporatist_ADJ:0 "Peruvian"
+ PRU_autocracy:0 "Peru"
+ PRU_autocracy_ADJ:0 "Peruvian"
+ PRU_ultranationalism:0 "Peru"
+ PRU_ultranationalism_ADJ:0 "Peruvian"
+ PRU_supremacism:0 "Peru"
+ PRU_supremacism_ADJ:0 "Peruvian"
+ PRU_death_cultism:0 "Death Cult Peru"
+ PRU_death_cultism_ADJ:0 "Peruvian"
+ 
+ ###Political Parties###

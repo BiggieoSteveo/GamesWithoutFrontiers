@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ ECU_cluster:0 "Cluster Empire"
+ ECU_cluster_DEF:0 "The Cluster Empire"
+ ECU_cluster_ADJ:0 "Cluster"
+ ECU_internationalism:0 "People's Republic of Ecuador"
+ ECU_internationalism_ADJ:0 "Ecuadorian"
+ ECU_neo-bolshevism:0 "People's Republic of Ecuador"
+ ECU_neo-bolshevism_ADJ:0 "Ecuadorian"
+ ECU_technocracy:0 "Ecuador"
+ ECU_technocracy_ADJ:0 "Ecuadorian"
+ ECU_social_liberalism:0 "Ecuador"
+ ECU_social_liberalism_ADJ:0 "Ecuadorian"
+ ECU_social_conservatism:0 "Ecuador"
+ ECU_social_conservatism_ADJ:0 "Ecuadorian"
+ ECU_reactionary:0 "Ecuador"
+ ECU_reactionary_ADJ:0 "Ecuadorian"
+ ECU_corporatist:0 "Ecuador"
+ ECU_corporatist_ADJ:0 "Ecuadorian"
+ ECU_autocracy:0 "Ecuador"
+ ECU_autocracy_ADJ:0 "Ecuadorian"
+ ECU_ultranationalism:0 "Ecuador"
+ ECU_ultranationalism_ADJ:0 "Ecuadorian"
+ ECU_supremacism:0 "Ecuador"
+ ECU_supremacism_ADJ:0 "Ecuadorian"
+ ECU_death_cultism:0 "Death Cult Ecuador"
+ ECU_death_cultism_ADJ:0 "Ecuadorian"
+ 
+ ###Political Parties###

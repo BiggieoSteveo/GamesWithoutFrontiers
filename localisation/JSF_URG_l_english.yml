@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ URG_cluster:0 "Cluster Empire"
+ URG_cluster_DEF:0 "The Cluster Empire"
+ URG_cluster_ADJ:0 "Cluster"
+ URG_internationalism:0 "People's Republic of Uruguay"
+ URG_internationalism_ADJ:0 "Uruguayan"
+ URG_neo-bolshevism:0 "People's Republic of Uruguay"
+ URG_neo-bolshevism_ADJ:0 "Uruguayan"
+ URG_technocracy:0 "Uruguay"
+ URG_technocracy_ADJ:0 "Uruguayan"
+ URG_social_liberalism:0 "Uruguay"
+ URG_social_liberalism_ADJ:0 "Uruguayan"
+ URG_social_conservatism:0 "Uruguay"
+ URG_social_conservatism_ADJ:0 "Uruguayan"
+ URG_reactionary:0 "Uruguay"
+ URG_reactionary_ADJ:0 "Uruguayan"
+ URG_corporatist:0 "Uruguay"
+ URG_corporatist_ADJ:0 "Uruguayan"
+ URG_autocracy:0 "Uruguay"
+ URG_autocracy_ADJ:0 "Uruguayan"
+ URG_ultranationalism:0 "Uruguay"
+ URG_ultranationalism_ADJ:0 "Uruguayan"
+ URG_supremacism:0 "Uruguay"
+ URG_supremacism_ADJ:0 "Uruguayan"
+ URG_death_cultism:0 "Death Cult Uruguay"
+ URG_death_cultism_ADJ:0 "Uruguayan"
+ 
+ ###Political Parties###

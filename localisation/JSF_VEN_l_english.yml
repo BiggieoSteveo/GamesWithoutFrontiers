@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ VEN_cluster:0 "Cluster Empire"
+ VEN_cluster_DEF:0 "The Cluster Empire"
+ VEN_cluster_ADJ:0 "Cluster"
+ VEN_internationalism:0 "People's Republic of Venezuela"
+ VEN_internationalism_ADJ:0 "Venezuelan"
+ VEN_neo-bolshevism:0 "People's Republic of Venezuela"
+ VEN_neo-bolshevism_ADJ:0 "Venezuelan"
+ VEN_technocracy:0 "Venezuela"
+ VEN_technocracy_ADJ:0 "Venezuelan"
+ VEN_social_liberalism:0 "Venezuela"
+ VEN_social_liberalism_ADJ:0 "Venezuelan"
+ VEN_social_conservatism:0 "Venezuela"
+ VEN_social_conservatism_ADJ:0 "Venezuelan"
+ VEN_reactionary:0 "Venezuela"
+ VEN_reactionary_ADJ:0 "Venezuelan"
+ VEN_corporatist:0 "Venezuela"
+ VEN_corporatist_ADJ:0 "Venezuelan"
+ VEN_autocracy:0 "Venezuela"
+ VEN_autocracy_ADJ:0 "Venezuelan"
+ VEN_ultranationalism:0 "Venezuela"
+ VEN_ultranationalism_ADJ:0 "Venezuelan"
+ VEN_supremacism:0 "Venezuela"
+ VEN_supremacism_ADJ:0 "Venezuelan"
+ VEN_death_cultism:0 "Death Cult Venezuela"
+ VEN_death_cultism_ADJ:0 "Venezuelan"
+ 
+ ###Political Parties###

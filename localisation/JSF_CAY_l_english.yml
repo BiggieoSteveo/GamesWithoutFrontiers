@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ CAY_cluster:0 "Cluster Empire"
+ CAY_cluster_DEF:0 "The Cluster Empire"
+ CAY_cluster_ADJ:0 "Cluster"
+ CAY_internationalism:0 "People's Republic of Guiana"
+ CAY_internationalism_ADJ:0 "Guianese"
+ CAY_neo-bolshevism:0 "People's Republic of Guiana"
+ CAY_neo-bolshevism_ADJ:0 "Guianese"
+ CAY_technocracy:0 "Guiana"
+ CAY_technocracy_ADJ:0 "Guianese"
+ CAY_social_liberalism:0 "Guiana"
+ CAY_social_liberalism_ADJ:0 "Guianese"
+ CAY_social_conservatism:0 "Guiana"
+ CAY_social_conservatism_ADJ:0 "Guianese"
+ CAY_reactionary:0 "Guiana"
+ CAY_reactionary_ADJ:0 "Guianese"
+ CAY_corporatist:0 "Guiana"
+ CAY_corporatist_ADJ:0 "Guianese"
+ CAY_autocracy:0 "Guiana"
+ CAY_autocracy_ADJ:0 "Guianese"
+ CAY_ultranationalism:0 "Guiana"
+ CAY_ultranationalism_ADJ:0 "Guianese"
+ CAY_supremacism:0 "Guiana"
+ CAY_supremacism_ADJ:0 "Guianese"
+ CAY_death_cultism:0 "People's Temple"
+ CAY_death_cultism_ADJ:0 "Temple"
+ 
+ ###Political Parties###

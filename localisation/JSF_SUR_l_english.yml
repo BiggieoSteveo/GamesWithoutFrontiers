@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SUR_cluster:0 "Cluster Empire"
+ SUR_cluster_DEF:0 "The Cluster Empire"
+ SUR_cluster_ADJ:0 "Cluster"
+ SUR_internationalism:0 "People's Republic of Suriname"
+ SUR_internationalism_ADJ:0 "Surinamese"
+ SUR_neo-bolshevism:0 "People's Republic of Suriname"
+ SUR_neo-bolshevism_ADJ:0 "Surinamese"
+ SUR_technocracy:0 "Suriname"
+ SUR_technocracy_ADJ:0 "Surinamese"
+ SUR_social_liberalism:0 "Suriname"
+ SUR_social_liberalism_ADJ:0 "Surinamese"
+ SUR_social_conservatism:0 "Suriname"
+ SUR_social_conservatism_ADJ:0 "Surinamese"
+ SUR_reactionary:0 "Suriname"
+ SUR_reactionary_ADJ:0 "Surinamese"
+ SUR_corporatist:0 "Suriname"
+ SUR_corporatist_ADJ:0 "urinamese"
+ SUR_autocracy:0 "Suriname"
+ SUR_autocracy_ADJ:0 "Surinamese"
+ SUR_ultranationalism:0 "Suriname"
+ SUR_ultranationalism_ADJ:0 "Surinamese"
+ SUR_supremacism:0 "Suriname"
+ SUR_supremacism_ADJ:0 "Surinamese"
+ SUR_death_cultism:0 "Death Cult Suriname"
+ SUR_death_cultism_ADJ:0 "Surinamese"
+ 
+ ###Political Parties###
