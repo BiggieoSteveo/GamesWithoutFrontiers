@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ MAC_cluster:0 "Cluster Empire"
+ MAC_cluster_DEF:0 "The Cluster Empire"
+ MAC_cluster_ADJ:0 "Cluster"
+ MAC_internationalism:0 "People's Republic of Macedonia"
+ MAC_internationalism_ADJ:0 "Macedonian"
+ MAC_neo-bolshevism:0 "People's Republic of Macedonia"
+ MAC_neo-bolshevism_ADJ:0 "Macedonian"
+ MAC_technocracy:0 "Macedonia"
+ MAC_technocracy_ADJ:0 "Macedonian"
+ MAC_social_liberalism:0 "Macedonia"
+ MAC_social_liberalism_ADJ:0 "Macedonian"
+ MAC_social_conservatism:0 "Macedonia"
+ MAC_social_conservatism_ADJ:0 "Macedonian"
+ MAC_reactionary:0 "Macedonia"
+ MAC_reactionary_ADJ:0 "Macedonian"
+ MAC_corporatist:0 "Macedonia"
+ MAC_corporatist_ADJ:0 "Macedonian"
+ MAC_autocracy:0 "Macedonia"
+ MAC_autocracy_ADJ:0 "Macedonian"
+ MAC_ultranationalism:0 "Macedonia"
+ MAC_ultranationalism_ADJ:0 "Macedonian"
+ MAC_supremacism:0 "Macedonia"
+ MAC_supremacism_ADJ:0 "Macedonian"
+ MAC_death_cultism:0 "Death Cult Macedonia"
+ MAC_death_cultism_ADJ:0 "Macedonian"
+ 
+ ###Political Parties###
