@@ -60,3 +60,12 @@ create_country_leader = {
 	ideology = christian_democracy
 	traits = { }
 }
+
+create_country_leade = {
+	name = "Florence D’Hondt"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = gfx/leaders/BEL/florence.dds
+	expire = "1965.1.1"
+	ideology = supremacism_subtype
+	traits = { }
+}
