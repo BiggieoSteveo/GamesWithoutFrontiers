@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ PNG_cluster:0 "Cluster Empire"
+ PNG_cluster_DEF:0 "The Cluster Empire"
+ PNG_cluster_ADJ:0 "Cluster"
+ PNG_internationalism:0 "People's Republic of Papua New Guinea"
+ PNG_internationalism_ADJ:0 "Papuan"
+ PNG_neo-bolshevism:0 "People's Republic of Papua New Guinea"
+ PNG_neo-bolshevism_ADJ:0 "Papuan"
+ PNG_technocracy:0 "Papua New Guinea"
+ PNG_technocracy_ADJ:0 "Papuan"
+ PNG_progressivism:0 "Papua New Guinea"
+ PNG_progressivism_ADJ:0 "Papuan"
+ PNG_social_liberalism:0 "Papua New Guinea"
+ PNG_social_liberalism_ADJ:0 "Papuan"
+ PNG_social_conservatism:0 "Papua New Guinea"
+ PNG_social_conservatism_ADJ:0 "Papuan"
+ PNG_reactionary:0 "Papua New Guinea"
+ PNG_reactionary_ADJ:0 "Papuan"
+ PNG_corporatist:0 "Papua New Guinea"
+ PNG_corporatist_ADJ:0 "Papuan"
+ PNG_autocracy:0 "Papua New Guinea"
+ PNG_autocracy_ADJ:0 "Papuan"
+ PNG_ultranationalism:0 "Papua New Guinea"
+ PNG_ultranationalism_ADJ:0 "Papuan"
+ PNG_supremacism:0 "Papua New Guinea"
+ PNG_supremacism_ADJ:0 "Papuan"
+ PNG_death_cultism:0 "Death Cult Papua New Guinea"
+ PNG_death_cultism_ADJ:0 "Papuan"
+
+ ###Political Parties###
