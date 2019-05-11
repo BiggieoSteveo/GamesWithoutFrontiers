@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ ALG_cluster:0 "Cluster Empire"
+ ALG_cluster_DEF:0 "The Cluster Empire"
+ ALG_cluster_ADJ:0 "Cluster"
+ ALG_internationalism:0 "People's Republic of Algeria"
+ ALG_internationalism_ADJ:0 "Algerian"
+ ALG_neo-bolshevism:0 "People's Republic of Algeria"
+ ALG_neo-bolshevism_ADJ:0 "Algerian"
+ ALG_technocracy:0 "Algeria"
+ ALG_technocracy_ADJ:0 "Algerian"
+ ALG_social_liberalism:0 "Algeria"
+ ALG_social_liberalism_ADJ:0 "Algerian"
+ ALG_social_conservatism:0 "Algeria"
+ ALG_social_conservatism_ADJ:0 "Algerian"
+ ALG_reactionary:0 "Algeria"
+ ALG_reactionary_ADJ:0 "Algerian"
+ ALG_corporatist:0 "Algeria"
+ ALG_corporatist_ADJ:0 "Algerian"
+ ALG_autocracy:0 "Algeria"
+ ALG_autocracy_ADJ:0 "Algerian"
+ ALG_ultranationalism:0 "Algeria"
+ ALG_ultranationalism_ADJ:0 "Algerian"
+ ALG_supremacism:0 "Algeria"
+ ALG_supremacism_ADJ:0 "Algerian"
+ ALG_death_cultism:0 "Death Cult Algeria"
+ ALG_death_cultism_ADJ:0 "Algerian"
+ 
+ ###Political Parties###

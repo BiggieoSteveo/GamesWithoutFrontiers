@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SUD_cluster:0 "Cluster Empire"
+ SUD_cluster_DEF:0 "The Cluster Empire"
+ SUD_cluster_ADJ:0 "Cluster"
+ SUD_internationalism:0 "People's Republic of Sudan"
+ SUD_internationalism_ADJ:0 "Sudanese"
+ SUD_neo-bolshevism:0 "People's Republic of Sudan"
+ SUD_neo-bolshevism_ADJ:0 "Sudanese"
+ SUD_technocracy:0 "Sudan"
+ SUD_technocracy_ADJ:0 "Sudanese"
+ SUD_social_liberalism:0 "Sudan"
+ SUD_social_liberalism_ADJ:0 "Sudanese"
+ SUD_social_conservatism:0 "Sudan"
+ SUD_social_conservatism_ADJ:0 "Sudanese"
+ SUD_reactionary:0 "Sudan"
+ SUD_reactionary_ADJ:0 "Sudanese"
+ SUD_corporatist:0 "Sudan"
+ SUD_corporatist_ADJ:0 "Sudanese"
+ SUD_autocracy:0 "Sudan"
+ SUD_autocracy_ADJ:0 "Sudanese"
+ SUD_ultranationalism:0 "Sudan"
+ SUD_ultranationalism_ADJ:0 "Sudanese"
+ SUD_supremacism:0 "Sudan"
+ SUD_supremacism_ADJ:0 "Sudanese"
+ SUD_death_cultism:0 "Death Cult Sudan"
+ SUD_death_cultism_ADJ:0 "Sudanese"
+
+ ###Political Parties###
