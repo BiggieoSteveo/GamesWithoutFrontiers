@@ -80,4 +80,9 @@ spriteTypes = {
                 name = "GFX_patreon_button"
                 texturefile = "gfx/interface/menu/patreon_button.dds"
         }
+
+        spriteType = {
+                name = "GFX_JSF_mainmenu"
+                texturefile = "gfx/interface/menu/Main_menu_pannel.dds"
+        }
 }
