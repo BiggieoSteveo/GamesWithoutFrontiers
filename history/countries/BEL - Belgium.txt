@@ -61,7 +61,7 @@ create_country_leader = {
 	traits = { }
 }
 
-create_country_leade = {
+create_country_leader = {
 	name = "Florence D’Hondt"
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Belgium_Florence_DHondt.dds"
