@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ BOT_cluster:0 "Cluster Empire"
+ BOT_cluster_DEF:0 "The Cluster Empire"
+ BOT_cluster_ADJ:0 "Cluster"
+ BOT_internationalism:0 "People's Republic of Botswana"
+ BOT_internationalism_ADJ:0 "Motswana"
+ BOT_neo-bolshevism:0 "People's Republic of Botswana"
+ BOT_neo-bolshevism_ADJ:0 "Motswana"
+ BOT_technocracy:0 "Botswana"
+ BOT_technocracy_ADJ:0 "Motswana"
+ BOT_social_liberalism:0 "Botswana"
+ BOT_social_liberalism_ADJ:0 "Motswana"
+ BOT_social_conservatism:0 "Botswana"
+ BOT_social_conservatism_ADJ:0 "Motswana"
+ BOT_reactionary:0 "Botswana"
+ BOT_reactionary_ADJ:0 "Motswana"
+ BOT_corporatist:0 "Botswana"
+ BOT_corporatist_ADJ:0 "Motswana"
+ BOT_autocracy:0 "Botswana"
+ BOT_autocracy_ADJ:0 "Motswana"
+ BOT_ultranationalism:0 "Botswana"
+ BOT_ultranationalism_ADJ:0 "Motswana"
+ BOT_supremacism:0 "Botswana"
+ BOT_supremacism_ADJ:0 "Motswana"
+ BOT_death_cultism:0 "Death Cult Botswana"
+ BOT_death_cultism_ADJ:0 "Motswana"
+
+ ###Political Parties###

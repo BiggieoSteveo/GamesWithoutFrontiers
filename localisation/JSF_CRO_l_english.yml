@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ CRO_cluster:0 "Cluster Empire"
+ CRO_cluster_DEF:0 "The Cluster Empire"
+ CRO_cluster_ADJ:0 "Cluster"
+ CRO_internationalism:0 "People's Republic of Croatia"
+ CRO_internationalism_ADJ:0 "Croatian"
+ CRO_neo-bolshevism:0 "People's Republic of Croatia"
+ CRO_neo-bolshevism_ADJ:0 "Croatian"
+ CRO_technocracy:0 "Croatia"
+ CRO_technocracy_ADJ:0 "Croatian"
+ CRO_social_liberalism:0 "Croatia"
+ CRO_social_liberalism_ADJ:0 "Croatian"
+ CRO_social_conservatism:0 "Croatia"
+ CRO_social_conservatism_ADJ:0 "Croatian"
+ CRO_reactionary:0 "Croatia"
+ CRO_reactionary_ADJ:0 "Croatian"
+ CRO_corporatist:0 "Croatia"
+ CRO_corporatist_ADJ:0 "Croatian"
+ CRO_autocracy:0 "Croatia"
+ CRO_autocracy_ADJ:0 "Croatian"
+ CRO_ultranationalism:0 "Croatia"
+ CRO_ultranationalism_ADJ:0 "Croatian"
+ CRO_supremacism:0 "Croatia"
+ CRO_supremacism_ADJ:0 "Croatian"
+ CRO_death_cultism:0 "Death Cult Croatia"
+ CRO_death_cultism_ADJ:0 "Croatian"
+ 
+ ###Political Parties###

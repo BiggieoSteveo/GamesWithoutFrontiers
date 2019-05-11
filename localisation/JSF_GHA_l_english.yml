@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ GHA_cluster:0 "Cluster Empire"
+ GHA_cluster_DEF:0 "The Cluster Empire"
+ GHA_cluster_ADJ:0 "Cluster"
+ GHA_internationalism:0 "People's Republic of Ghana"
+ GHA_internationalism_ADJ:0 "Ghanan"
+ GHA_neo-bolshevism:0 "People's Republic of Ghana"
+ GHA_neo-bolshevism_ADJ:0 "Ghanan"
+ GHA_technocracy:0 "Ghana"
+ GHA_technocracy_ADJ:0 "Ghanan"
+ GHA_social_liberalism:0 "Ghana"
+ GHA_social_liberalism_ADJ:0 "Ghanan"
+ GHA_social_conservatism:0 "Ghana"
+ GHA_social_conservatism_ADJ:0 "Ghanan"
+ GHA_reactionary:0 "Ghana"
+ GHA_reactionary_ADJ:0 "Ghanan"
+ GHA_corporatist:0 "Ghana"
+ GHA_corporatist_ADJ:0 "Ghanan"
+ GHA_autocracy:0 "Ghana"
+ GHA_autocracy_ADJ:0 "Ghanan"
+ GHA_ultranationalism:0 "Ghana"
+ GHA_ultranationalism_ADJ:0 "Ghanan"
+ GHA_supremacism:0 "Ghana"
+ GHA_supremacism_ADJ:0 "Ghanan"
+ GHA_death_cultism:0 "Death Cult Ghana"
+ GHA_death_cultism_ADJ:0 "Ghanan"
+ 
+ ###Political Parties###

@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ NEP_cluster:0 "Cluster Empire"
+ NEP_cluster_DEF:0 "The Cluster Empire"
+ NEP_cluster_ADJ:0 "Cluster"
+ NEP_internationalism:0 "People's Republic of Nepal"
+ NEP_internationalism_ADJ:0 "Nepalese"
+ NEP_neo-bolshevism:0 "People's Republic of Nepal"
+ NEP_neo-bolshevism_ADJ:0 "Nepalese"
+ NEP_technocracy:0 "Nepal"
+ NEP_technocracy_ADJ:0 "Nepalese"
+ NEP_progressivism:0 "Nepal"
+ NEP_progressivism_ADJ:0 "Nepalese"
+ NEP_social_liberalism:0 "Nepal"
+ NEP_social_liberalism_ADJ:0 "Nepalese"
+ NEP_social_conservatism:0 "Nepal"
+ NEP_social_conservatism_ADJ:0 "Nepalese"
+ NEP_reactionary:0 "Nepal"
+ NEP_reactionary_ADJ:0 "Nepalese"
+ NEP_corporatist:0 "Nepal"
+ NEP_corporatist_ADJ:0 "Nepalese"
+ NEP_autocracy:0 "Nepal"
+ NEP_autocracy_ADJ:0 "Nepalese"
+ NEP_ultranationalism:0 "Nepal"
+ NEP_ultranationalism_ADJ:0 "Nepalese"
+ NEP_supremacism:0 "Nepal"
+ NEP_supremacism_ADJ:0 "Nepalese"
+ NEP_death_cultism:0 "Death Cult Nepal"
+ NEP_death_cultism_ADJ:0 "Nepalese"
+
+ ###Political Parties###

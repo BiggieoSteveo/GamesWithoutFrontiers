@@ -53,9 +53,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Yaraslav Anichenko"
+	name = "Mikhail Tumash"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Belarus_Yaraslav_Anichenko.dds"
+	picture = "Portrait_Belarus_Mikhail_Tumash.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
 	traits = { }

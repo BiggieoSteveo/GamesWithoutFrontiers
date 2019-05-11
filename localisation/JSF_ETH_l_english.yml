@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ ETH_cluster:0 "Cluster Empire"
+ ETH_cluster_DEF:0 "The Cluster Empire"
+ ETH_cluster_ADJ:0 "Cluster"
+ ETH_internationalism:0 "People's Republic of Ethiopia"
+ ETH_internationalism_ADJ:0 "Ethiopian"
+ ETH_neo-bolshevism:0 "People's Republic of Ethiopia"
+ ETH_neo-bolshevism_ADJ:0 "Ethiopian"
+ ETH_technocracy:0 "Ethiopia"
+ ETH_technocracy_ADJ:0 "Ethiopian"
+ ETH_social_liberalism:0 "Ethiopia"
+ ETH_social_liberalism_ADJ:0 "Ethiopian"
+ ETH_social_conservatism:0 "Ethiopia"
+ ETH_social_conservatism_ADJ:0 "Ethiopian"
+ ETH_reactionary:0 "Ethiopia"
+ ETH_reactionary_ADJ:0 "Ethiopian"
+ ETH_corporatist:0 "Ethiopia"
+ ETH_corporatist_ADJ:0 "Ethiopian"
+ ETH_autocracy:0 "Ethiopian Empire"
+ ETH_autocracy_ADJ:0 "Ethiopian"
+ ETH_ultranationalism:0 "Ethiopia"
+ ETH_ultranationalism_ADJ:0 "Ethiopian"
+ ETH_supremacism:0 "Ethiopia"
+ ETH_supremacism_ADJ:0 "Ethiopian"
+ ETH_death_cultism:0 "Death Cult Ethiopia"
+ ETH_death_cultism_ADJ:0 "Ethiopian"
+
+ ###Political Parties###

@@ -53,9 +53,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Innar Peetre"
+	name = "Indrek Harma"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_EST_Innar_Peetre.dds"
+	picture = "Portrait_EST_Indrek_Harma.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
 	traits = { }

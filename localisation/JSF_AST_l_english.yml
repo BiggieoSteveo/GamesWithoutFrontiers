@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ AST_cluster:0 "Cluster Empire"
+ AST_cluster_DEF:0 "The Cluster Empire"
+ AST_cluster_ADJ:0 "Cluster"
+ AST_internationalism:0 "People's Republic of Australia"
+ AST_internationalism_ADJ:0 "Australian"
+ AST_neo-bolshevism:0 "People's Republic of Australia"
+ AST_neo-bolshevism_ADJ:0 "Australian"
+ AST_technocracy:0 "Australia"
+ AST_technocracy_ADJ:0 "Australian"
+ AST_progressivism:0 "Australia"
+ AST_progressivism_ADJ:0 "Australian"
+ AST_social_liberalism:0 "Australia"
+ AST_social_liberalism_ADJ:0 "Australian"
+ AST_social_conservatism:0 "Australia"
+ AST_social_conservatism_ADJ:0 "Australian"
+ AST_reactionary:0 "Australia"
+ AST_reactionary_ADJ:0 "Australian"
+ AST_corporatist:0 "Australia"
+ AST_corporatist_ADJ:0 "Australian"
+ AST_autocracy:0 "Australia"
+ AST_autocracy_ADJ:0 "Australian"
+ AST_ultranationalism:0 "Australia"
+ AST_ultranationalism_ADJ:0 "Australian"
+ AST_supremacism:0 "Australia"
+ AST_supremacism_ADJ:0 "Australian"
+ AST_death_cultism:0 "Death Cult Australia"
+ AST_death_cultism_ADJ:0 "Australian"
+ 
+ ###Political Parties###

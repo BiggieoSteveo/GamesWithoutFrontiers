@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ DAH_cluster:0 "Cluster Empire"
+ DAH_cluster_DEF:0 "The Cluster Empire"
+ DAH_cluster_ADJ:0 "Cluster"
+ DAH_internationalism:0 "People's Republic of Benin"
+ DAH_internationalism_ADJ:0 "Beninese"
+ DAH_neo-bolshevism:0 "People's Republic of Benin"
+ DAH_neo-bolshevism_ADJ:0 "Beninese"
+ DAH_technocracy:0 "Benin"
+ DAH_technocracy_ADJ:0 "Beninese"
+ DAH_progressivism:0 "Benin"
+ DAH_progressivism_ADJ:0 "Beninese"
+ DAH_social_liberalism:0 "Benin"
+ DAH_social_liberalism_ADJ:0 "Beninese"
+ DAH_social_conservatism:0 "Benin"
+ DAH_social_conservatism_ADJ:0 "Beninese"
+ DAH_reactionary:0 "Benin"
+ DAH_reactionary_ADJ:0 "Beninese"
+ DAH_corporatist:0 "Benin"
+ DAH_corporatist_ADJ:0 "Beninese"
+ DAH_autocracy:0 "Benin"
+ DAH_autocracy_ADJ:0 "Beninese"
+ DAH_ultranationalism:0 "Benin"
+ DAH_ultranationalism_ADJ:0 "Beninese"
+ DAH_supremacism:0 "Benin"
+ DAH_supremacism_ADJ:0 "Beninese"
+ DAH_death_cultism:0 "Death Cult Benin"
+ DAH_death_cultism_ADJ:0 "Beninese" 
+ 
+ ###Political Parties###

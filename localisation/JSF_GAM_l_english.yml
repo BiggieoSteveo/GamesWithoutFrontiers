@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ GAM_cluster:0 "Cluster Empire"
+ GAM_cluster_DEF:0 "The Cluster Empire"
+ GAM_cluster_ADJ:0 "Cluster"
+ GAM_internationalism:0 "People's Republic of The Gambia"
+ GAM_internationalism_ADJ:0 "Gambian"
+ GAM_neo-bolshevism:0 "People's Republic of The Gambia"
+ GAM_neo-bolshevism_ADJ:0 "Gambian"
+ GAM_technocracy:0 "The Gambia"
+ GAM_technocracy_ADJ:0 "Gambian"
+ GAM_progressivism:0 "The Gambia"
+ GAM_progressivism_ADJ:0 "Gambian"
+ GAM_social_liberalism:0 "The Gambia"
+ GAM_social_liberalism_ADJ:0 "Gambian"
+ GAM_social_conservatism:0 "The Gambia"
+ GAM_social_conservatism_ADJ:0 "Gambian"
+ GAM_reactionary:0 "The Gambia"
+ GAM_reactionary_ADJ:0 "Gambian"
+ GAM_corporatist:0 "The Gambia"
+ GAM_corporatist_ADJ:0 "Gambian"
+ GAM_autocracy:0 "The Gambia"
+ GAM_autocracy_ADJ:0 "Gambian"
+ GAM_ultranationalism:0 "The Gambia"
+ GAM_ultranationalism_ADJ:0 "Gambian"
+ GAM_supremacism:0 "The Gambia"
+ GAM_supremacism_ADJ:0 "Gambian"
+ GAM_death_cultism:0 "Death Cult The Gambia"
+ GAM_death_cultism_ADJ:0 "Gambian"
+
+ ###Political Parties###

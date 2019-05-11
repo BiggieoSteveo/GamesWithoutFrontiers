@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SOM_cluster:0 "Cluster Empire"
+ SOM_cluster_DEF:0 "The Cluster Empire"
+ SOM_cluster_ADJ:0 "Cluster"
+ SOM_internationalism:0 "People's Republic of Somalia"
+ SOM_internationalism_ADJ:0 "Somali"
+ SOM_neo-bolshevism:0 "People's Republic of Somalia"
+ SOM_neo-bolshevism_ADJ:0 "Somali"
+ SOM_technocracy:0 "Somalia"
+ SOM_technocracy_ADJ:0 "Somali"
+ SOM_social_liberalism:0 "Somalia"
+ SOM_social_liberalism_ADJ:0 "Somali"
+ SOM_social_conservatism:0 "Somalia"
+ SOM_social_conservatism_ADJ:0 "Somali"
+ SOM_reactionary:0 "Somalia"
+ SOM_reactionary_ADJ:0 "Somali"
+ SOM_corporatist:0 "Somalia"
+ SOM_corporatist_ADJ:0 "Somali"
+ SOM_autocracy:0 "Somalia"
+ SOM_autocracy_ADJ:0 "Somali"
+ SOM_ultranationalism:0 "Somalia"
+ SOM_ultranationalism_ADJ:0 "Somali"
+ SOM_supremacism:0 "Somalia"
+ SOM_supremacism_ADJ:0 "Somali"
+ SOM_death_cultism:0 "Death Cult Somalia"
+ SOM_death_cultism_ADJ:0 "Somali"
+
+ ###Political Parties###

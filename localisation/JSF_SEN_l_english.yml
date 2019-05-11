@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SEN_cluster:0 "Cluster Empire"
+ SEN_cluster_DEF:0 "The Cluster Empire"
+ SEN_cluster_ADJ:0 "Cluster"
+ SEN_internationalism:0 "People's Republic of Senegal"
+ SEN_internationalism_ADJ:0 "Senegalese"
+ SEN_neo-bolshevism:0 "People's Republic of Senegal"
+ SEN_neo-bolshevism_ADJ:0 "Senegalese"
+ SEN_technocracy:0 "Senegal"
+ SEN_technocracy_ADJ:0 "Senegalese"
+ SEN_social_liberalism:0 "Senegal"
+ SEN_social_liberalism_ADJ:0 "Senegalese"
+ SEN_social_conservatism:0 "Senegal"
+ SEN_social_conservatism_ADJ:0 "Senegalese"
+ SEN_reactionary:0 "Senegal"
+ SEN_reactionary_ADJ:0 "Senegalese"
+ SEN_corporatist:0 "Senegal"
+ SEN_corporatist_ADJ:0 "Senegalese"
+ SEN_autocracy:0 "Senegal"
+ SEN_autocracy_ADJ:0 "Senegalese"
+ SEN_ultranationalism:0 "Senegal"
+ SEN_ultranationalism_ADJ:0 "Senegalese"
+ SEN_supremacism:0 "Senegal"
+ SEN_supremacism_ADJ:0 "Senegalese"
+ SEN_death_cultism:0 "Death Cult Senegal"
+ SEN_death_cultism_ADJ:0 "Senegalese"
+ 
+ ###Political Parties###

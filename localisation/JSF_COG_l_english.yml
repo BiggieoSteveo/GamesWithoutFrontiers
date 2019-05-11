@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ COG_cluster:0 "Cluster Empire"
+ COG_cluster_DEF:0 "The Cluster Empire"
+ COG_cluster_ADJ:0 "Cluster"
+ COG_internationalism:0 "People's Republic of Congo"
+ COG_internationalism_ADJ:0 "Congolese"
+ COG_neo-bolshevism:0 "People's Republic of Congo"
+ COG_neo-bolshevism_ADJ:0 "Congolese"
+ COG_technocracy:0 "Congo"
+ COG_technocracy_ADJ:0 "Congolese"
+ COG_social_liberalism:0 "Democratic Republic Congo"
+ COG_social_liberalism_ADJ:0 "Congolese"
+ COG_social_conservatism:0 "Democratic Republic Congo"
+ COG_social_conservatism_ADJ:0 "Congolese"
+ COG_reactionary:0 "Congo"
+ COG_reactionary_ADJ:0 "Congolese"
+ COG_corporatist:0 "Congo"
+ COG_corporatist_ADJ:0 "Congolese"
+ COG_autocracy:0 "Congo"
+ COG_autocracy_ADJ:0 "Congolese"
+ COG_ultranationalism:0 "Congo"
+ COG_ultranationalism_ADJ:0 "Congolese"
+ COG_supremacism:0 "Congo"
+ COG_supremacism_ADJ:0 "Congolese"
+ COG_death_cultism:0 "Death Cult Congo"
+ COG_death_cultism_ADJ:0 "Congolese"
+ 
+ ###Political Parties###

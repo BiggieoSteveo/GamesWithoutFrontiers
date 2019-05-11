@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ TZN_cluster:0 "Cluster Empire"
+ TZN_cluster_DEF:0 "The Cluster Empire"
+ TZN_cluster_ADJ:0 "Cluster"
+ TZN_internationalism:0 "People's Republic of Tanzania"
+ TZN_internationalism_ADJ:0 "Tanzanian"
+ TZN_neo-bolshevism:0 "People's Republic of Tanzania"
+ TZN_neo-bolshevism_ADJ:0 "Tanzanian"
+ TZN_technocracy:0 "Tanzania"
+ TZN_technocracy_ADJ:0 "Tanzanian"
+ TZN_social_liberalism:0 "Tanzania"
+ TZN_social_liberalism_ADJ:0 "Tanzanian"
+ TZN_social_conservatism:0 "Tanzania"
+ TZN_social_conservatism_ADJ:0 "Tanzanian"
+ TZN_reactionary:0 "Tanzania"
+ TZN_reactionary_ADJ:0 "Tanzanian"
+ TZN_corporatist:0 "Tanzania"
+ TZN_corporatist_ADJ:0 "Tanzanian"
+ TZN_autocracy:0 "Tanzania"
+ TZN_autocracy_ADJ:0 "Tanzanian"
+ TZN_ultranationalism:0 "Tanzania"
+ TZN_ultranationalism_ADJ:0 "Tanzanian"
+ TZN_supremacism:0 "Tanzania"
+ TZN_supremacism_ADJ:0 "Tanzanian"
+ TZN_death_cultism:0 "Death Cult Tanzania"
+ TZN_death_cultism_ADJ:0 "Tanzanian"
+ 
+ ###Political Parties###

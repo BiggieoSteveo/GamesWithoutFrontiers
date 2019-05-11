@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ ANG_cluster:0 "Cluster Empire"
+ ANG_cluster_DEF:0 "The Cluster Empire"
+ ANG_cluster_ADJ:0 "Cluster"
+ ANG_internationalism:0 "People's Republic of Angola"
+ ANG_internationalism_ADJ:0 "Angolan"
+ ANG_neo-bolshevism:0 "People's Republic of Angola"
+ ANG_neo-bolshevism_ADJ:0 "Angolan"
+ ANG_technocracy:0 "Angola"
+ ANG_technocracy_ADJ:0 "Angolan"
+ ANG_social_liberalism:0 "Angola"
+ ANG_social_liberalism_ADJ:0 "Angolan"
+ ANG_social_conservatism:0 "Angola"
+ ANG_social_conservatism_ADJ:0 "Angolan"
+ ANG_reactionary:0 "Angola"
+ ANG_reactionary_ADJ:0 "Angolan"
+ ANG_corporatist:0 "Angola"
+ ANG_corporatist_ADJ:0 "Angolan"
+ ANG_autocracy:0 "Angola"
+ ANG_autocracy_ADJ:0 "Angolan"
+ ANG_ultranationalism:0 "Angola"
+ ANG_ultranationalism_ADJ:0 "Angolan"
+ ANG_supremacism:0 "Angola"
+ ANG_supremacism_ADJ:0 "Angolan"
+ ANG_death_cultism:0 "Death Cult Angola"
+ ANG_death_cultism_ADJ:0 "Angolan"
+ 
+ ###Political Parties###

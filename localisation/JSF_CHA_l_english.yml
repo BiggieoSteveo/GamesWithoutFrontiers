@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ CHA_cluster:0 "Cluster Empire"
+ CHA_cluster_DEF:0 "The Cluster Empire"
+ CHA_cluster_ADJ:0 "Cluster"
+ CHA_internationalism:0 "People's Republic of Chad"
+ CHA_internationalism_ADJ:0 "Chadian"
+ CHA_neo-bolshevism:0 "People's Republic of Chad"
+ CHA_neo-bolshevism_ADJ:0 "Chadian"
+ CHA_technocracy:0 "Chad"
+ CHA_technocracy_ADJ:0 "Chadian"
+ CHA_social_liberalism:0 "Chad"
+ CHA_social_liberalism_ADJ:0 "Chadian"
+ CHA_social_conservatism:0 "Chad"
+ CHA_social_conservatism_ADJ:0 "Chadian"
+ CHA_reactionary:0 "Chad"
+ CHA_reactionary_ADJ:0 "Chadian"
+ CHA_corporatist:0 "Chad"
+ CHA_corporatist_ADJ:0 "Chadian"
+ CHA_autocracy:0 "Chad"
+ CHA_autocracy_ADJ:0 "Chadian"
+ CHA_ultranationalism:0 "Chad"
+ CHA_ultranationalism_ADJ:0 "Chadian"
+ CHA_supremacism:0 "Chad"
+ CHA_supremacism_ADJ:0 "Chadian"
+ CHA_death_cultism:0 "Death Cult Chad"
+ CHA_death_cultism_ADJ:0 "Chadian"
+ 
+ ###Political Parties###

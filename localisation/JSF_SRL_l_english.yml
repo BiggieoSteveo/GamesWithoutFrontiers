@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SRL_cluster:0 "Cluster Empire"
+ SRL_cluster_DEF:0 "The Cluster Empire"
+ SRL_cluster_ADJ:0 "Cluster"
+ SRL_internationalism:0 "People's Republic of Sri Lanka"
+ SRL_internationalism_ADJ:0 "Sri Lankan"
+ SRL_neo-bolshevism:0 "People's Republic of Sri Lanka"
+ SRL_neo-bolshevism_ADJ:0 "Sri Lankan"
+ SRL_technocracy:0 "Sri Lanka"
+ SRL_technocracy_ADJ:0 "Sri Lankan"
+ SRL_progressivism:0 "Sri Lanka"
+ SRL_progressivism_ADJ:0 "Sri Lankan"
+ SRL_social_liberalism:0 "Sri Lanka"
+ SRL_social_liberalism_ADJ:0 "Sri Lankan"
+ SRL_social_conservatism:0 "Sri Lanka"
+ SRL_social_conservatism_ADJ:0 "Sri Lankan"
+ SRL_reactionary:0 "Sri Lanka"
+ SRL_reactionary_ADJ:0 "Sri Lankan"
+ SRL_corporatist:0 "Sri Lanka"
+ SRL_corporatist_ADJ:0 "Sri Lankan"
+ SRL_autocracy:0 "Sri Lanka"
+ SRL_autocracy_ADJ:0 "Sri Lankan"
+ SRL_ultranationalism:0 "Sri Lanka"
+ SRL_ultranationalism_ADJ:0 "Sri Lankan"
+ SRL_supremacism:0 "Sri Lanka"
+ SRL_supremacism_ADJ:0 "Sri Lankan"
+ SRL_death_cultism:0 "Death Cult Sri Lanka"
+ SRL_death_cultism_ADJ:0 "Sri Lankan"
+
+ ###Political Parties###

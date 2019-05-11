@@ -53,9 +53,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Lorands Talbergs"
+	name = "Pāvils Balodis"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Lat_Lorands_Talbergs.dds"
+	picture = "Portrait_LAT_Pāvils_Balodis.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
 	traits = { }

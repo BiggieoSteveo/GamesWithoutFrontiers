@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ EQG_cluster:0 "Cluster Empire"
+ EQG_cluster_DEF:0 "The Cluster Empire"
+ EQG_cluster_ADJ:0 "Cluster"
+ EQG_internationalism:0 "People's Republic of Equatorial Guinea"
+ EQG_internationalism_ADJ:0 "Equatorial Guinean"
+ EQG_neo-bolshevism:0 "People's Republic of Equatorial Guinea"
+ EQG_neo-bolshevism_ADJ:0 "Equatorial Guinean"
+ EQG_technocracy:0 "Equatorial Guinea"
+ EQG_technocracy_ADJ:0 "Equatorial Guinean"
+ EQG_social_liberalism:0 "Equatorial Guinea"
+ EQG_social_liberalism_ADJ:0 "Equatorial Guinean"
+ EQG_social_conservatism:0 "Equatorial Guinea"
+ EQG_social_conservatism_ADJ:0 "Equatorial Guinean"
+ EQG_reactionary:0 "Equatorial Guinea"
+ EQG_reactionary_ADJ:0 "Equatorial Guinean"
+ EQG_corporatist:0 "Equatorial Guinea"
+ EQG_corporatist_ADJ:0 "Equatorial Guinean"
+ EQG_autocracy:0 "Equatorial Guinea"
+ EQG_autocracy_ADJ:0 "Equatorial Guinean"
+ EQG_ultranationalism:0 "Equatorial Guinea"
+ EQG_ultranationalism_ADJ:0 "Equatorial Guinean"
+ EQG_supremacism:0 "Equatorial Guinea"
+ EQG_supremacism_ADJ:0 "Equatorial Guinean"
+ EQG_death_cultism:0 "Death Cult Equatorial Guinea"
+ EQG_death_cultism_ADJ:0 "Equatorial Guinean"
+
+ ###Political Parties###

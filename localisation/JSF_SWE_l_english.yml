@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SWE_cluster:0 "Cluster Empire"
+ SWE_cluster_DEF:0 "The Cluster Empire"
+ SWE_cluster_ADJ:0 "Cluster"
+ SWE_internationalism:0 "People's Republic of Sweden"
+ SWE_internationalism_ADJ:0 "Swedish"
+ SWE_neo-bolshevism:0 "People's Republic of Sweden"
+ SWE_neo-bolshevism_ADJ:0 "Swedish"
+ SWE_technocracy:0 "Sweden"
+ SWE_technocracy_ADJ:0 "Swedish"
+ SWE_social_liberalism:0 "Sweden"
+ SWE_social_liberalism_ADJ:0 "Swedish"
+ SWE_social_conservatism:0 "Sweden"
+ SWE_social_conservatism_ADJ:0 "Swedish"
+ SWE_reactionary:0 "Sweden"
+ SWE_reactionary_ADJ:0 "Swedish"
+ SWE_corporatist:0 "Sweden"
+ SWE_corporatist_ADJ:0 "Swedish"
+ SWE_autocracy:0 "Sweden"
+ SWE_autocracy_ADJ:0 "Swedish"
+ SWE_ultranationalism:0 "Sweden"
+ SWE_ultranationalism_ADJ:0 "Swedish"
+ SWE_supremacism:0 "Sweden"
+ SWE_supremacism_ADJ:0 "Swedish"
+ SWE_death_cultism:0 "Death Cult Sweden"
+ SWE_death_cultism_ADJ:0 "Swedish"
+ 
+ ###Political Parties###

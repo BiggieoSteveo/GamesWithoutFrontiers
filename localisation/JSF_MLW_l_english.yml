@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ MLW_cluster:0 "Cluster Empire"
+ MLW_cluster_DEF:0 "The Cluster Empire"
+ MLW_cluster_ADJ:0 "Cluster"
+ MLW_internationalism:0 "People's Republic of Malawi"
+ MLW_internationalism_ADJ:0 "Malawian"
+ MLW_neo-bolshevism:0 "People's Republic of Malawi"
+ MLW_neo-bolshevism_ADJ:0 "Malawian"
+ MLW_technocracy:0 "Malawi"
+ MLW_technocracy_ADJ:0 "Malawian"
+ MLW_social_liberalism:0 "Malawi"
+ MLW_social_liberalism_ADJ:0 "Malawian"
+ MLW_social_conservatism:0 "Malawi"
+ MLW_social_conservatism_ADJ:0 "Malawian"
+ MLW_reactionary:0 "Malawi"
+ MLW_reactionary_ADJ:0 "Malawian"
+ MLW_corporatist:0 "Malawi"
+ MLW_corporatist_ADJ:0 "Malawian"
+ MLW_autocracy:0 "Malawi"
+ MLW_autocracy_ADJ:0 "Malawian"
+ MLW_ultranationalism:0 "Malawi"
+ MLW_ultranationalism_ADJ:0 "Malawian"
+ MLW_supremacism:0 "Malawi"
+ MLW_supremacism_ADJ:0 "Malawian"
+ MLW_death_cultism:0 "Death Cult Malawi"
+ MLW_death_cultism_ADJ:0 "Malawian"
+
+ ###Political Parties###

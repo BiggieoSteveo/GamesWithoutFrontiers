@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ LBA_cluster:0 "Cluster Empire"
+ LBA_cluster_DEF:0 "The Cluster Empire"
+ LBA_cluster_ADJ:0 "Cluster"
+ LBA_internationalism:0 "People's Republic of Libya"
+ LBA_internationalism_ADJ:0 "Libyan"
+ LBA_neo-bolshevism:0 "People's Republic of Libya"
+ LBA_neo-bolshevism_ADJ:0 "Libyan"
+ LBA_technocracy:0 "Libya"
+ LBA_technocracy_ADJ:0 "Libyan"
+ LBA_social_liberalism:0 "Libya"
+ LBA_social_liberalism_ADJ:0 "Libyan"
+ LBA_social_conservatism:0 "Libya"
+ LBA_social_conservatism_ADJ:0 "Libyan"
+ LBA_reactionary:0 "Libya"
+ LBA_reactionary_ADJ:0 "Libyan"
+ LBA_corporatist:0 "Libya"
+ LBA_corporatist_ADJ:0 "Libyan"
+ LBA_autocracy:0 "Libya"
+ LBA_autocracy_ADJ:0 "Libyan"
+ LBA_ultranationalism:0 "Libya"
+ LBA_ultranationalism_ADJ:0 "Libyan"
+ LBA_supremacism:0 "Libya"
+ LBA_supremacism_ADJ:0 "Libyan"
+ LBA_death_cultism:0 "Death Cult Libya"
+ LBA_death_cultism_ADJ:0 "Libyan"
+
+ ###Political Parties###

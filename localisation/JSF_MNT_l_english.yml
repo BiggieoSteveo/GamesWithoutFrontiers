@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ MNT_cluster:0 "Cluster Empire"
+ MNT_cluster_DEF:0 "The Cluster Empire"
+ MNT_cluster_ADJ:0 "Cluster"
+ MNT_internationalism:0 "People's Republic of Montenegro"
+ MNT_internationalism_ADJ:0 "Montenegrian"
+ MNT_neo-bolshevism:0 "People's Republic of Montenegro"
+ MNT_neo-bolshevism_ADJ:0 "Montenegrian"
+ MNT_technocracy:0 "Montenegro"
+ MNT_technocracy_ADJ:0 "Montenegrian"
+ MNT_social_liberalism:0 "Montenegro"
+ MNT_social_liberalism_ADJ:0 "Montenegrian"
+ MNT_social_conservatism:0 "Montenegro"
+ MNT_social_conservatism_ADJ:0 "Montenegrian"
+ MNT_reactionary:0 "Montenegro"
+ MNT_reactionary_ADJ:0 "Montenegrian"
+ MNT_corporatist:0 "Montenegro"
+ MNT_corporatist_ADJ:0 "Montenegrian"
+ MNT_autocracy:0 "Montenegro"
+ MNT_autocracy_ADJ:0 "Montenegrian"
+ MNT_ultranationalism:0 "Montenegro"
+ MNT_ultranationalism_ADJ:0 "Montenegrian"
+ MNT_supremacism:0 "Montenegro"
+ MNT_supremacism_ADJ:0 "Montenegrian"
+ MNT_death_cultism:0 "Death Cult Montenegro"
+ MNT_death_cultism_ADJ:0 "Montenegrian"
+ 
+ ###Political Parties###

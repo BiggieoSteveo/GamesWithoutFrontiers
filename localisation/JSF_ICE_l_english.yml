@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ ICE_cluster:0 "Cluster Empire"
+ ICE_cluster_DEF:0 "The Cluster Empire"
+ ICE_cluster_ADJ:0 "Cluster"
+ ICE_internationalism:0 "People's Republic of Iceland"
+ ICE_internationalism_ADJ:0 "Icelandic"
+ ICE_neo-bolshevism:0 "People's Republic of Iceland"
+ ICE_neo-bolshevism_ADJ:0 "Icelandic"
+ ICE_technocracy:0 "Iceland"
+ ICE_technocracy_ADJ:0 "Icelandic"
+ ICE_progressivism:0 "Iceland"
+ ICE_progressivism_ADJ:0 "Icelandic"
+ ICE_social_liberalism:0 "Iceland"
+ ICE_social_liberalism_ADJ:0 "Icelandic"
+ ICE_social_conservatism:0 "Iceland"
+ ICE_social_conservatism_ADJ:0 "Icelandic"
+ ICE_reactionary:0 "Iceland"
+ ICE_reactionary_ADJ:0 "Icelandic"
+ ICE_corporatist:0 "Iceland"
+ ICE_corporatist_ADJ:0 "Icelandic"
+ ICE_autocracy:0 "Iceland"
+ ICE_autocracy_ADJ:0 "Icelandic"
+ ICE_ultranationalism:0 "Iceland"
+ ICE_ultranationalism_ADJ:0 "Icelandic"
+ ICE_supremacism:0 "Iceland"
+ ICE_supremacism_ADJ:0 "Icelandic"
+ ICE_death_cultism:0 "Death Cult Iceland"
+ ICE_death_cultism_ADJ:0 "Icelandic"
+ 
+ ###Political Parties###

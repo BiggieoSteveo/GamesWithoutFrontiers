@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ CAM_cluster:0 "Cluster Empire"
+ CAM_cluster_DEF:0 "The Cluster Empire"
+ CAM_cluster_ADJ:0 "Cluster"
+ CAM_internationalism:0 "People's Republic of Cambodia"
+ CAM_internationalism_ADJ:0 "Cambodian"
+ CAM_neo-bolshevism:0 "People's Republic of Cambodia"
+ CAM_neo-bolshevism_ADJ:0 "Cambodian"
+ CAM_technocracy:0 "Cambodia"
+ CAM_technocracy_ADJ:0 "Cambodian"
+ CAM_social_liberalism:0 "Cambodia"
+ CAM_social_liberalism_ADJ:0 "Cambodian"
+ CAM_social_conservatism:0 "Cambodia"
+ CAM_social_conservatism_ADJ:0 "Cambodian"
+ CAM_reactionary:0 "Cambodia"
+ CAM_reactionary_ADJ:0 "Cambodian"
+ CAM_corporatist:0 "Cambodia"
+ CAM_corporatist_ADJ:0 "Cambodian"
+ CAM_autocracy:0 "Cambodia"
+ CAM_autocracy_ADJ:0 "Cambodian"
+ CAM_ultranationalism:0 "Cambodia"
+ CAM_ultranationalism_ADJ:0 "Cambodian"
+ CAM_supremacism:0 "Cambodia"
+ CAM_supremacism_ADJ:0 "Cambodian"
+ CAM_death_cultism:0 "Death Cult Cambodia"
+ CAM_death_cultism_ADJ:0 "Cambodian"
+ 
+ ###Political Parties###

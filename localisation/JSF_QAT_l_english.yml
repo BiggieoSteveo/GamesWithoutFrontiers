@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ QAT_cluster:0 "Cluster Empire"
+ QAT_cluster_DEF:0 "The Cluster Empire"
+ QAT_cluster_ADJ:0 "Cluster"
+ QAT_internationalism:0 "People's Republic of Qatar"
+ QAT_internationalism_ADJ:0 "Afghan"
+ QAT_neo-bolshevism:0 "People's Republic of Qatar"
+ QAT_neo-bolshevism_ADJ:0 "Afghan"
+ QAT_technocracy:0 "Qatar"
+ QAT_technocracy_ADJ:0 "Qatari"
+ QAT_progressivism:0 "Qatar"
+ QAT_progressivism_ADJ:0 "Qatari"
+ QAT_social_liberalism:0 "Qatar"
+ QAT_social_liberalism_ADJ:0 "Qatari"
+ QAT_social_conservatism:0 "Qatar"
+ QAT_social_conservatism_ADJ:0 "Qatari"
+ QAT_reactionary:0 "Qatar"
+ QAT_reactionary_ADJ:0 "Qatari"
+ QAT_corporatist:0 "Qatar"
+ QAT_corporatist_ADJ:0 "Qatari"
+ QAT_autocracy:0 "Qatar"
+ QAT_autocracy_ADJ:0 "Qatari"
+ QAT_ultranationalism:0 "Qatar"
+ QAT_ultranationalism_ADJ:0 "Qatari"
+ QAT_supremacism:0 "Qatar"
+ QAT_supremacism_ADJ:0 "Qatari"
+ QAT_death_cultism:0 "Death Cult Qatar"
+ QAT_death_cultism_ADJ:0 "Qatari"
+
+ ###Political Parties###

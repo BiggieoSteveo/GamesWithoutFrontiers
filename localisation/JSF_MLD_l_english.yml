@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ MLD_cluster:0 "Cluster Empire"
+ MLD_cluster_DEF:0 "The Cluster Empire"
+ MLD_cluster_ADJ:0 "Cluster"
+ MLD_internationalism:0 "People's Republic of Maldives"
+ MLD_internationalism_ADJ:0 "Maldivian"
+ MLD_neo-bolshevism:0 "People's Republic of Maldives"
+ MLD_neo-bolshevism_ADJ:0 "Maldivian"
+ MLD_technocracy:0 "Maldives"
+ MLD_technocracy_ADJ:0 "Maldivian"
+ MLD_progressivism:0 "Maldives"
+ MLD_progressivism_ADJ:0 "Maldivian"
+ MLD_social_liberalism:0 "Maldives"
+ MLD_social_liberalism_ADJ:0 "Maldivian"
+ MLD_social_conservatism:0 "Maldives"
+ MLD_social_conservatism_ADJ:0 "Maldivian"
+ MLD_reactionary:0 "Maldives"
+ MLD_reactionary_ADJ:0 "Maldivian"
+ MLD_corporatist:0 "Maldives"
+ MLD_corporatist_ADJ:0 "Maldivian"
+ MLD_autocracy:0 "Maldives"
+ MLD_autocracy_ADJ:0 "Maldivian"
+ MLD_ultranationalism:0 "Maldives"
+ MLD_ultranationalism_ADJ:0 "Maldivian"
+ MLD_supremacism:0 "Maldives"
+ MLD_supremacism_ADJ:0 "Maldivian"
+ MLD_death_cultism:0 "Death Cult Maldives"
+ MLD_death_cultism_ADJ:0 "Maldivian"
+
+ ###Political Parties###

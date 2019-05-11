@@ -53,9 +53,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Borys Arkadijovych Zayets"
+	name = "Nazar Kovalov"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_UKR_Borys_Zayets.dds"
+	picture = "Portrait_UKR_Nazar_Kovalov.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
 	traits = { }

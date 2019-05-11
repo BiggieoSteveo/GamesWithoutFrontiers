@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ ERI_cluster:0 "Cluster Empire"
+ ERI_cluster_DEF:0 "The Cluster Empire"
+ ERI_cluster_ADJ:0 "Cluster"
+ ERI_internationalism:0 "People's Republic of Eritrea"
+ ERI_internationalism_ADJ:0 "Eritrean"
+ ERI_neo-bolshevism:0 "People's Republic of Eritrea"
+ ERI_neo-bolshevism_ADJ:0 "Eritrean"
+ ERI_technocracy:0 "Eritrea"
+ ERI_technocracy_ADJ:0 "Eritrean"
+ ERI_progressivism:0 "Eritrea"
+ ERI_progressivism_ADJ:0 "Eritrean"
+ ERI_social_liberalism:0 "Eritrea"
+ ERI_social_liberalism_ADJ:0 "Eritrean"
+ ERI_social_conservatism:0 "Eritrea"
+ ERI_social_conservatism_ADJ:0 "Eritrean"
+ ERI_reactionary:0 "Eritrea"
+ ERI_reactionary_ADJ:0 "Eritrean"
+ ERI_corporatist:0 "Eritrea"
+ ERI_corporatist_ADJ:0 "Eritrean"
+ ERI_autocracy:0 "Eritrea"
+ ERI_autocracy_ADJ:0 "Eritrean"
+ ERI_ultranationalism:0 "Eritrea"
+ ERI_ultranationalism_ADJ:0 "Eritrean"
+ ERI_supremacism:0 "Eritrea"
+ ERI_supremacism_ADJ:0 "Eritrean"
+ ERI_death_cultism:0 "Death Cult Eritrea"
+ ERI_death_cultism_ADJ:0 "Eritrean"
+
+ ###Political Parties###
