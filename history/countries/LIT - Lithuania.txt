@@ -53,9 +53,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Antanas Lagunavicius"
+	name = "Linas Astrauskas"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Lit_Antanas_Lagunavicius.dds"
+	picture = "Portrait_LIT_Linas_Astrauskas.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
 	traits = { }
