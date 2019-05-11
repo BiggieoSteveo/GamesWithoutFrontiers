@@ -53,9 +53,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Arnold Toft"
+	name = "Edvin Pallesen"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Denmark_Arnold_Toft.dds"
+	picture = "Portrait_Denmark_Edvin_Pallesen.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
 	traits = { }
