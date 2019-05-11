@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ NOR_cluster:0 "Cluster Empire"
+ NOR_cluster_DEF:0 "The Cluster Empire"
+ NOR_cluster_ADJ:0 "Cluster"
+ NOR_internationalism:0 "People's Republic of Norway"
+ NOR_internationalism_ADJ:0 "Norwegian"
+ NOR_neo-bolshevism:0 "People's Republic of Norway"
+ NOR_neo-bolshevism_ADJ:0 "Norwegian"
+ NOR_technocracy:0 "Norway"
+ NOR_technocracy_ADJ:0 "Norwegian"
+ NOR_social_liberalism:0 "Norway"
+ NOR_social_liberalism_ADJ:0 "Norwegian"
+ NOR_social_conservatism:0 "Norway"
+ NOR_social_conservatism_ADJ:0 "Norwegian"
+ NOR_reactionary:0 "Norway"
+ NOR_reactionary_ADJ:0 "Norwegian"
+ NOR_corporatist:0 "Norway"
+ NOR_corporatist_ADJ:0 "Norwegian"
+ NOR_autocracy:0 "Norway"
+ NOR_autocracy_ADJ:0 "Norwegian"
+ NOR_ultranationalism:0 "Norway"
+ NOR_ultranationalism_ADJ:0 "Norwegian"
+ NOR_supremacism:0 "Norway"
+ NOR_supremacism_ADJ:0 "Norwegian"
+ NOR_death_cultism:0 "Death Cult Norway"
+ NOR_death_cultism_ADJ:0 "Norwegian"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ ALB_cluster:0 "Cluster Empire"
+ ALB_cluster_DEF:0 "The Cluster Empire"
+ ALB_cluster_ADJ:0 "Cluster"
+ ALB_internationalism:0 "People's Republic of Albania"
+ ALB_internationalism_ADJ:0 "Albanian"
+ ALB_neo-bolshevism:0 "People's Republic of Albania"
+ ALB_neo-bolshevism_ADJ:0 "Albanian"
+ ALB_technocracy:0 "Albania"
+ ALB_technocracy_ADJ:0 "Albanian"
+ ALB_social_liberalism:0 "Albania"
+ ALB_social_liberalism_ADJ:0 "Albanian"
+ ALB_social_conservatism:0 "Albania"
+ ALB_social_conservatism_ADJ:0 "Albanian"
+ ALB_reactionary:0 "Albania"
+ ALB_reactionary_ADJ:0 "Albanian"
+ ALB_corporatist:0 "Albania"
+ ALB_corporatist_ADJ:0 "Albanian"
+ ALB_autocracy:0 "Albania"
+ ALB_autocracy_ADJ:0 "Albanian"
+ ALB_ultranationalism:0 "Albania"
+ ALB_ultranationalism_ADJ:0 "Albanian"
+ ALB_supremacism:0 "Albania"
+ ALB_supremacism_ADJ:0 "Albanian"
+ ALB_death_cultism:0 "Death Cult Albania"
+ ALB_death_cultism_ADJ:0 "Albanian"
+ 
+ ###Political Parties###

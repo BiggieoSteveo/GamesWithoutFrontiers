@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SLV_cluster:0 "Cluster Empire"
+ SLV_cluster_DEF:0 "The Cluster Empire"
+ SLV_cluster_ADJ:0 "Cluster"
+ SLV_internationalism:0 "People's Republic of Slovenia"
+ SLV_internationalism_ADJ:0 "Slovenian"
+ SLV_neo-bolshevism:0 "People's Republic of Slovenia"
+ SLV_neo-bolshevism_ADJ:0 "Slovenian"
+ SLV_technocracy:0 "Slovenia"
+ SLV_technocracy_ADJ:0 "Slovenian"
+ SLV_progressivism:0 "Slovenia"
+ SLV_progressivism_ADJ:0 "Slovenian"
+ SLV_social_liberalism:0 "Slovenia"
+ SLV_social_liberalism_ADJ:0 "Slovenian"
+ SLV_social_conservatism:0 "Slovenia"
+ SLV_social_conservatism_ADJ:0 "Slovenian"
+ SLV_reactionary:0 "Slovenia"
+ SLV_reactionary_ADJ:0 "Slovenian"
+ SLV_corporatist:0 "Slovenia"
+ SLV_corporatist_ADJ:0 "Slovenian"
+ SLV_autocracy:0 "Slovenia"
+ SLV_autocracy_ADJ:0 "Slovenian"
+ SLV_ultranationalism:0 "Slovenia"
+ SLV_ultranationalism_ADJ:0 "Slovenian"
+ SLV_supremacism:0 "Slovenia"
+ SLV_supremacism_ADJ:0 "Slovenian"
+ SLV_death_cultism:0 "Death Cult Slovenia"
+ SLV_death_cultism_ADJ:0 "Slovenian"
+ 
+ ###Political Parties###
