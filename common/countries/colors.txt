@@ -797,4 +797,8 @@ SKK = {
 GRN = {
 	color = rgb { 242 138 149 }
 	color_ui = rgb { 242 138 149 }
+}
+CSL = {
+	color = rgb { 183 0 0 }
+	color_ui = rgb { 183 0 0 }
 }	
