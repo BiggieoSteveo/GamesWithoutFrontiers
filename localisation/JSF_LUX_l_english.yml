@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SWI_cluster:0 "Cluster Empire"
+ SWI_cluster_DEF:0 "The Cluster Empire"
+ SWI_cluster_ADJ:0 "Cluster"
+ SWI_internationalism:0 "People's Republic of Luxembourg"
+ SWI_internationalism_ADJ:0 "Luxembourgish"
+ SWI_neo-bolshevism:0 "People's Republic of Luxembourg"
+ SWI_neo-bolshevism_ADJ:0 "Luxembourgish"
+ SWI_technocracy:0 "Luxembourg"
+ SWI_technocracy_ADJ:0 "Luxembourgish"
+ SWI_social_liberalism:0 "Luxembourg"
+ SWI_social_liberalism_ADJ:0 "Luxembourgish"
+ SWI_social_conservatism:0 "Luxembourg"
+ SWI_social_conservatism_ADJ:0 "Luxembourgish"
+ SWI_reactionary:0 "Luxembourg"
+ SWI_reactionary_ADJ:0 "Luxembourgish"
+ SWI_corporatist:0 "Luxembourg"
+ SWI_corporatist_ADJ:0 "Luxembourgish"
+ SWI_autocracy:0 "Luxembourg"
+ SWI_autocracy_ADJ:0 "Luxembourgish"
+ SWI_ultranationalism:0 "Luxembourg"
+ SWI_ultranationalism_ADJ:0 "Luxembourgish"
+ SWI_supremacism:0 "Luxembourg"
+ SWI_supremacism_ADJ:0 "Luxembourgish"
+ SWI_death_cultism:0 "Death Cult Luxembourg"
+ SWI_death_cultism_ADJ:0 "Luxembourgish"
+ 
+ ###Political Parties###
