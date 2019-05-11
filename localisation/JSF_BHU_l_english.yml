@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ BHU_cluster:0 "Cluster Empire"
+ BHU_cluster_DEF:0 "The Cluster Empire"
+ BHU_cluster_ADJ:0 "Cluster"
+ BHU_internationalism:0 "People's Republic of Bhutan"
+ BHU_internationalism_ADJ:0 "Bhutanese"
+ BHU_neo-bolshevism:0 "People's Republic of Bhutan"
+ BHU_neo-bolshevism_ADJ:0 "Bhutanese"
+ BHU_technocracy:0 "Bhutan"
+ BHU_technocracy_ADJ:0 "Bhutanese"
+ BHU_progressivism:0 "Bhutan"
+ BHU_progressivism_ADJ:0 "Bhutanese"
+ BHU_social_liberalism:0 "Bhutan"
+ BHU_social_liberalism_ADJ:0 "Bhutanese"
+ BHU_social_conservatism:0 "Bhutan"
+ BHU_social_conservatism_ADJ:0 "Bhutanese"
+ BHU_reactionary:0 "Bhutan"
+ BHU_reactionary_ADJ:0 "Bhutanese"
+ BHU_corporatist:0 "Bhutan"
+ BHU_corporatist_ADJ:0 "Bhutanese"
+ BHU_autocracy:0 "Bhutan"
+ BHU_autocracy_ADJ:0 "Bhutanese"
+ BHU_ultranationalism:0 "Bhutan"
+ BHU_ultranationalism_ADJ:0 "Bhutanese"
+ BHU_supremacism:0 "Bhutan"
+ BHU_supremacism_ADJ:0 "Bhutanese"
+ BHU_death_cultism:0 "Death Cult Bhutan"
+ BHU_death_cultism_ADJ:0 "Bhutanese"
+
+ ###Political Parties###

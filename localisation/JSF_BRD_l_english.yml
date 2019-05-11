@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ BRD_cluster:0 "Cluster Empire"
+ BRD_cluster_DEF:0 "The Cluster Empire"
+ BRD_cluster_ADJ:0 "Cluster"
+ BRD_internationalism:0 "People's Republic of Burundi"
+ BRD_internationalism_ADJ:0 "Burundian"
+ BRD_neo-bolshevism:0 "People's Republic of Burundi"
+ BRD_neo-bolshevism_ADJ:0 "Burundian"
+ BRD_technocracy:0 "Burundi"
+ BRD_technocracy_ADJ:0 "Burundian"
+ BRD_social_liberalism:0 "Burundi"
+ BRD_social_liberalism_ADJ:0 "Burundian"
+ BRD_social_conservatism:0 "Burundi"
+ BRD_social_conservatism_ADJ:0 "Burundian"
+ BRD_reactionary:0 "Burundi"
+ BRD_reactionary_ADJ:0 "Burundian"
+ BRD_corporatist:0 "Burundi"
+ BRD_corporatist_ADJ:0 "Burundian"
+ BRD_autocracy:0 "Burundi"
+ BRD_autocracy_ADJ:0 "Burundian"
+ BRD_ultranationalism:0 "Burundi"
+ BRD_ultranationalism_ADJ:0 "Burundian"
+ BRD_supremacism:0 "Burundi"
+ BRD_supremacism_ADJ:0 "Burundian"
+ BRD_death_cultism:0 "Death Cult Burundi"
+ BRD_death_cultism_ADJ:0 "Burundian"
+
+ ###Political Parties###

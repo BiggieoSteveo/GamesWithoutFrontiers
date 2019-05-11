@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ UAE_cluster:0 "Cluster Empire"
+ UAE_cluster_DEF:0 "The Cluster Empire"
+ UAE_cluster_ADJ:0 "Cluster"
+ UAE_internationalism:0 "United Arab Communes"
+ UAE_internationalism_ADJ:0 "Arabian"
+ UAE_neo-bolshevism:0 "United Arab Communes"
+ UAE_neo-bolshevism_ADJ:0 "Arabian"
+ UAE_technocracy:0 "Federation of Arabian States"
+ UAE_technocracy_ADJ:0 "Arabian"
+ UAE_progressivism:0 "Federation of Arabian States"
+ UAE_progressivism_ADJ:0 "Arabian"
+ UAE_social_liberalism:0 "Federation of Arabian States"
+ UAE_social_liberalism_ADJ:0 "Arabian"
+ UAE_social_conservatism:0 "Federation of Arabian States"
+ UAE_social_conservatism_ADJ:0 "Arabian"
+ UAE_reactionary:0 "Federation of Arabian States"
+ UAE_reactionary_ADJ:0 "Arabian"
+ UAE_corporatist:0 "Federation of Arabian States"
+ UAE_corporatist_ADJ:0 "Arabian"
+ UAE_autocracy:0 "Federation of Arabian States"
+ UAE_autocracy_ADJ:0 "Arabian"
+ UAE_ultranationalism:0 "Federation of Arabian States"
+ UAE_ultranationalism_ADJ:0 "Arabian"
+ UAE_supremacism:0 "Federation of Arabian States"
+ UAE_supremacism_ADJ:0 "Arabian"
+ UAE_death_cultism:0 "Death Cult Federation of Arabian States"
+ UAE_death_cultism_ADJ:0 "Arabian"
+
+ ###Political Parties###

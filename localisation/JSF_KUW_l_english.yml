@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ KUW_cluster:0 "Cluster Empire"
+ KUW_cluster_DEF:0 "The Cluster Empire"
+ KUW_cluster_ADJ:0 "Cluster"
+ KUW_internationalism:0 "People's Republic of Kuwait"
+ KUW_internationalism_ADJ:0 "Afghan"
+ KUW_neo-bolshevism:0 "People's Republic of Kuwait"
+ KUW_neo-bolshevism_ADJ:0 "Afghan"
+ KUW_technocracy:0 "Kuwait"
+ KUW_technocracy_ADJ:0 "Kuwaiti"
+ KUW_progressivism:0 "Kuwait"
+ KUW_progressivism_ADJ:0 "Kuwaiti"
+ KUW_social_liberalism:0 "Kuwait"
+ KUW_social_liberalism_ADJ:0 "Kuwaiti"
+ KUW_social_conservatism:0 "Kuwait"
+ KUW_social_conservatism_ADJ:0 "Kuwaiti"
+ KUW_reactionary:0 "Kuwait"
+ KUW_reactionary_ADJ:0 "Kuwaiti"
+ KUW_corporatist:0 "Kuwait"
+ KUW_corporatist_ADJ:0 "Kuwaiti"
+ KUW_autocracy:0 "Kuwait"
+ KUW_autocracy_ADJ:0 "Kuwaiti"
+ KUW_ultranationalism:0 "Kuwait"
+ KUW_ultranationalism_ADJ:0 "Kuwaiti"
+ KUW_supremacism:0 "Kuwait"
+ KUW_supremacism_ADJ:0 "Kuwaiti"
+ KUW_death_cultism:0 "Death Cult Kuwait"
+ KUW_death_cultism_ADJ:0 "Kuwaiti"
+
+ ###Political Parties###

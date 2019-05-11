@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ MAD_cluster:0 "Cluster Empire"
+ MAD_cluster_DEF:0 "The Cluster Empire"
+ MAD_cluster_ADJ:0 "Cluster"
+ MAD_internationalism:0 "People's Republic of Madagascar"
+ MAD_internationalism_ADJ:0 "Malagasy"
+ MAD_neo-bolshevism:0 "People's Republic of Madagascar"
+ MAD_neo-bolshevism_ADJ:0 "Malagasy"
+ MAD_technocracy:0 "Madagascar"
+ MAD_technocracy_ADJ:0 "Malagasy"
+ MAD_progressivism:0 "Madagascar"
+ MAD_progressivism_ADJ:0 "Malagasy"
+ MAD_social_liberalism:0 "Madagascar"
+ MAD_social_liberalism_ADJ:0 "Malagasy"
+ MAD_social_conservatism:0 "Madagascar"
+ MAD_social_conservatism_ADJ:0 "Malagasy"
+ MAD_reactionary:0 "Madagascar"
+ MAD_reactionary_ADJ:0 "Malagasy"
+ MAD_corporatist:0 "Madagascar"
+ MAD_corporatist_ADJ:0 "Malagasy"
+ MAD_autocracy:0 "Madagascar"
+ MAD_autocracy_ADJ:0 "Malagasy"
+ MAD_ultranationalism:0 "Madagascar"
+ MAD_ultranationalism_ADJ:0 "Malagasy"
+ MAD_supremacism:0 "Madagascar"
+ MAD_supremacism_ADJ:0 "Malagasy"
+ MAD_death_cultism:0 "Death Cult Madagascar"
+ MAD_death_cultism_ADJ:0 "Malagasy"
+
+ ###Political Parties###

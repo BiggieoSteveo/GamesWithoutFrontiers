@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ MOR_cluster:0 "Cluster Empire"
+ MOR_cluster_DEF:0 "The Cluster Empire"
+ MOR_cluster_ADJ:0 "Cluster"
+ MOR_internationalism:0 "People's Republic of Morocco"
+ MOR_internationalism_ADJ:0 "Moroccan"
+ MOR_neo-bolshevism:0 "People's Republic of Morocco"
+ MOR_neo-bolshevism_ADJ:0 "Moroccan"
+ MOR_technocracy:0 "Morocco"
+ MOR_technocracy_ADJ:0 "Moroccan"
+ MOR_progressivism:0 "Morocco"
+ MOR_progressivism_ADJ:0 "Moroccan"
+ MOR_social_liberalism:0 "Morocco"
+ MOR_social_liberalism_ADJ:0 "Moroccan"
+ MOR_social_conservatism:0 "Morocco"
+ MOR_social_conservatism_ADJ:0 "Moroccan"
+ MOR_reactionary:0 "Morocco"
+ MOR_reactionary_ADJ:0 "Moroccan"
+ MOR_corporatist:0 "Morocco"
+ MOR_corporatist_ADJ:0 "Moroccan"
+ MOR_autocracy:0 "Morocco"
+ MOR_autocracy_ADJ:0 "Moroccan"
+ MOR_ultranationalism:0 "Morocco"
+ MOR_ultranationalism_ADJ:0 "Moroccan"
+ MOR_supremacism:0 "Morocco"
+ MOR_supremacism_ADJ:0 "Moroccan"
+ MOR_death_cultism:0 "Death Cult Morocco"
+ MOR_death_cultism_ADJ:0 "Moroccan"
+
+ ###Political Parties###

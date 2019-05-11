@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ TUN_cluster:0 "Cluster Empire"
+ TUN_cluster_DEF:0 "The Cluster Empire"
+ TUN_cluster_ADJ:0 "Cluster"
+ TUN_internationalism:0 "People's Republic of Tunisia"
+ TUN_internationalism_ADJ:0 "Tunisian"
+ TUN_neo-bolshevism:0 "People's Republic of Tunisia"
+ TUN_neo-bolshevism_ADJ:0 "Tunisian"
+ TUN_technocracy:0 "Tunisia"
+ TUN_technocracy_ADJ:0 "Tunisian"
+ TUN_social_liberalism:0 "Tunisia"
+ TUN_social_liberalism_ADJ:0 "Tunisian"
+ TUN_social_conservatism:0 "Tunisia"
+ TUN_social_conservatism_ADJ:0 "Tunisian"
+ TUN_reactionary:0 "Tunisia"
+ TUN_reactionary_ADJ:0 "Tunisian"
+ TUN_corporatist:0 "Tunisia"
+ TUN_corporatist_ADJ:0 "Tunisian"
+ TUN_autocracy:0 "Tunisia"
+ TUN_autocracy_ADJ:0 "Tunisian"
+ TUN_ultranationalism:0 "Tunisia"
+ TUN_ultranationalism_ADJ:0 "Tunisian"
+ TUN_supremacism:0 "Tunisia"
+ TUN_supremacism_ADJ:0 "Tunisian"
+ TUN_death_cultism:0 "Death Cult Tunisia"
+ TUN_death_cultism_ADJ:0 "Tunisian"
+
+ ###Political Parties###

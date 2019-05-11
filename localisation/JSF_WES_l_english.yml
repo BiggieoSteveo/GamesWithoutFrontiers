@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ WES_cluster:0 "Cluster Empire"
+ WES_cluster_DEF:0 "The Cluster Empire"
+ WES_cluster_ADJ:0 "Cluster"
+ WES_internationalism:0 "People's Republic of Western Sahara"
+ WES_internationalism_ADJ:0 "Sahrawi"
+ WES_neo-bolshevism:0 "People's Republic of Western Sahara"
+ WES_neo-bolshevism_ADJ:0 "Sahrawi"
+ WES_technocracy:0 "Western Sahara"
+ WES_technocracy_ADJ:0 "Sahrawi"
+ WES_progressivism:0 "Western Sahara"
+ WES_progressivism_ADJ:0 "Sahrawi"
+ WES_social_liberalism:0 "Western Sahara"
+ WES_social_liberalism_ADJ:0 "Sahrawi"
+ WES_social_conservatism:0 "Western Sahara"
+ WES_social_conservatism_ADJ:0 "Sahrawi"
+ WES_reactionary:0 "Western Sahara"
+ WES_reactionary_ADJ:0 "Sahrawi"
+ WES_corporatist:0 "Western Sahara"
+ WES_corporatist_ADJ:0 "Sahrawi"
+ WES_autocracy:0 "Western Sahara"
+ WES_autocracy_ADJ:0 "Sahrawi"
+ WES_ultranationalism:0 "Western Sahara"
+ WES_ultranationalism_ADJ:0 "Sahrawi"
+ WES_supremacism:0 "Western Sahara"
+ WES_supremacism_ADJ:0 "Sahrawi"
+ WES_death_cultism:0 "Death Cult Western Sahara"
+ WES_death_cultism_ADJ:0 "Sahrawi"
+
+ ###Political Parties###

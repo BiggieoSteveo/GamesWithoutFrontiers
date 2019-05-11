@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ RWA_cluster:0 "Cluster Empire"
+ RWA_cluster_DEF:0 "The Cluster Empire"
+ RWA_cluster_ADJ:0 "Cluster"
+ RWA_internationalism:0 "People's Republic of Rwanda"
+ RWA_internationalism_ADJ:0 "Rwandan"
+ RWA_neo-bolshevism:0 "People's Republic of Rwanda"
+ RWA_neo-bolshevism_ADJ:0 "Rwandan"
+ RWA_technocracy:0 "Rwanda"
+ RWA_technocracy_ADJ:0 "Rwandan"
+ RWA_social_liberalism:0 "Rwanda"
+ RWA_social_liberalism_ADJ:0 "Rwandan"
+ RWA_social_conservatism:0 "Rwanda"
+ RWA_social_conservatism_ADJ:0 "Rwandan"
+ RWA_reactionary:0 "Rwanda"
+ RWA_reactionary_ADJ:0 "Rwandan"
+ RWA_corporatist:0 "Rwanda"
+ RWA_corporatist_ADJ:0 "Rwandan"
+ RWA_autocracy:0 "Rwanda"
+ RWA_autocracy_ADJ:0 "Rwandan"
+ RWA_ultranationalism:0 "Rwanda"
+ RWA_ultranationalism_ADJ:0 "Rwandan"
+ RWA_supremacism:0 "Rwanda"
+ RWA_supremacism_ADJ:0 "Rwandan"
+ RWA_death_cultism:0 "Death Cult Rwanda"
+ RWA_death_cultism_ADJ:0 "Rwandan"
+
+ ###Political Parties###
