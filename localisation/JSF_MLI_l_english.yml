@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ MLI_cluster:0 "Cluster Empire"
+ MLI_cluster_DEF:0 "The Cluster Empire"
+ MLI_cluster_ADJ:0 "Cluster"
+ MLI_internationalism:0 "People's Republic of Mali"
+ MLI_internationalism_ADJ:0 "Malian"
+ MLI_neo-bolshevism:0 "People's Republic of Mali"
+ MLI_neo-bolshevism_ADJ:0 "Malian"
+ MLI_technocracy:0 "Mali"
+ MLI_technocracy_ADJ:0 "Malian"
+ MLI_social_liberalism:0 "Mali"
+ MLI_social_liberalism_ADJ:0 "Malian"
+ MLI_social_conservatism:0 "Mali"
+ MLI_social_conservatism_ADJ:0 "Malian"
+ MLI_reactionary:0 "Mali"
+ MLI_reactionary_ADJ:0 "Malian"
+ MLI_corporatist:0 "Mali"
+ MLI_corporatist_ADJ:0 "Malian"
+ MLI_autocracy:0 "Mali"
+ MLI_autocracy_ADJ:0 "Malian"
+ MLI_ultranationalism:0 "Mali"
+ MLI_ultranationalism_ADJ:0 "Malian"
+ MLI_supremacism:0 "Mali"
+ MLI_supremacism_ADJ:0 "Malian"
+ MLI_death_cultism:0 "Death Cult Mali"
+ MLI_death_cultism_ADJ:0 "Malian"
+ 
+ ###Political Parties###

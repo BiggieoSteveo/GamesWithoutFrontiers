@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ NIE_cluster:0 "Cluster Empire"
+ NIE_cluster_DEF:0 "The Cluster Empire"
+ NIE_cluster_ADJ:0 "Cluster"
+ NIE_internationalism:0 "People's Republic of Niger"
+ NIE_internationalism_ADJ:0 "Nigerian"
+ NIE_neo-bolshevism:0 "People's Republic of Niger"
+ NIE_neo-bolshevism_ADJ:0 "Nigerian"
+ NIE_technocracy:0 "Niger"
+ NIE_technocracy_ADJ:0 "Nigerian"
+ NIE_social_liberalism:0 "Niger"
+ NIE_social_liberalism_ADJ:0 "Nigerian"
+ NIE_social_conservatism:0 "Niger"
+ NIE_social_conservatism_ADJ:0 "Nigerian"
+ NIE_reactionary:0 "Niger"
+ NIE_reactionary_ADJ:0 "Nigerian"
+ NIE_corporatist:0 "Niger"
+ NIE_corporatist_ADJ:0 "Nigerian"
+ NIE_autocracy:0 "Niger"
+ NIE_autocracy_ADJ:0 "Nigerian"
+ NIE_ultranationalism:0 "Niger"
+ NIE_ultranationalism_ADJ:0 "Nigerian"
+ NIE_supremacism:0 "Niger"
+ NIE_supremacism_ADJ:0 "Nigerian"
+ NIE_death_cultism:0 "Death Cult Niger"
+ NIE_death_cultism_ADJ:0 "Nigerian"
+ 
+ ###Political Parties###

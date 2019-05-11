@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ IVO_cluster:0 "Cluster Empire"
+ IVO_cluster_DEF:0 "The Cluster Empire"
+ IVO_cluster_ADJ:0 "Cluster"
+ IVO_internationalism:0 "People's Republic of Ivory Coast"
+ IVO_internationalism_ADJ:0 "Ivorian"
+ IVO_neo-bolshevism:0 "People's Republic of Ivory Coast"
+ IVO_neo-bolshevism_ADJ:0 "Ivorian"
+ IVO_technocracy:0 "Ivory Coast"
+ IVO_technocracy_ADJ:0 "Ivorian"
+ IVO_social_liberalism:0 "Ivory Coast"
+ IVO_social_liberalism_ADJ:0 "Ivorian"
+ IVO_social_conservatism:0 "Ivory Coast"
+ IVO_social_conservatism_ADJ:0 "Ivorian"
+ IVO_reactionary:0 "Ivory Coast"
+ IVO_reactionary_ADJ:0 "Ivorian"
+ IVO_corporatist:0 "Ivory Coast"
+ IVO_corporatist_ADJ:0 "Ivorian"
+ IVO_autocracy:0 "Ivory Coast"
+ IVO_autocracy_ADJ:0 "Ivorian"
+ IVO_ultranationalism:0 "Ivory Coast"
+ IVO_ultranationalism_ADJ:0 "Ivorian"
+ IVO_supremacism:0 "Ivory Coast"
+ IVO_supremacism_ADJ:0 "Ivorian"
+ IVO_death_cultism:0 "Death Cult Ivory Coast"
+ IVO_death_cultism_ADJ:0 "Ivorian"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ LIB_cluster:0 "Cluster Empire"
+ LIB_cluster_DEF:0 "The Cluster Empire"
+ LIB_cluster_ADJ:0 "Cluster"
+ LIB_internationalism:0 "People's Republic of Liberia"
+ LIB_internationalism_ADJ:0 "Liberian"
+ LIB_neo-bolshevism:0 "People's Republic of Liberia"
+ LIB_neo-bolshevism_ADJ:0 "Liberian"
+ LIB_technocracy:0 "Liberia"
+ LIB_technocracy_ADJ:0 "Liberian"
+ LIB_social_liberalism:0 "Liberia"
+ LIB_social_liberalism_ADJ:0 "Liberian"
+ LIB_social_conservatism:0 "Liberia"
+ LIB_social_conservatism_ADJ:0 "Liberian"
+ LIB_reactionary:0 "Liberia"
+ LIB_reactionary_ADJ:0 "Liberian"
+ LIB_corporatist:0 "Liberia"
+ LIB_corporatist_ADJ:0 "Liberian"
+ LIB_autocracy:0 "Liberia"
+ LIB_autocracy_ADJ:0 "Liberian"
+ LIB_ultranationalism:0 "Liberia"
+ LIB_ultranationalism_ADJ:0 "Liberian"
+ LIB_supremacism:0 "Liberia"
+ LIB_supremacism_ADJ:0 "Liberian"
+ LIB_death_cultism:0 "Death Cult Liberia"
+ LIB_death_cultism_ADJ:0 "Liberian"
+ 
+ ###Political Parties###
