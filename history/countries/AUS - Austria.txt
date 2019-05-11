@@ -53,9 +53,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Benedikt Hanfstaengl"
+	name = "Ina Dürr"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Austria_Benedikt_Hanfstaengl.dds"
+	picture = "Portrait_Austria_Ina_Dürr.dds"
 	expire = "1965.1.1"
 	ideology = internationalist_subtype
 	traits = { }
