@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SIE_cluster:0 "Cluster Empire"
+ SIE_cluster_DEF:0 "The Cluster Empire"
+ SIE_cluster_ADJ:0 "Cluster"
+ SIE_internationalism:0 "People's Republic of Sierra Leone"
+ SIE_internationalism_ADJ:0 "Sierra Leonean"
+ SIE_neo-bolshevism:0 "People's Republic of Sierra Leone"
+ SIE_neo-bolshevism_ADJ:0 "Sierra Leonean"
+ SIE_technocracy:0 "Sierra Leone"
+ SIE_technocracy_ADJ:0 "Sierra Leonean"
+ SIE_social_liberalism:0 "Sierra Leone"
+ SIE_social_liberalism_ADJ:0 "Sierra Leonean"
+ SIE_social_conservatism:0 "Sierra Leone"
+ SIE_social_conservatism_ADJ:0 "Sierra Leonean"
+ SIE_reactionary:0 "Sierra Leone"
+ SIE_reactionary_ADJ:0 "Sierra Leonean"
+ SIE_corporatist:0 "Sierra Leone"
+ SIE_corporatist_ADJ:0 "Sierra Leonean"
+ SIE_autocracy:0 "Sierra Leone"
+ SIE_autocracy_ADJ:0 "Sierra Leonean"
+ SIE_ultranationalism:0 "Sierra Leone"
+ SIE_ultranationalism_ADJ:0 "Sierra Leonean"
+ SIE_supremacism:0 "Sierra Leone"
+ SIE_supremacism_ADJ:0 "Sierra Leonean"
+ SIE_death_cultism:0 "Death Cult Sierra Leone"
+ SIE_death_cultism_ADJ:0 "Sierra Leonean"
+ 
+ ###Political Parties###

@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ###Country Names###
+ CMR_cluster:0 "Cluster Empire"
+ CMR_cluster_DEF:0 "The Cluster Empire"
+ CMR_cluster_ADJ:0 "Cluster"
+ CMR_internationalism:0 "People's Republic of Cameroon"
+ CMR_internationalism_ADJ:0 "Cameroonian"
+ CMR_neo-bolshevism:0 "People's Republic of Cameroon"
+ CMR_neo-bolshevism_ADJ:0 "Cameroonian"
+ CMR_technocracy:0 "Cameroon"
+ CMR_technocracy_ADJ:0 "Cameroonian"
+ CMR_progressivism:0 "Cameroon"
+ CMR_progressivism_ADJ:0 "Cameroonian"
+ CMR_social_liberalism:0 "Cameroon"
+ CMR_social_liberalism_ADJ:0 "Cameroonian"
+ CMR_social_conservatism:0 "Cameroon"
+ CMR_social_conservatism_ADJ:0 "Cameroonian"
+ CMR_reactionary:0 "Cameroon"
+ CMR_reactionary_ADJ:0 "Cameroonian"
+ CMR_corporatist:0 "Cameroon"
+ CMR_corporatist_ADJ:0 "Cameroonian"
+ CMR_autocracy:0 "Cameroon"
+ CMR_autocracy_ADJ:0 "Cameroonian"
+ CMR_ultranationalism:0 "Cameroon"
+ CMR_ultranationalism_ADJ:0 "Cameroonian"
+ CMR_supremacism:0 "Cameroon"
+ CMR_supremacism_ADJ:0 "Cameroonian"
+ CMR_death_cultism:0 "Death Cult Cameroon"
+ CMR_death_cultism_ADJ:0 "Cameroonian"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ GNA_cluster:0 "Cluster Empire"
+ GNA_cluster_DEF:0 "The Cluster Empire"
+ GNA_cluster_ADJ:0 "Cluster"
+ GNA_internationalism:0 "People's Republic of Guinea"
+ GNA_internationalism_ADJ:0 "Guinean"
+ GNA_neo-bolshevism:0 "People's Republic of Guinea"
+ GNA_neo-bolshevism_ADJ:0 "Guinean"
+ GNA_technocracy:0 "Guinea"
+ GNA_technocracy_ADJ:0 "Guinean"
+ GNA_social_liberalism:0 "Guinea"
+ GNA_social_liberalism_ADJ:0 "Guinean"
+ GNA_social_conservatism:0 "Guinea"
+ GNA_social_conservatism_ADJ:0 "Guinean"
+ GNA_reactionary:0 "Guinea"
+ GNA_reactionary_ADJ:0 "Guinean"
+ GNA_corporatist:0 "Guinea"
+ GNA_corporatist_ADJ:0 "Guinean"
+ GNA_autocracy:0 "Guinea"
+ GNA_autocracy_ADJ:0 "Guinean"
+ GNA_ultranationalism:0 "Guinea"
+ GNA_ultranationalism_ADJ:0 "Guinean"
+ GNA_supremacism:0 "Guinea"
+ GNA_supremacism_ADJ:0 "Guinean"
+ GNA_death_cultism:0 "Death Cult Guinea"
+ GNA_death_cultism_ADJ:0 "Guinean"
+
+ ###Political Parties###

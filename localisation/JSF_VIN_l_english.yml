@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ VIN_cluster:0 "Cluster Empire"
+ VIN_cluster_DEF:0 "The Cluster Empire"
+ VIN_cluster_ADJ:0 "Cluster"
+ VIN_internationalism:0 "People's Republic of Vietnam"
+ VIN_internationalism_ADJ:0 "Vietnamese"
+ VIN_neo-bolshevism:0 "People's Republic of Vietnam"
+ VIN_neo-bolshevism_ADJ:0 "Vietnamese"
+ VIN_technocracy:0 "Vietnam"
+ VIN_technocracy_ADJ:0 "Vietnamese"
+ VIN_social_liberalism:0 "Vietnam"
+ VIN_social_liberalism_ADJ:0 "Vietnamese"
+ VIN_social_conservatism:0 "Vietnam"
+ VIN_social_conservatism_ADJ:0 "Vietnamese"
+ VIN_reactionary:0 "Vietnam"
+ VIN_reactionary_ADJ:0 "Vietnamese"
+ VIN_corporatist:0 "Vietnam"
+ VIN_corporatist_ADJ:0 "Vietnamese"
+ VIN_autocracy:0 "Vietnam"
+ VIN_autocracy_ADJ:0 "Vietnamese"
+ VIN_ultranationalism:0 "Vietnam"
+ VIN_ultranationalism_ADJ:0 "Vietnamese"
+ VIN_supremacism:0 "Vietnam"
+ VIN_supremacism_ADJ:0 "Vietnamese"
+ VIN_death_cultism:0 "Death Cult Vietnam"
+ VIN_death_cultism_ADJ:0 "Vietnamese"
+ 
+ ###Political Parties###

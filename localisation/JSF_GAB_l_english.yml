@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ GAB_cluster:0 "Cluster Empire"
+ GAB_cluster_DEF:0 "The Cluster Empire"
+ GAB_cluster_ADJ:0 "Cluster"
+ GAB_internationalism:0 "People's Republic of Gabon"
+ GAB_internationalism_ADJ:0 "Gabonese"
+ GAB_neo-bolshevism:0 "People's Republic of Gabon"
+ GAB_neo-bolshevism_ADJ:0 "Gabonese"
+ GAB_technocracy:0 "Gabon"
+ GAB_technocracy_ADJ:0 "Gabonese"
+ GAB_social_liberalism:0 "Gabon"
+ GAB_social_liberalism_ADJ:0 "Gabonese"
+ GAB_social_conservatism:0 "Gabon"
+ GAB_social_conservatism_ADJ:0 "Gabonese"
+ GAB_reactionary:0 "Gabon"
+ GAB_reactionary_ADJ:0 "Gabonese"
+ GAB_corporatist:0 "Gabon"
+ GAB_corporatist_ADJ:0 "Gabonese"
+ GAB_autocracy:0 "Gabon"
+ GAB_autocracy_ADJ:0 "Gabonese"
+ GAB_ultranationalism:0 "Gabon"
+ GAB_ultranationalism_ADJ:0 "Gabonese"
+ GAB_supremacism:0 "Gabon"
+ GAB_supremacism_ADJ:0 "Gabonese"
+ GAB_death_cultism:0 "Death Cult Gabon"
+ GAB_death_cultism_ADJ:0 "Gabonese"
+ 
+ ###Political Parties###

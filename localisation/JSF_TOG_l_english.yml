@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ TOG_cluster:0 "Cluster Empire"
+ TOG_cluster_DEF:0 "The Cluster Empire"
+ TOG_cluster_ADJ:0 "Cluster"
+ TOG_internationalism:0 "People's Republic of Togo"
+ TOG_internationalism_ADJ:0 "Togolese"
+ TOG_neo-bolshevism:0 "People's Republic of Togo"
+ TOG_neo-bolshevism_ADJ:0 "Togolese"
+ TOG_technocracy:0 "Togo"
+ TOG_technocracy_ADJ:0 "Togolese"
+ TOG_social_liberalism:0 "Togo"
+ TOG_social_liberalism_ADJ:0 "Togolese"
+ TOG_social_conservatism:0 "Togo"
+ TOG_social_conservatism_ADJ:0 "Togolese"
+ TOG_reactionary:0 "Togo"
+ TOG_reactionary_ADJ:0 "Togolese"
+ TOG_corporatist:0 "Togo"
+ TOG_corporatist_ADJ:0 "Togolese"
+ TOG_autocracy:0 "Togo"
+ TOG_autocracy_ADJ:0 "Togolese"
+ TOG_ultranationalism:0 "Togo"
+ TOG_ultranationalism_ADJ:0 "Togolese"
+ TOG_supremacism:0 "Togo"
+ TOG_supremacism_ADJ:0 "Togolese"
+ TOG_death_cultism:0 "Death Cult Togo"
+ TOG_death_cultism_ADJ:0 "Togolese"
+ 
+ ###Political Parties###

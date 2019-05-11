@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+  ZIM_cluster:0 "Cluster Empire"
+  ZIM_cluster_DEF:0 "The Cluster Empire"
+  ZIM_cluster_ADJ:0 "Cluster"
+ ZIM_internationalism:0 "People's Republic of Rhodesia"
+  ZIM_internationalism_ADJ:0 "Rhodesian"
+ ZIM_neo-bolshevism:0 "People's Republic of Rhodesia"
+  ZIM_neo-bolshevism_ADJ:0 "Rhodesian"
+ ZIM_technocracy:0 "Rhodesia"
+  ZIM_technocracy_ADJ:0 "Rhodesian"
+ ZIM_social_liberalism:0 "Rhodesia"
+  ZIM_social_liberalism_ADJ:0 "Rhodesian"
+ ZIM_social_conservatism:0 "Rhodesia"
+  ZIM_social_conservatism_ADJ:0 "Rhodesian"
+ ZIM_reactionary:0 "Rhodesia"
+  ZIM_reactionary_ADJ:0 "Rhodesian"
+ ZIM_corporatist:0 "Rhodesia"
+  ZIM_corporatist_ADJ:0 "Rhodesian"
+ ZIM_autocracy:0 "Rhodesia"
+  ZIM_autocracy_ADJ:0 "Rhodesian"
+ ZIM_ultranationalism:0 "Rhodesia"
+  ZIM_ultranationalism_ADJ:0 "Rhodesian"
+ ZIM_supremacism:0 "Rhodesia"
+  ZIM_supremacism_ADJ:0 "Rhodesian"
+ ZIM_death_cultism:0 "Death Cult Rhodesia"
+  ZIM_death_cultism_ADJ:0 "Rhodesian"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SIA_cluster:0 "Cluster Empire"
+ SIA_cluster_DEF:0 "The Cluster Empire"
+ SIA_cluster_ADJ:0 "Cluster"
+ SIA_internationalism:0 "People's Republic of Siam"
+ SIA_internationalism_ADJ:0 "Siamese"
+ SIA_neo-bolshevism:0 "People's Republic of Siam"
+ SIA_neo-bolshevism_ADJ:0 "Siamese"
+ SIA_technocracy:0 "Siam"
+ SIA_technocracy_ADJ:0 "Siamese"
+ SIA_social_liberalism:0 "Siam"
+ SIA_social_liberalism_ADJ:0 "Siamese"
+ SIA_social_conservatism:0 "Siam"
+ SIA_social_conservatism_ADJ:0 "Siamese"
+ SIA_reactionary:0 "Siam"
+ SIA_reactionary_ADJ:0 "Siamese"
+ SIA_corporatist:0 "Siam"
+ SIA_corporatist_ADJ:0 "Siamese"
+ SIA_autocracy:0 "Siam"
+ SIA_autocracy_ADJ:0 "Siamese"
+ SIA_ultranationalism:0 "Siam"
+ SIA_ultranationalism_ADJ:0 "Siamese"
+ SIA_supremacism:0 "Siam"
+ SIA_supremacism_ADJ:0 "Siamese"
+ SIA_death_cultism:0 "Harmonious Subordinate of Siam"
+ SIA_death_cultism_ADJ:0 "Siamese"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ UGA_cluster:0 "Cluster Empire"
+ UGA_cluster_DEF:0 "The Cluster Empire"
+ UGA_cluster_ADJ:0 "Cluster"
+ UGA_internationalism:0 "People's Republic of Uganda"
+ UGA_internationalism_ADJ:0 "Ugandan"
+ UGA_neo-bolshevism:0 "People's Republic of Uganda"
+ UGA_neo-bolshevism_ADJ:0 "Ugandan"
+ UGA_technocracy:0 "Uganda"
+ UGA_technocracy_ADJ:0 "Ugandan"
+ UGA_social_liberalism:0 "Uganda"
+ UGA_social_liberalism_ADJ:0 "Ugandan"
+ UGA_social_conservatism:0 "Uganda"
+ UGA_social_conservatism_ADJ:0 "Ugandan"
+ UGA_reactionary:0 "Uganda"
+ UGA_reactionary_ADJ:0 "Ugandan"
+ UGA_corporatist:0 "Uganda"
+ UGA_corporatist_ADJ:0 "Ugandan"
+ UGA_autocracy:0 "Uganda"
+ UGA_autocracy_ADJ:0 "Ugandan"
+ UGA_ultranationalism:0 "Uganda"
+ UGA_ultranationalism_ADJ:0 "Ugandan"
+ UGA_supremacism:0 "Uganda"
+ UGA_supremacism_ADJ:0 "Ugandan"
+ UGA_death_cultism:0 "Death Cult Uganda"
+ UGA_death_cultism_ADJ:0 "Ugandan"
+ 
+ ###Political Parties###

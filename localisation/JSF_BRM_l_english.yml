@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ BRM_cluster:0 "Cluster Empire"
+ BRM_cluster_DEF:0 "The Cluster Empire"
+ BRM_cluster_ADJ:0 "Cluster"
+ BRM_internationalism:0 "People's Republic of Burma"
+ BRM_internationalism_ADJ:0 "Burmese"
+ BRM_neo-bolshevism:0 "People's Republic of Burma"
+ BRM_neo-bolshevism_ADJ:0 "Burmese"
+ BRM_technocracy:0 "Burma"
+ BRM_technocracy_ADJ:0 "Burmese"
+ BRM_social_liberalism:0 "Burma"
+ BRM_social_liberalism_ADJ:0 "Burmese"
+ BRM_social_conservatism:0 "Burma"
+ BRM_social_conservatism_ADJ:0 "Burmese"
+ BRM_reactionary:0 "Burma"
+ BRM_reactionary_ADJ:0 "Burmese"
+ BRM_corporatist:0 "Burma"
+ BRM_corporatist_ADJ:0 "Burmese"
+ BRM_autocracy:0 "Burma"
+ BRM_autocracy_ADJ:0 "Burmese"
+ BRM_ultranationalism:0 "Burma"
+ BRM_ultranationalism_ADJ:0 "Burmese"
+ BRM_supremacism:0 "Burma"
+ BRM_supremacism_ADJ:0 "Burmese"
+ BRM_death_cultism:0 "Guided State of Eternal Prosperity"
+ BRM_death_cultism_ADJ:0 "Burmese"
+ 
+ ###Political Parties###

@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ MRT_cluster:0 "Cluster Empire"
+ MRT_cluster_DEF:0 "The Cluster Empire"
+ MRT_cluster_ADJ:0 "Cluster"
+ MRT_internationalism:0 "People's Republic of Mauritia"
+ MRT_internationalism_ADJ:0 "Mauritian"
+ MRT_neo-bolshevism:0 "People's Republic of Mauritia"
+ MRT_neo-bolshevism_ADJ:0 "Mauritian"
+ MRT_technocracy:0 "Mauritia"
+ MRT_technocracy_ADJ:0 "Mauritian"
+ MRT_social_liberalism:0 "Mauritia"
+ MRT_social_liberalism_ADJ:0 "Mauritian"
+ MRT_social_conservatism:0 "Mauritia"
+ MRT_social_conservatism_ADJ:0 "Mauritian"
+ MRT_reactionary:0 "Mauritia"
+ MRT_reactionary_ADJ:0 "Mauritian"
+ MRT_corporatist:0 "Mauritia"
+ MRT_corporatist_ADJ:0 "Mauritian"
+ MRT_autocracy:0 "Mauritia"
+ MRT_autocracy_ADJ:0 "Mauritian"
+ MRT_ultranationalism:0 "Mauritia"
+ MRT_ultranationalism_ADJ:0 "Mauritian"
+ MRT_supremacism:0 "Mauritia"
+ MRT_supremacism_ADJ:0 "Mauritian"
+ MRT_death_cultism:0 "Death Cult Mauritia"
+ MRT_death_cultism_ADJ:0 "Mauritian"
+ 
+ ###Political Parties###

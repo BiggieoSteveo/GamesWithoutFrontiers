@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ SAF_cluster:0 "Cluster Empire"
+ SAF_cluster_DEF:0 "The Cluster Empire"
+ SAF_cluster_ADJ:0 "Cluster"
+ SAF_internationalism:0 "People's Republic of South Africa"
+ SAF_internationalism_ADJ:0 "South African"
+ SAF_neo-bolshevism:0 "People's Republic of South Africa"
+ SAF_neo-bolshevism_ADJ:0 "South African"
+ SAF_technocracy:0 "South Africa"
+ SAF_technocracy_ADJ:0 "South African"
+ SAF_social_liberalism:0 "South Africa"
+ SAF_social_liberalism_ADJ:0 "South African"
+ SAF_social_conservatism:0 "South Africa"
+ SAF_social_conservatism_ADJ:0 "South African"
+ SAF_reactionary:0 "South Africa"
+ SAF_reactionary_ADJ:0 "South African"
+ SAF_corporatist:0 "South Africa"
+ SAF_corporatist_ADJ:0 "South African"
+ SAF_autocracy:0 "South Africa"
+ SAF_autocracy_ADJ:0 "South African"
+ SAF_ultranationalism:0 "South Africa"
+ SAF_ultranationalism_ADJ:0 "South African"
+ SAF_supremacism:0 "South Africa"
+ SAF_supremacism_ADJ:0 "South African"
+ SAF_death_cultism:0 "Death Cult South Africa"
+ SAF_death_cultism_ADJ:0 "South African"
+ 
+ ###Political Parties###
