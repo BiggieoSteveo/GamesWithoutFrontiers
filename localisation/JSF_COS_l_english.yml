@@ -63,6 +63,8 @@
  COS_social_conservatism_party_long:0 "Partido Unidad Social Cristiana"
  COS_reactionary_party:0 "PIN"
  COS_reactionary_party_long:0 "Partido Integración Nacional"
+ COS_corporatist_party:0 "PNAT"
+ COS_corporatist_party_long:0 "Partido Nacional de Avances Tecnológicos"
  COS_autocracy_party:0 "PPP"
  COS_autocracy_party_long:0 "Partido Patria Primero"
  COS_ultranationalism_party:1 "FN"
