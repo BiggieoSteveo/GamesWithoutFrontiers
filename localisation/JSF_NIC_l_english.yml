@@ -44,7 +44,7 @@ l_english:
  NIC_death_cultism_DEF:0 "Estado del Manto de Nicaragua"
  NIC_death_cultism_ADJ:0 "Nicaraguan"
 
-  ###Political Parties###
+ ###Political Parties###
  NIC_cluster_party:0 "RP"
  NIC_cluster_party_long:0 "Racimo Principal"
  NIC_anarchism_party:0 "PSN-A"
