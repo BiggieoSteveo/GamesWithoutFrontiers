@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ PHI_cluster:0 "Cluster Empire"
+ PHI_cluster_DEF:0 "The Cluster Empire"
+ PHI_cluster_ADJ:0 "Cluster"
+ PHI_internationalism:0 "People's Republic of Philippines"
+ PHI_internationalism_ADJ:0 "Filipino"
+ PHI_neo-bolshevism:0 "People's Republic of Philippines"
+ PHI_neo-bolshevism_ADJ:0 "Filipino"
+ PHI_technocracy:0 "Philippines"
+ PHI_technocracy_ADJ:0 "Filipino"
+ PHI_social_liberalism:0 "Philippines"
+ PHI_social_liberalism_ADJ:0 "Filipino"
+ PHI_social_conservatism:0 "Philippines"
+ PHI_social_conservatism_ADJ:0 "Filipino"
+ PHI_reactionary:0 "Philippines"
+ PHI_reactionary_ADJ:0 "Filipino"
+ PHI_corporatist:0 "Philippines"
+ PHI_corporatist_ADJ:0 "Filipino"
+ PHI_autocracy:0 "Philippines"
+ PHI_autocracy_ADJ:0 "Filipino"
+ PHI_ultranationalism:0 "Philippines"
+ PHI_ultranationalism_ADJ:0 "Filipino"
+ PHI_supremacism:0 "Philippines"
+ PHI_supremacism_ADJ:0 "Filipino"
+ PHI_death_cultism:0 "Death Cult Philippines"
+ PHI_death_cultism_ADJ:0 "Filipino"
+ 
+ ###Political Parties###
