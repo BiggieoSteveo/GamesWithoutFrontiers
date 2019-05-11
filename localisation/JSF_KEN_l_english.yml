@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ KEN_cluster:0 "Cluster Empire"
+ KEN_cluster_DEF:0 "The Cluster Empire"
+ KEN_cluster_ADJ:0 "Cluster"
+ KEN_internationalism:0 "People's Republic of Kenya"
+ KEN_internationalism_ADJ:0 "Kenyan"
+ KEN_neo-bolshevism:0 "People's Republic of Kenya"
+ KEN_neo-bolshevism_ADJ:0 "Kenyan"
+ KEN_technocracy:0 "Kenya"
+ KEN_technocracy_ADJ:0 "Kenyan"
+ KEN_social_liberalism:0 "Kenya"
+ KEN_social_liberalism_ADJ:0 "Kenyan"
+ KEN_social_conservatism:0 "Kenya"
+ KEN_social_conservatism_ADJ:0 "Kenyan"
+ KEN_reactionary:0 "Kenya"
+ KEN_reactionary_ADJ:0 "Kenyan"
+ KEN_corporatist:0 "Kenya"
+ KEN_corporatist_ADJ:0 "Kenyan"
+ KEN_autocracy:0 "Kenya"
+ KEN_autocracy_ADJ:0 "Kenyan"
+ KEN_ultranationalism:0 "Kenya"
+ KEN_ultranationalism_ADJ:0 "Kenyan"
+ KEN_supremacism:0 "Kenya"
+ KEN_supremacism_ADJ:0 "Kenyan"
+ KEN_death_cultism:0 "Death Cult Kenya"
+ KEN_death_cultism_ADJ:0 "Kenyan"
+ 
+ ###Political Parties###
