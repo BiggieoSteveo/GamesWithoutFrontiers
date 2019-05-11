@@ -1,18 +1,31 @@
 state={
 	id=797
-	name="STATE_797"
-	state_category = rural
+	name="Warri"
 
-	history = {
+	state_category = rural
+	resources={
+		rubber=2 # was: 3
+	}
+	history={
 		owner = BIA
 		add_core_of = BIA
 		add_core_of = NGA
-	}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 0
+			industrial_complex = 1
+			2050 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			2050 1
+		}
 
+	}
 	provinces={
-		13219 13220 13221 13222 13223 13224 13235 
+		13227 13219 13221 13225 13232 13220
 	}
-
-	manpower=562852
+	manpower=0
 	buildings_max_level_factor=1.000
 }
