@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ INS_cluster:0 "Cluster Empire"
+ INS_cluster_DEF:0 "The Cluster Empire"
+ INS_cluster_ADJ:0 "Cluster"
+ INS_internationalism:0 "People's Republic of Indonesia"
+ INS_internationalism_ADJ:0 "Indonesian"
+ INS_neo-bolshevism:0 "People's Republic of Indonesia"
+ INS_neo-bolshevism_ADJ:0 "Indonesian"
+ INS_technocracy:0 "Indonesia"
+ INS_technocracy_ADJ:0 "Indonesian"
+ INS_social_liberalism:0 "Indonesia"
+ INS_social_liberalism_ADJ:0 "Indonesian"
+ INS_social_conservatism:0 "Indonesia"
+ INS_social_conservatism_ADJ:0 "Indonesian"
+ INS_reactionary:0 "Indonesia"
+ INS_reactionary_ADJ:0 "Indonesian"
+ INS_corporatist:0 "Indonesia"
+ INS_corporatist_ADJ:0 "Indonesian"
+ INS_autocracy:0 "Indonesia"
+ INS_autocracy_ADJ:0 "Indonesian"
+ INS_ultranationalism:0 "Indonesia"
+ INS_ultranationalism_ADJ:0 "Indonesian"
+ INS_supremacism:0 "Indonesia"
+ INS_supremacism_ADJ:0 "Indonesian"
+ INS_death_cultism:0 "Death Cult Indonesia"
+ INS_death_cultism_ADJ:0 "Indonesian"
+ 
+ ###Political Parties###
