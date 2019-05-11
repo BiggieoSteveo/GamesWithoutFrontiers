@@ -268,11 +268,11 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "twitter_button"
-			position = { x = 179 y = 309 }
+			position = { x = 230 y = 295 }
 			quadTextureSprite ="twitter"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_TWITTER"
-			web_link = "https://twitter.com/hoi_game"
+			web_link = "https://discord.gg/WKtrKa7"
 		}
 	}
 }
