@@ -1,6 +1,6 @@
 ﻿capital = 303
 
-oob = "PRU_1936"
+
 
 set_politics = {
 

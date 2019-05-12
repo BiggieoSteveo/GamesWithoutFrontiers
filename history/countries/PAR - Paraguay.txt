@@ -1,6 +1,6 @@
 ﻿capital = 301
 
-oob = "PAR_1936"
+
 
 set_politics = {
 
