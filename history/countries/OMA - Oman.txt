@@ -1,6 +1,6 @@
 ﻿capital = 294
 
-oob = "OMA_1936"
+
 
 set_politics = {
 

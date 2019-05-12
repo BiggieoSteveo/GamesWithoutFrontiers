@@ -1,6 +1,5 @@
-﻿capital = 335 #Jakarta
+﻿capital = 335 
 
-oob = "INS_1936"
 
 set_politics = {
 

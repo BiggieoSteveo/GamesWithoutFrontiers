@@ -1,6 +1,5 @@
 ﻿capital = 690
 
-#oob = ""
 
 set_politics = {
 
