@@ -186,7 +186,7 @@ guiTypes = {
 		Orientation = CENTER
 		Origo = center		
 				
-		background = {
+		iconType = {
 			name = "Background"		
 			quadTextureSprite ="GFX_JSF_mainmenu"
 		}
