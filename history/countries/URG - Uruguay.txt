@@ -1,6 +1,6 @@
 ﻿capital = 300
 
-oob = "URG_1936"
+
 
 set_politics = {
 

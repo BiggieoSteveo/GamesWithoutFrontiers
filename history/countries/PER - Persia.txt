@@ -1,6 +1,6 @@
 ﻿capital = 266
 
-oob = "PER_1936"
+
 
 set_politics = {
 

@@ -1,6 +1,6 @@
 ﻿capital = 279
 
-oob = "CHL_1936"
+
 
 set_politics = {
 

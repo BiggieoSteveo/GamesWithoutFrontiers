@@ -1,4 +1,4 @@
-﻿capital = 13234
+﻿capital = 798
 
 set_politics = {
 

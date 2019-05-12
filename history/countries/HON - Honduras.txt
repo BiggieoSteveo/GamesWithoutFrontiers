@@ -1,6 +1,6 @@
 ﻿capital = 312
 
-oob = "HON_1936"
+
 
 set_politics = {
 

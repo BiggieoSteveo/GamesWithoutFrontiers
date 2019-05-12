@@ -1,6 +1,6 @@
 ﻿capital = 282
 
-oob = "JAP_1936"
+
 
 set_politics = {
 
