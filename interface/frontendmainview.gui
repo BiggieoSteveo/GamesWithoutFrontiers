@@ -64,11 +64,12 @@ guiTypes = {
 		size = { width = 256 height = 768}
 		Orientation = upper_right
 
-		iconType =
-		{
-			name ="frontend_dev_logo"
-			spriteType = "GFX_frontend_dev_logo"
-			position = { x= 15 y = 15 }
+		ButtonType = {
+			name = "frontend_dev_logo"
+			position = { x= -1592 y = 780 }
+			spriteType = "GFX_frontend_dev_logo"							
+			clicksound = click_default
+			web_link = "https://discord.gg/vjExG9X"		
 		}
 		
 		iconType =
@@ -185,7 +186,7 @@ guiTypes = {
 		Orientation = CENTER
 		Origo = center		
 				
-		background = {
+		iconType = {
 			name = "Background"		
 			quadTextureSprite ="GFX_JSF_mainmenu"
 		}

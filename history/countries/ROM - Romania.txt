@@ -65,6 +65,15 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Cosmin Lazarescu"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Romania_Cosmin_Lazarescu.dds"
+	expire = "1965.1.1"
+	ideology = totalitarian_socialism
+	traits = { }
+}
+
+create_country_leader = {
 	name = "Marku Balitiu"
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Romania_Marku_Balitiu.dds"
