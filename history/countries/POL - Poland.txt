@@ -53,7 +53,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Benedykt Bialek"
+	name = "Benedykt Poroński"
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Poland_Benedykt_Bialek.dds"
 	expire = "1965.1.1"
