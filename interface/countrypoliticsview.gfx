@@ -331,6 +331,11 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_category_header"
 		textureFile = "gfx/interface/category_header.dds"
+	}
+
+	spriteType = {
+		name = "GFX_JSF_header_bg"
+		textureFile = "gfx/interface/jsf_header_bg_1.dds"
 	}	
 	
 	spriteType = {
