@@ -356,6 +356,7 @@ ideologies = {
 			estado_novo = {}
 			integralism = {}
 			segregationism = {}
+			revivalism = {}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_ULTRANATIONALISM_1"
@@ -384,6 +385,11 @@ ideologies = {
 	supremacism = {
 		types = {
 		supremacism_subtype = {}
+		national_socialism = {}
+		white_supremacism = {}
+		black_power = {}
+		radical_islamism = {}
+		
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_SUPREMACISM_1"

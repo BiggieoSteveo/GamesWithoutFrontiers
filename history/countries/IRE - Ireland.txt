@@ -60,3 +60,21 @@ create_country_leader = {
 	ideology = christian_democracy
 	traits = { }
 }
+
+create_country_leader = {
+	name = "Flannán Ó Donnchadha"
+	desc = "POLITICS_CORNELIU_ZELEA_CODREANU_DESC"
+	picture = "Portrait_Ireland_Flannan_O_Donnchadha.dds"
+	expire = "1965.1.1"
+	ideology = revivalism
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Donovan Lannon"
+	desc = "POLITICS_CORNELIU_ZELEA_CODREANU_DESC"
+	picture = "Portrait_Ireland_Donovan_Lannon.dds"
+	expire = "1965.1.1"
+	ideology = national_socialism
+	traits = { }
+}

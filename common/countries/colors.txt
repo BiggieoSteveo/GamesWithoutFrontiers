@@ -801,4 +801,8 @@ GRN = {
 CSL = {
 	color = rgb { 183 0 0 }
 	color_ui = rgb { 183 0 0 }
-}	
+}
+BAF = {
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 255 0 0 }
+}		
