@@ -74,7 +74,7 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "political_pie_chart"
-			position = { x= 481 y = 347 }
+			position = { x= 481 y = 334 }
 			size = { width=100 height=100 }
 			clipping = no
 
@@ -290,14 +290,14 @@ guiTypes = {
 			
 			buttonType = {
 				name = "add_national_goal_button"
-				position = { x = 109 y = 10 }
+				position = { x = 107 y = 25 }
 				spriteType = "GFX_add_national_goal_button"
 				clicksound = click_default
 			}
 
 			iconType = {
 				name = "nat_spirit_glow_overlay"
-				position = { x = 101 y = 24 }
+				position = { x = 113 y = 29 }
 				spriteType = "GFX_nat_spirit_glow_overlay"
 				alwaystransparent = yes
 			}			
@@ -358,7 +358,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "title"
-				position = { x = 128 y = 60 }
+				position = { x = 138 y = 57 }
 				font = "hoi_18mbs"
 				text = "POLITICS_ACTIVE_GOAL"
 				maxWidth = 200
@@ -371,12 +371,12 @@ guiTypes = {
 			iconType = {
 				name = "progress"
 				spriteType = "GFX_activegoal_progress"
-				position = { x=112 y = 82 }		
+				position = { x=119 y = 89 }		
 			}
 			
 			iconType = {
 				name = "progress_frame"
-				position = { x = 110 y = 82 }
+				position = { x = 118 y = 88 }
 				spriteType = "GFX_pol_goal_progress_frame"
 				alwaystransparent = yes
 			}			
@@ -474,7 +474,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "close_button"
-			position = { x = -45 y = 11 }
+			position = { x = -48 y = 9 }
 			quadTextureSprite ="GFX_closebutton"
 			buttonFont = "Main_14_black"
 			shortcut = "ESCAPE"
