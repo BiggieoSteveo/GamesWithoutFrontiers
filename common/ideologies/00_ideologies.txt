@@ -356,6 +356,7 @@ ideologies = {
 			estado_novo = {}
 			integralism = {}
 			segregationism = {}
+			revivalism = {}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_ULTRANATIONALISM_1"
