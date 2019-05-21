@@ -70,3 +70,12 @@ create_country_leader = {
 	ideology = militarism
 	traits = { }
 }
+
+create_country_leader = {
+	name = "Jaja Ogbonna"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_NGA_Jaja_Ogbonna.dds"
+	expire = "1965.1.1"
+	ideology = african_socialism
+	traits = { }
+}
