@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+ ###Country Names###
+ BAF_cluster:0 "Cluster Empire"
+ BAF_cluster_DEF:0 "The Cluster Empire"
+ BAF_cluster_ADJ:0 "Cluster"
+ BAF_internationalism:0 "People's Republic of Biafra"
+ BAF_internationalism_ADJ:0 "Biafran"
+ BAF_neo-bolshevism:0 "People's Republic of Biafra"
+ BAF_neo-bolshevism_ADJ:0 "Biafran"
+ BAF_technocracy:0 "Biafra"
+ BAF_technocracy_ADJ:0 "Biafran"
+ BAF_social_liberalism:0 "Biafra"
+ BAF_social_liberalism_ADJ:0 "Biafran"
+ BAF_social_conservatism:0 "Biafra"
+ BAF_social_conservatism_ADJ:0 "Biafran"
+ BAF_reactionary:0 "Biafra"
+ BAF_reactionary_ADJ:0 "Biafran"
+ BAF_corporatist:0 "Biafra"
+ BAF_corporatist_ADJ:0 "Biafran"
+ BAF_autocracy:0 "Biafra"
+ BAF_autocracy_ADJ:0 "Biafran"
+ BAF_ultranationalism:0 "Biafra"
+ BAF_ultranationalism_ADJ:0 "Biafran"
+ BAF_supremacism:0 "Biafra"
+ BAF_supremacism_ADJ:0 "Biafran"
+ BAF_death_cultism:0 "Death Cult Biafra"
+ BAF_death_cultism_ADJ:0 "Biafran"
+ 
+ ###Political Parties###

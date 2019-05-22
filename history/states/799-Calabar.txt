@@ -1,6 +1,6 @@
 state={
 	id=799
-	name="STATE_799"
+	name="Calabar"
 
 	state_category = rural
 	resources={

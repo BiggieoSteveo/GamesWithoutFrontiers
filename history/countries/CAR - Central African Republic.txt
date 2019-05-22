@@ -56,10 +56,19 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = autocracy
+	ruling_party = progressivism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Ruben Agbepa"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_CAR_Ruben_Agbepa.dds"
+	expire = "1965.1.1"
+	ideology = progressivism_subtype
+	traits = { }
 }
 
 create_country_leader = {
