@@ -63,6 +63,15 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Ruben Agbepa"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_CAR_Ruben_Agbepa.dds"
+	expire = "1965.1.1"
+	ideology = progressivism_subtype
+	traits = { }
+}
+
+create_country_leader = {
 	name = "Arnoldo I"
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_CAR_Arnoldo.dds"
