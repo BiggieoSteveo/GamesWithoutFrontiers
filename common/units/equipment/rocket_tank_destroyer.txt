@@ -4,7 +4,7 @@ equipments = {
 
 #archetype
 
-	medium_tank_destroyer_equipment = {
+	medium_tank_destroyer_equipment= {
 		year = 1943
 
 		is_archetype = yes
@@ -44,7 +44,7 @@ equipments = {
 		#Space taken in convoy
 		lend_lease_cost = 5
 		
-		build_cost_ic = 9
+		build_cost_ic = 18
 		resources = {
  			electricity = 1
 			oil = 1
@@ -85,7 +85,7 @@ equipments = {
 		#Space taken in convoy
 		lend_lease_cost = 5
 		
-		build_cost_ic = 9
+		build_cost_ic = 18
 		resources = {
  			electricity = 1
 			oil = 1
@@ -118,7 +118,7 @@ equipments = {
 		hard_attack = 20
 		ap_attack = 35
 		
-		build_cost_ic = 13.5
+		build_cost_ic = 27
 		
 		resources = {
  			electricity = 1
@@ -150,7 +150,7 @@ equipments = {
 		hard_attack = 25
 		ap_attack = 40
 		
-		build_cost_ic = 18
+		build_cost_ic = 36
 		
 		resources = {
  			electricity = 1
@@ -183,7 +183,7 @@ equipments = {
 		hard_attack = 30
 		ap_attack = 45
 		
-		build_cost_ic = 22.5
+		build_cost_ic = 45
 		
 		resources = {
  			electricity = 1
@@ -216,7 +216,7 @@ equipments = {
 		hard_attack = 35
 		ap_attack = 50
 		
-		build_cost_ic = 27
+		build_cost_ic = 54
 		
 		resources = {
  			electricity = 1

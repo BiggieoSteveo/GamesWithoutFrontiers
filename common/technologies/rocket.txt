@@ -27,7 +27,7 @@ technologies = {
 		#	guided_missile_equipment_1
 		#}
 		
-		rocket_sp_artillery = {
+		rocket_sp_artillery =  {
 			soft_attack = 0.05
 		}
 		
@@ -88,7 +88,7 @@ technologies = {
 		#	guided_missile_equipment_3
 		#}
 		
-		rocket_sp_artillery = {
+		rocket_sp_artillery =  {
 			soft_attack = 0.05
 		}
 		
@@ -944,7 +944,7 @@ technologies = {
 ###ICBM1
 	
 	icbm1 = {	
-		rocket_sp_artillery = {
+		rocket_sp_artillery =  {
 			soft_attack = 0.05
 			hard_attack = 0.05
 		}
@@ -1171,11 +1171,35 @@ technologies = {
 			cruisemissile_equipment_2
 		}
 		
+		ddg = {
+			shore_bombardment = 0.1
+		}
+		cg = {
+			shore_bombardment = 0.1
+		}
+		heavy_cruiser = {
+			shore_bombardment = 0.1
+		}
+		bcg = {
+			shore_bombardment = 0.1
+		}
+		bbg = {
+			shore_bombardment = 0.1
+		}
 		
 		submarine = {
 			ap_attack = 0.1
+			attack = 0.1
 		}
-		
+		nuclear_submarine = {
+			fire_range = 0.1
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		path = {
 			leads_to_tech = cruisemissile_3 
@@ -1208,11 +1232,35 @@ technologies = {
 			cruisemissile_equipment_3
 		}
 		
+		ddg = {
+			shore_bombardment = 0.1
+		}
+		cg = {
+			shore_bombardment = 0.1
+		}
+		heavy_cruiser = {
+			shore_bombardment = 0.1
+		}
+		bcg = {
+			shore_bombardment = 0.1
+		}
+		bbg = {
+			shore_bombardment = 0.1
+		}	
 		
 		submarine = {
 			ap_attack = 0.1
+			attack = 0.1
 		}
-	
+		nuclear_submarine = {
+			fire_range = 0.1
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		path = {
 			leads_to_tech = cruisemissile_4 
@@ -1245,12 +1293,35 @@ technologies = {
 			cruisemissile_equipment_4
 		}
 		
+		ddg = {
+			shore_bombardment = 0.1
+		}
+		cg = {
+			shore_bombardment = 0.1
+		}
+		heavy_cruiser = {
+			shore_bombardment = 0.1
+		}
+		bcg = {
+			shore_bombardment = 0.1
+		}
+		bbg = {
+			shore_bombardment = 0.1
+		}	
 		
 		submarine = {
 			ap_attack = 0.1
-
+			attack = 0.1
 		}
-		
+		nuclear_submarine = {
+			fire_range = 0.1
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		path = {
 			leads_to_tech = cruisemissile_5 
@@ -1283,12 +1354,35 @@ technologies = {
 			cruisemissile_equipment_5
 		}
 		
+		ddg = {
+			shore_bombardment = 0.1
+		}
+		cg = {
+			shore_bombardment = 0.1
+		}
+		heavy_cruiser = {
+			shore_bombardment = 0.1
+		}
+		bcg = {
+			shore_bombardment = 0.1
+		}
+		bbg = {
+			shore_bombardment = 0.1
+		}	
 		
 		submarine = {
 			ap_attack = 0.1
-
+			attack = 0.1
 		}
-
+		nuclear_submarine = {
+			fire_range = 0.1
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		path = {
 			leads_to_tech = cruisemissile_6 
@@ -1320,12 +1414,35 @@ technologies = {
 			cruisemissile_equipment_6
 		}
 		
+		ddg = {
+			shore_bombardment = 0.1
+		}
+		cg = {
+			shore_bombardment = 0.1
+		}
+		heavy_cruiser = {
+			shore_bombardment = 0.1
+		}
+		bcg = {
+			shore_bombardment = 0.1
+		}
+		bbg = {
+			shore_bombardment = 0.1
+		}	
 		
 		submarine = {
 			ap_attack = 0.1
-
+			attack = 0.1
 		}
-
+		nuclear_submarine = {
+			fire_range = 0.1
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		path = {
 			leads_to_tech = cruisemissile_7
@@ -1357,12 +1474,35 @@ technologies = {
 			cruisemissile_equipment_7
 		}
 		
+		ddg = {
+			shore_bombardment = 0.1
+		}
+		cg = {
+			shore_bombardment = 0.1
+		}
+		heavy_cruiser = {
+			shore_bombardment = 0.1
+		}
+		bcg = {
+			shore_bombardment = 0.1
+		}
+		bbg = {
+			shore_bombardment = 0.1
+		}	
 		
 		submarine = {
 			ap_attack = 0.1
-
+			attack = 0.1
 		}
-
+		nuclear_submarine = {
+			fire_range = 0.1
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		research_cost = 2
 		start_year = 2005
@@ -1389,9 +1529,36 @@ technologies = {
 
 	coastalmissile_1 = {
 
-		enable_equipment_modules = { 
-			ship_armament_asm_0
+		ffg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
 		}
+		ddg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		cg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		heavy_cruiser = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bcg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bbg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		jet_multirole = {
 			naval_strike_attack = 0.05
@@ -1413,17 +1580,13 @@ technologies = {
 			leads_to_tech = coastalmissile_2 
 			research_cost_coeff = 1
 		}
-		path = {
-			leads_to_tech = coastalmissile_3
-			research_cost_coeff = 1
-		}
 		
 		research_cost = 2
-		start_year = 1955
+		start_year = 1960
 		
 		folder = {
 			name = rocket_folder
-			position = { x = 0 y = 5 }
+			position = { x = -11 y = 7 }
 		}
 		
 		ai_will_do = {
@@ -1432,7 +1595,7 @@ technologies = {
 		
 		dependencies = {
 			advanced_rocket_engines = 1
-			cruisemissile_1 = 1
+			cruisemissile_2 = 1
 		}
 		
 		categories = {
@@ -1445,9 +1608,36 @@ technologies = {
 
 	coastalmissile_2 = {
 
-	   enable_equipment_modules = { 
-			ship_armament_asm_1
+	    ffg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
 		}
+		ddg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		cg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		heavy_cruiser = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bcg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bbg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		jet_multirole = {
 			naval_strike_attack = 0.05
@@ -1466,7 +1656,7 @@ technologies = {
 		}	
 		
 		path = {
-			leads_to_tech = coastalmissile_4
+			leads_to_tech = coastalmissile_3 
 			research_cost_coeff = 1
 		}
 		
@@ -1475,7 +1665,7 @@ technologies = {
 		
 		folder = {
 			name = rocket_folder
-			position = { x = -3 y = 9 }
+			position = { x = -11 y = 9 }
 		}
 		
 		ai_will_do = {
@@ -1483,7 +1673,7 @@ technologies = {
 		}
 							
 		dependencies = {
-			cruisemissile_2 = 1
+			cruisemissile_4 = 1
 		}
 		
 		categories = {
@@ -1496,9 +1686,36 @@ technologies = {
 	
 	coastalmissile_3 = {
 
-		enable_equipment_modules = { 
-			ship_armament_heavyasm_0
+		ffg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
 		}
+		ddg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		cg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		heavy_cruiser = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bcg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bbg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		jet_multirole = {
 			naval_strike_attack = 0.05
@@ -1517,31 +1734,36 @@ technologies = {
 		}		
 		
 		submarine = {
-
+			fire_range = 0.3
 			ap_attack = 0.1
-
+			attack = 0.1
 		}
-	
+		nuclear_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
 		
 		path = {
-			leads_to_tech = coastalmissile_5
+			leads_to_tech = coastalmissile_4 
 			research_cost_coeff = 1
 		}
 		
 		research_cost = 2
-		start_year = 1965
+		start_year = 1970
 		
 		folder = {
 			name = rocket_folder
-			position = { x = 3 y = 9 }
+			position = { x = -11 y = 11 }
 		}
 		
 		ai_will_do = {
 			factor = 1
-		}
-		
-		dependencies = {
-			cruisemissile_2 = 1
 		}
 		
 		categories = {
@@ -1554,9 +1776,36 @@ technologies = {
 	
 	coastalmissile_4 = {
 
-		enable_equipment_modules = { 
-			ship_armament_asm_2
+		ffg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
 		}
+		ddg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		cg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		heavy_cruiser = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bcg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bbg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		jet_multirole = {
 			naval_strike_attack = 0.05
@@ -1575,23 +1824,32 @@ technologies = {
 		}		
 		
 		submarine = {
-
+			fire_range = 0.3
 			ap_attack = 0.1
-
+			attack = 0.1
 		}
-	
+		nuclear_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
 		
 		path = {
-			leads_to_tech = coastalmissile_6
+			leads_to_tech = coastalmissile_5 
 			research_cost_coeff = 1
 		}
 		
 		research_cost = 2
-		start_year = 1980
+		start_year = 1975
 		
 		folder = {
 			name = rocket_folder
-			position = { x = -3 y = 15 }
+			position = { x = -11 y = 13 }
 		}
 		
 		ai_will_do = {
@@ -1608,9 +1866,36 @@ technologies = {
 	
 	coastalmissile_5 = {
 
-		enable_equipment_modules = { 
-			ship_armament_heavyasm_1
+		ffg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
 		}
+		ddg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		cg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		heavy_cruiser = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bcg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bbg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		jet_multirole = {
 			naval_strike_attack = 0.05
@@ -1629,14 +1914,23 @@ technologies = {
 		}		
 		
 		submarine = {
-
+			fire_range = 0.3
 			ap_attack = 0.1
-
+			attack = 0.1
 		}
-	
+		nuclear_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
 		
 		path = {
-			leads_to_tech = coastalmissile_7
+			leads_to_tech = coastalmissile_6 
 			research_cost_coeff = 1
 		}
 		
@@ -1645,7 +1939,7 @@ technologies = {
 		
 		folder = {
 			name = rocket_folder
-			position = { x = 3 y = 15 }
+			position = { x = -11 y = 15 }
 		}
 		
 		ai_will_do = {
@@ -1663,9 +1957,36 @@ technologies = {
 	
 	coastalmissile_6 = {
 
-		enable_equipment_modules = { 
-			ship_armament_asm_3
+		ffg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
 		}
+		ddg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		cg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		heavy_cruiser = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bcg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bbg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		jet_multirole = {
 			naval_strike_attack = 0.05
@@ -1684,17 +2005,32 @@ technologies = {
 		}		
 		
 		submarine = {
-
+			fire_range = 0.3
 			ap_attack = 0.1
-
+			attack = 0.1
+		}
+		nuclear_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		
+		path = {
+			leads_to_tech = coastalmissile_7
+			research_cost_coeff = 1
 		}
 		
 		research_cost = 2
-		start_year = 1995
+		start_year = 1990
 		
 		folder = {
 			name = rocket_folder
-			position = { x = -3 y = 21 }
+			position = { x = -11 y = 19 }
 		}
 		
 		ai_will_do = {
@@ -1702,7 +2038,7 @@ technologies = {
 		}
 		
 		dependencies = {
-			cruisemissile_4 = 1
+			cruisemissile_5 = 1
 		}
 		
 		categories = {
@@ -1715,12 +2051,36 @@ technologies = {
 
 	coastalmissile_7 = {
 		
-		dependencies = {
-			cruisemissile_4 = 1
+		ffg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
 		}
-		enable_equipment_modules = { 
-			ship_armament_heavyasm_2
+		ddg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
 		}
+		cg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		heavy_cruiser = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bcg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		bbg = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}	
 		
 		jet_multirole = {
 			naval_strike_attack = 0.05
@@ -1739,18 +2099,27 @@ technologies = {
 		}		
 		
 		submarine = {
-
+			fire_range = 0.3
 			ap_attack = 0.1
-
+			attack = 0.1
 		}
-
+		nuclear_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
+		ballistic_submarine = {
+			fire_range = 0.3
+			ap_attack = 0.1
+			attack = 0.1
+		}
 		
 		research_cost = 2
-		start_year = 1995
+		start_year = 2005
 		
 		folder = {
 			name = rocket_folder
-			position = { x = 3 y = 21 }
+			position = { x = -11 y = 25 }
 		}
 		
 		ai_will_do = {
@@ -1769,7 +2138,24 @@ technologies = {
 	
 	groundaam_1 = {
 		
-
+		ffg = {
+			anti_air_attack = 0.1
+		}
+		ddg = {
+			anti_air_attack = 0.1
+		}
+		cg = {
+			anti_air_attack = 0.1
+		}
+		heavy_cruiser = {
+			anti_air_attack = 0.1
+		}
+		bcg = {
+			anti_air_attack = 0.1
+		}
+		bbg = {
+			anti_air_attack = 0.1
+		}
 		
 		research_cost = 2
 		start_year = 1955
@@ -1785,15 +2171,7 @@ technologies = {
 		enable_building = {
 			building = anti_air_building
 			level = 6
-		}	
-
-		enable_equipment_modules = { 
-			ship_SAM_mid_range_0
-		}
-		
-		enable_equipment_modules = { 
-			ship_SAM_long_range_0
-		}
+		}		
 		
 		ai_will_do = {
 			factor = 1
@@ -1813,17 +2191,13 @@ technologies = {
 	
 	
 	sam_carrier_1 = {
-		
+        
 		enable_subunits = {
 			sam_carrier
 		}
 		
 		enable_equipments = {
 			sam_carrier_equipment_1
-		}
-		
-		enable_equipment_modules = { 
-			ship_SAM_mid_range_1
 		}
 		
 		research_cost = 2
@@ -1852,19 +2226,31 @@ technologies = {
 	
 	groundaam_2 = {
 		
-	  
+        ffg = {
+			anti_air_attack = 0.1
+		}
+		ddg = {
+			anti_air_attack = 0.1
+		}
+		cg = {
+			anti_air_attack = 0.1
+		}
+		heavy_cruiser = {
+			anti_air_attack = 0.1
+		}
+		bcg = {
+			anti_air_attack = 0.1
+		}
+		bbg = {
+			anti_air_attack = 0.1
+		}
 		
 		research_cost = 2
 		start_year = 1965
 		enable_building = {
 			building = anti_air_building
 			level = 8
-		}	
-
-		enable_equipment_modules = { 
-			ship_SAM_long_range_1
-		}
-		
+		}				
 		path = {
 			leads_to_tech = sam_carrier_2 
 			research_cost_coeff = 1
@@ -1900,10 +2286,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		enable_equipment_modules = { 
-			ship_SAM_mid_range_2
-		}
-		
 		folder = {
 			name = rocket_folder
 			position = { x = -11 y = 11 }
@@ -1926,8 +2308,23 @@ technologies = {
 			level = 10
 		}			
 
-		enable_equipment_modules = { 
-			ship_SAM_long_range_2
+        ffg = {
+			anti_air_attack = 0.1
+		}
+		ddg = {
+			anti_air_attack = 0.1
+		}
+		cg = {
+			anti_air_attack = 0.1
+		}
+		heavy_cruiser = {
+			anti_air_attack = 0.1
+		}
+		bcg = {
+			anti_air_attack = 0.1
+		}
+		bbg = {
+			anti_air_attack = 0.1
 		}
 		
 		research_cost = 2
@@ -1969,10 +2366,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		enable_equipment_modules = { 
-			ship_SAM_mid_range_3
-		}
-		
 		folder = {
 			name = rocket_folder
 			position = { x = -11 y = 15 }
@@ -1995,7 +2388,24 @@ technologies = {
 			level = 12
 		}		
 
-	   
+        ffg = {
+			anti_air_attack = 0.1
+		}
+		ddg = {
+			anti_air_attack = 0.1
+		}
+		cg = {
+			anti_air_attack = 0.1
+		}
+		heavy_cruiser = {
+			anti_air_attack = 0.1
+		}
+		bcg = {
+			anti_air_attack = 0.1
+		}
+		bbg = {
+			anti_air_attack = 0.1
+		}
 		
 		research_cost = 2
 		start_year = 1985
@@ -2003,10 +2413,6 @@ technologies = {
 		path = {
 			leads_to_tech = sam_carrier_4 
 			research_cost_coeff = 1
-		}
-		
-		enable_equipment_modules = { 
-			ship_SAM_long_range_3
 		}
 	
 		folder = {
@@ -2058,6 +2464,24 @@ technologies = {
 	
 	groundaam_5 = {
 		
+		ffg = {
+			anti_air_attack = 0.1
+		}
+		ddg = {
+			anti_air_attack = 0.1
+		}
+		cg = {
+			anti_air_attack = 0.1
+		}
+		heavy_cruiser = {
+			anti_air_attack = 0.1
+		}
+		bcg = {
+			anti_air_attack = 0.1
+		}
+		bbg = {
+			anti_air_attack = 0.1
+		}
 		
 		
 		
@@ -2124,7 +2548,7 @@ technologies = {
 			level = 16
 		}			
 
-		sam_carrier = {
+		sam_carrier  = {
 			ap_attack = 0.10
 			air_attack = 0.20 
 			defense = 0.15
@@ -2132,7 +2556,24 @@ technologies = {
 		}
 		
 		
-	  
+        ffg = {
+			anti_air_attack = 0.1
+		}
+		ddg = {
+			anti_air_attack = 0.1
+		}
+		cg = {
+			anti_air_attack = 0.1
+		}
+		heavy_cruiser = {
+			anti_air_attack = 0.1
+		}
+		bcg = {
+			anti_air_attack = 0.1
+		}
+		bbg = {
+			anti_air_attack = 0.1
+		}
 		
 		research_cost = 2
 		start_year = 2005
@@ -2846,10 +3287,6 @@ technologies = {
 		}
 		
 		enable_subunits = {
-			atgm_airborne
-		}
-		
-		enable_subunits = {
 			atgm_support
 		}
 		
@@ -2883,13 +3320,9 @@ technologies = {
 	}
 	
 	atgm_carrier_1 = {
-		
+        
 		enable_subunits = {
 			atgm_carrier
-		}
-		
-		enable_subunits = {
-			atgm_carrier_airborne
 		}
 		
 		enable_equipments = {
@@ -3047,7 +3480,7 @@ technologies = {
 	
 	atgm_4 = {
 		
-		enable_equipments = {
+        enable_equipments = {
 			atgm_equipment_4
 		}
 		
@@ -3175,7 +3608,7 @@ technologies = {
 			atgm_equipment_6
 		}
 		
-		atgm_carrier = {
+		atgm_carrier  = {
 			ap_attack = 0.10
 			soft_attack = 0.20 
 			hard_attack = 0.15 

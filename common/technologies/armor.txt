@@ -165,10 +165,6 @@ technologies = {
 			mbt_equipment_3
 		}	
 		
-		dependencies = {
-			hardware_I = 1
-		}
-		
 		research_cost = 2
 		start_year = 1950
 		
@@ -199,10 +195,6 @@ technologies = {
 		enable_equipments = {
 			mbt_equipment_4
 		}		
-		
-		dependencies = {
-			hardware_III = 1
-		}
 		
 		research_cost = 2
 		start_year = 1960
@@ -240,11 +232,7 @@ technologies = {
 		
 		enable_equipments = {
 			mbt_equipment_5
-		}
-
-		dependencies = {
-			hardware_IV = 1
-		}
+		}		
 		
 		research_cost = 2
 		start_year = 1965
@@ -275,10 +263,6 @@ technologies = {
 		
 		enable_equipments = {
 			mbt_equipment_6
-		}
-		
-		dependencies = {
-			hardware_VI = 1
 		}
 		
 		research_cost = 2
@@ -312,10 +296,6 @@ technologies = {
 			mbt_equipment_7
 		}
 		
-		dependencies = {
-			hardware_VII = 1
-		}
-		
 		research_cost = 2
 		start_year = 1985
 		
@@ -346,10 +326,6 @@ technologies = {
 		
 		enable_equipments = {
 			mbt_equipment_8
-		}
-		
-		dependencies = {
-			hardware_IX = 1
 		}
 
 		research_cost = 2
@@ -383,12 +359,8 @@ technologies = {
 			mbt_equipment_9
 		}	
 		
-		dependencies = {
-			hardware_X = 1
-		}
-		
 		research_cost = 2
-		start_year = 2000
+		start_year = 200
 		
 		folder = {
 			name = armour_folder
@@ -528,10 +500,6 @@ technologies = {
 			ht_equipment_4
 		}
 		
-		dependencies = {
-			hardware_I = 1
-		}
-		
 		research_cost = 2
 		start_year = 1950
 		
@@ -571,10 +539,6 @@ technologies = {
 		
 		enable_equipments = {
 			ht_equipment_5
-		}
-		
-		dependencies = {
-			hardware_III = 1
 		}
 		
 		research_cost = 2
@@ -662,10 +626,6 @@ technologies = {
 			sht_equipment_3
 		}
 		
-		dependencies = {
-			hardware_V = 1
-		}
-		
 		research_cost = 2
 		start_year = 1960
 		
@@ -703,9 +663,6 @@ technologies = {
 
 		enable_subunits = {
 			light_armor
-		}
-		enable_subunits = {
-			light_armor_airborne
 		}
 		
 		research_cost = 2
@@ -819,10 +776,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_I = 1
-		}
-		
 		research_cost = 2
 		start_year = 1960
 		
@@ -860,10 +813,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_IV = 1
-		}
-		
 		research_cost = 2
 		start_year = 1975
 		
@@ -898,10 +847,6 @@ technologies = {
 		path = {
 			leads_to_tech = mechanized_heavy_infantry7
 			research_cost_coeff = 0.75
-		}
-		
-		dependencies = {
-			hardware_VII = 1
 		}
 		
 		research_cost = 2
@@ -1095,10 +1040,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_I = 1
-		}
-		
 		research_cost = 3
 		start_year = 1960
 		folder = {
@@ -1135,9 +1076,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_II = 1
-		}
 		
 		research_cost = 3
 		start_year = 1965
@@ -1174,10 +1112,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_III = 1
-		}
-		
 		
 		research_cost = 3
 		start_year = 1975
@@ -1212,10 +1146,6 @@ technologies = {
 		path = {
 			leads_to_tech = mechanized_heavy_infantry6
 			research_cost_coeff = 0.75
-		}
-		
-		dependencies = {
-			hardware_V = 1
 		}
 		
 		
@@ -1255,10 +1185,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_VII = 1
-		}
-		
 		
 		research_cost = 3
 		start_year = 1995
@@ -1288,10 +1214,6 @@ technologies = {
 		path = {
 			leads_to_tech = mechanized_heavy_infantry8
 			research_cost_coeff = 0.75
-		}
-		
-		dependencies = {
-			hardware_X = 1
 		}
 		
 		
@@ -1378,10 +1300,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_I = 1
-		}
-		
 		research_cost = 2
 		start_year = 1950
 		folder = {
@@ -1423,9 +1341,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_II = 1
-		}
 		
 		research_cost = 2
 		start_year = 1960
@@ -1461,10 +1376,6 @@ technologies = {
 		path = {
 			leads_to_tech = mechanized_infantry6
 			research_cost_coeff = 0.75
-		}
-		
-		dependencies = {
-			hardware_IV = 1
 		}
 
 		research_cost = 2
@@ -1508,9 +1419,7 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_VI = 1
-		}
+		
 		
 		research_cost = 3
 		start_year = 1975
@@ -1548,9 +1457,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_VII = 1
-		}
 		
 		research_cost = 3
 		start_year = 1985
@@ -1592,10 +1498,6 @@ technologies = {
 			leads_to_tech = mechanized_infantry9
 			research_cost_coeff = 0.75
 		}	
-		
-		dependencies = {
-			hardware_IX = 1
-		}
 			
 		research_cost = 3
 		start_year = 1995
@@ -1628,9 +1530,6 @@ technologies = {
 			research_cost_coeff = 0.75
 		}
 		
-		dependencies = {
-			hardware_XII = 1
-		}
 		
 		research_cost = 3
 		start_year = 2005
@@ -1672,6 +1571,10 @@ technologies = {
 			name = armour_folder
 			position = { x = 14 y = 2 }
 		}
+		
+		dependencies = {
+           amphibious_warfare_3 = 1
+        }
 		
 		categories = {
 			motorized_equipment
@@ -1727,10 +1630,6 @@ technologies = {
 			leads_to_tech = amphibious4
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_III = 1
-		}
 
 		research_cost = 3
 		start_year = 1965
@@ -1763,10 +1662,6 @@ technologies = {
 			research_cost_coeff = 1
 		}		
 		
-		dependencies = {
-			hardware_VI = 1
-		}
-		
 		research_cost = 2
 		start_year = 1985
 		folder = {
@@ -1791,10 +1686,6 @@ technologies = {
 
 		enable_equipments = {
 			mechanized_marine_equipment_5
-		}
-		
-		dependencies = {
-			hardware_X = 1
 		}
 		
 		research_cost = 2
@@ -1828,7 +1719,11 @@ technologies = {
 		enable_subunits = {
 			motorized_infantry
 		}
-
+		
+		sub_technologies = {
+			sp_rocket1
+		}
+				
 		research_cost = 2
 		start_year = 1942
 		
@@ -1866,6 +1761,10 @@ technologies = {
 			motorized_equipment_2
 		}
 		
+		sub_technologies = {
+			sp_rocket2
+		}
+		
 		research_cost = 2
 		start_year = 1947	
 		
@@ -1896,6 +1795,10 @@ technologies = {
 		
 		enable_equipments = {
 			motorized_equipment_3
+		}
+		
+		sub_technologies = {
+			sp_rocket3
 		}
 		
 		research_cost = 2
@@ -1930,8 +1833,8 @@ technologies = {
 			motorized_equipment_4
 		}
 		
-		dependencies = {
-			hardware_II = 1
+		sub_technologies = {
+			sp_rocket4
 		}
 		
 		research_cost = 2
@@ -1966,8 +1869,8 @@ technologies = {
 			motorized_equipment_5
 		}
 		
-		dependencies = {
-			hardware_IV = 1
+		sub_technologies = {
+			sp_rocket5
 		}
 		
 		research_cost = 2
@@ -1989,7 +1892,114 @@ technologies = {
 					
 	}
 
+###SP Rocket Artillery	
+	
+#1945
+	sp_rocket1 = {
 
+		enable_subunits = {
+			rocket_sp_artillery
+		}
+		enable_equipments = {
+			motorized_rocket_equipment_1
+		}
+		
+		research_cost = 1
+
+		start_year = 1945
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			artillery
+		}
+	}
+
+#1960	
+
+	sp_rocket2 = {
+
+		enable_equipments = {
+			motorized_rocket_equipment_2
+		}
+		
+		research_cost = 1
+
+		start_year = 1960
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			artillery
+		}
+	}
+
+#1975
+	
+	sp_rocket3 = {
+
+		enable_equipments = {
+			motorized_rocket_equipment_3
+		}
+		
+		research_cost = 1
+
+		start_year = 1975
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			artillery
+		}
+	}
+
+#1990
+	
+	sp_rocket4 = {
+
+		enable_equipments = {
+			motorized_rocket_equipment_4
+		}
+		
+		research_cost = 1
+
+		start_year = 1990
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			artillery
+		}
+	}
+
+#2005	
+	
+	sp_rocket5 = {
+
+		enable_equipments = {
+			motorized_rocket_equipment_5
+		}
+		
+		research_cost = 1
+
+		start_year = 2005
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			artillery
+		}
+	}
 }
 	
 ####Made by Iron Courtain Team

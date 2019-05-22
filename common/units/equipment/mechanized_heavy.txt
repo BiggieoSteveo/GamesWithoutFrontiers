@@ -38,7 +38,7 @@ mechanized_heavy_equipment = {
 		#Space taken in convoy
 		lend_lease_cost = 5
 		
-		build_cost_ic = 12.5
+		build_cost_ic = 25
 		resources = {
  			electricity = 1
 			steel = 3
@@ -80,7 +80,7 @@ mechanized_heavy_equipment = {
 		hard_attack = 7
 		ap_attack = 18
 		
-		build_cost_ic = 14
+		build_cost_ic = 29
 		resources = {
  			electricity = 1
 			steel = 3
@@ -112,7 +112,7 @@ mechanized_heavy_equipment = {
 		hard_attack = 7
 		ap_attack = 20
 		
-		build_cost_ic = 17
+		build_cost_ic = 33
 		resources = {
  			electricity = 1
 			steel = 3
@@ -144,7 +144,7 @@ mechanized_heavy_equipment = {
 		hard_attack = 8
 		ap_attack = 24
 		
-		build_cost_ic = 19
+		build_cost_ic = 37
 		resources = {
  			electricity = 1
 			steel = 4
@@ -176,7 +176,7 @@ mechanized_heavy_equipment = {
 		hard_attack = 8
 		ap_attack = 26
 		
-		build_cost_ic = 21
+		build_cost_ic = 42
 		resources = {
  			electricity = 1
 			steel = 4
@@ -208,7 +208,7 @@ mechanized_heavy_equipment = {
 		hard_attack = 8
 		ap_attack = 30
 		
-		build_cost_ic = 23
+		build_cost_ic = 46
 		resources = {
  			electricity = 1
 			steel = 4
@@ -232,7 +232,7 @@ mechanized_heavy_equipment = {
 
 		#Defensive Abilities
 		defense = 45
-		breakthrough = 18
+		breakthrough =18
 		armor_value = 72
 
 		#Offensive Abilities
@@ -240,7 +240,7 @@ mechanized_heavy_equipment = {
 		hard_attack = 9
 		ap_attack = 32
 		
-		build_cost_ic = 25
+		build_cost_ic = 50
 		resources = {
  			electricity = 1
 			steel = 4
@@ -272,7 +272,7 @@ mechanized_heavy_equipment = {
 		hard_attack = 9
 		ap_attack = 34
 		
-		build_cost_ic = 28
+		build_cost_ic = 56
 		resources = {
  			electricity = 1
 			steel = 4

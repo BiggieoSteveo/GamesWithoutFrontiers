@@ -2,7 +2,7 @@
 
 equipments = {
 
-	sp_artillery_equipment = {
+    sp_artillery_equipment = {
 		year = 1940
 
 		is_archetype = yes
@@ -41,7 +41,7 @@ equipments = {
 
 		lend_lease_cost = 12
 		
-		build_cost_ic = 9
+		build_cost_ic = 18
 		
 		resources = {
  			electricity = 1
@@ -84,7 +84,7 @@ equipments = {
 		hard_attack = 8
 		ap_attack = 14
 		
-		build_cost_ic = 13.5
+		build_cost_ic = 27
 		
 		resources = {
  			electricity = 1
@@ -115,7 +115,7 @@ equipments = {
 		hard_attack = 10
 		ap_attack = 16
 		
-		build_cost_ic = 18
+		build_cost_ic = 36
 		
 		resources = {
  			electricity = 1
@@ -146,7 +146,7 @@ equipments = {
 		hard_attack = 12
 		ap_attack = 18
 		
-		build_cost_ic = 22.5
+		build_cost_ic = 45
 		
 		resources = {
  			electricity = 1
@@ -177,7 +177,7 @@ equipments = {
 		hard_attack = 14
 		ap_attack = 20
 		
-		build_cost_ic = 27
+		build_cost_ic = 54
 		
 		resources = {
  			electricity = 1

@@ -19,8 +19,9 @@ equipments = {
 
 		defense = 10
 		breakthrough = 7
+		soft_attack = 40
 		
-		build_cost_ic = 4
+		build_cost_ic = 4.5
 		#Defensive Abilities
 		hardness = 0.01
 		armor_value = 0
@@ -34,7 +35,7 @@ equipments = {
 		#Space taken in convoy
 		lend_lease_cost = 4
 		
-		build_cost_ic = 4
+		build_cost_ic = 8
 		resources = {
  			electricity = 1
 			tungsten = 1
@@ -64,7 +65,7 @@ equipments = {
 		hard_attack = 8
 		ap_attack = 7
 		
-		build_cost_ic = 6
+		build_cost_ic = 12
 		resources = {
  			electricity = 1
 			tungsten = 1
@@ -86,7 +87,7 @@ equipments = {
 		hard_attack = 10
 		ap_attack = 8
 		
-		build_cost_ic = 8
+		build_cost_ic = 16
 		resources = {
  			electricity = 1
 			tungsten = 1
@@ -108,7 +109,7 @@ equipments = {
 		hard_attack = 12
 		ap_attack = 9
 		
-		build_cost_ic = 10
+		build_cost_ic = 20
 		resources = {
  			electricity = 1
 			tungsten = 1
@@ -130,7 +131,7 @@ equipments = {
 		hard_attack = 14
 		ap_attack = 10
 		
-		build_cost_ic = 12
+		build_cost_ic = 24
 		resources = {
  			electricity = 1
 			tungsten = 1

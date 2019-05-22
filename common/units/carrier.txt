@@ -1,4 +1,5 @@
 sub_units = {
+
 	carrier = {
 		sprite = carrier
 		map_icon_category = ship
@@ -8,15 +9,75 @@ sub_units = {
 			#capital_ship
 			carrier 
 		}
-		need = { ship_hull_carrier = 1 }
-		
+		need = { carrier = 1 }
 		supply_consumption = 0.3
 		
+
+		max_organisation = 40
+
+	}
+	
+	light_carrier = {
+		sprite = carrier
+		map_icon_category = ship
+		priority = 10
+		active = yes
+		type = { 
+			#capital_ship
+			carrier 
+		}
+		need = { light_carrier = 1 }
+		supply_consumption = 0.2
+		
+
+		max_organisation = 40
+
+	}
+	
+	super_carrier = {
+		sprite = carrier
+		map_icon_category = ship
+		priority = 10
+		active = yes
+		type = { 
+			#capital_ship
+			carrier 
+		}
+		need = { super_carrier = 1 }
+		supply_consumption = 0.4
+		
+
+		max_organisation = 40
+
+	}
+	
+	super_nuclear_carrier = {
+		sprite = carrier
+		map_icon_category = ship
+		priority = 10
+		active = yes
+		type = { 
+			#capital_ship
+			carrier 
+		}
+		need = { super_nuclear_carrier = 1 }
+		supply_consumption = 0.4
+		
+
+		max_organisation = 40
+
+	}
+	
+	ballistic_submarine = {
+		sprite = submarine
+		map_icon_category = ship
+		priority = 2
+		active = yes
+		type = { carrier submarine }
+		need = { ballistic_submarine = 1 }
+				
 		max_organisation = 40
 		
-		critical_parts = { destroyed_ammo_storage broken_propeller on_fire }
-		critical_part_damage_chance_mult = 1
-		
-		hit_profile_mult = 1.0
+		supply_consumption = 0.03
 	}
 }

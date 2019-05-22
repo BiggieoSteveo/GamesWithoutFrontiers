@@ -39,55 +39,15 @@ technology_categories = {
 	cat_strategic_bomber
 	naval_bomber
 	cas_bomber
-	naval_equipment
-	screen_tech
-	screen_tech_hull
-	screen_hull_large
-	screen_hull_medium
-	screen_hull_small
-	screen_tech_weapon
-	rhib_launch
-	screen_aviation
 	fg_tech
 	dd_tech
 	cl_tech
 	ca_tech
-	carrier_tech
-	carrier_tech_hull
-	carrier_tech_deck
-	supercarrier_tech
-	amphibious_tech
-	helicarrier_tech
-	mediumcarrier_tech
 	cv_tech
 	bc_tech
 	bb_tech
-	capital_tech
-	capital_tech_hull
-	capital_tech_weapon
-	naval_modules_general
-	naval_countermeasures
-	maritime_sonar
-	naval_antisub
-	naval_subkiller
-	ciws
-	naval_weapon
-	naval_ship_armament_light
-	naval_ship_armament_medium
-	naval_ship_armament_heavy
-	naval_sensors
-	naval_maritime_ta_fcs
-	naval_maritime_ew_ss
-	naval_maritime_navigation
 	shbb_tech
 	ss_tech
-	ss_tech_hull
-	sub_hull_large_double
-	sub_hull_large_single
-	sub_hull_small_single
-	ss_tech_weapon
-	torpedo
-	slbm
 	tp_tech
 	synth_resources
 	fleet_in_being_tree
@@ -147,37 +107,6 @@ technology_categories = {
 	heavy_artillery
 	sf_forces
 	cavarly_tech
-	hardware_tech
-	software_tech
-	radio_tech
-	coms_tech
-	consumer_electronics
-	consumer_electronics_tech
-	interwebs_tech
-	transistor_tech
-	supercomputer_tech
-	infrastructure
-	inframanagement
-	infrastate
-	inframunicipal
-	energy
-	rgo
-	grid
-	renewables
-	gas
-	ecoenergy
-	water
-	organic
-	agriculture
-	altvehicles
-	biofuels
-	asw_tech
-	naval_minesweeping
-	naval_minelaying
-	naval_mines
-	category_nav_bomber
-	category_tac_bomber
-	category_strat_bomber
 }
 
 technology_folders = {
@@ -187,26 +116,7 @@ technology_folders = {
 	artillery_folder
 	air_techs_folder
 	light_air_techs_folder
-	naval_folder = {
-		available = {
-			not = { has_dlc = "Man the Guns" }
-		}
-	}
-	mtgnavalfolder = {
-		available = {
-			has_dlc = "Man the Guns"
-		}
-	}
-	mtgnavallargefolder = {
-		available = {
-			has_dlc = "Man the Guns"
-		}
-	}
-	mtgnavalmodulefolder = {
-		available = {
-			has_dlc = "Man the Guns"
-		}
-	}
+	naval_folder
 	industry_folder
 	land_doctrine_folder
 	naval_doctrine_folder

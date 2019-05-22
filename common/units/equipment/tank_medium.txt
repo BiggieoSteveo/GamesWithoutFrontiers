@@ -43,7 +43,7 @@ equipments = {
 		
 		lend_lease_cost = 10
 		
-		build_cost_ic = 15 
+		build_cost_ic = 30 
 		resources = {
  			electricity = 1
 			oil = 1
@@ -86,7 +86,7 @@ equipments = {
 		ap_attack = 36
 		air_attack = 0
 
-		build_cost_ic = 18
+		build_cost_ic = 40
 		resources = {
  			electricity = 1
 			oil = 1
@@ -119,7 +119,7 @@ equipments = {
 		ap_attack = 38
 		air_attack = 0
 
-		build_cost_ic = 22.5
+		build_cost_ic = 45
 		resources = {
  			electricity = 1
 			oil = 2
@@ -152,7 +152,7 @@ equipments = {
 		ap_attack = 46
 		air_attack = 0
 
-		build_cost_ic = 26
+		build_cost_ic = 52
 		resources = {
  			electricity = 1
 			oil = 2
@@ -185,7 +185,7 @@ equipments = {
 		ap_attack = 50
 		air_attack = 0
 		
-		build_cost_ic = 30
+		build_cost_ic = 60
 		resources = {
  			electricity = 1
 			oil = 2
@@ -218,7 +218,7 @@ equipments = {
 		ap_attack = 61
 		air_attack = 0
 		
-		build_cost_ic = 34
+		build_cost_ic = 67
 		resources = {
  			electricity = 1
 			oil = 2
@@ -251,7 +251,7 @@ equipments = {
 		ap_attack = 66
 		air_attack = 0
 		
-		build_cost_ic = 37.5
+		build_cost_ic = 75
 		resources = {
  			electricity = 1
 			oil = 3
@@ -284,7 +284,7 @@ equipments = {
 		ap_attack = 75
 		air_attack = 0
 
-		build_cost_ic = 42
+		build_cost_ic = 83
 		resources = {
  			electricity = 1
 			oil = 3
@@ -318,7 +318,7 @@ equipments = {
 		ap_attack = 80
 		air_attack = 0
 
-		build_cost_ic = 45
+		build_cost_ic = 90
 		resources = {
  			electricity = 1
 			oil = 3
@@ -352,7 +352,7 @@ equipments = {
 		ap_attack = 85
 		air_attack = 0
 
-		build_cost_ic = 50
+		build_cost_ic = 100
 		resources = {
  			electricity = 1
 			oil = 4

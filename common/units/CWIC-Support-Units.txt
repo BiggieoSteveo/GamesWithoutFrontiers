@@ -25,7 +25,7 @@ sub_units = {
 		training_time = 180	
 		supply_consumption = 0.02
 		combat_width = 0		
-		max_organisation = 35	
+		max_organisation = 20	
 		default_morale = 0.3		
 		max_strength = 10
 		suppression = 1
@@ -78,7 +78,7 @@ sub_units = {
 		air_attack = -0.5
 		
 		###Extra ability
-		entrenchment = 5
+		entrenchment  = 5
 		
 	}
 	
@@ -107,7 +107,7 @@ sub_units = {
 		training_time = 140	
 		supply_consumption = 0.06
 		combat_width = 0		
-		max_organisation = 35	
+		max_organisation = 20	
 		default_morale = 0.3		
 		max_strength = 12
 		suppression = 1
@@ -159,7 +159,7 @@ sub_units = {
 		air_attack = -0.5
 		
 		###Extra ability
-		entrenchment = 5
+		entrenchment  = 5
 		
 	}
 	
@@ -188,7 +188,7 @@ sub_units = {
 		training_time = 120	
 		supply_consumption = 0.02
 		combat_width = 0		
-		max_organisation = 30	
+		max_organisation = 20	
 		default_morale = 0.3		
 		max_strength = 2
 		suppression = 1
@@ -263,7 +263,7 @@ sub_units = {
 		training_time = 140	
 		supply_consumption = 0.04
 		combat_width = 0		
-		max_organisation = 30	
+		max_organisation = 20	
 		default_morale = 0.3		
 		max_strength = 3
 		suppression = 1
@@ -414,7 +414,7 @@ sub_units = {
 		training_time = 120	
 		supply_consumption = 0.02
 		combat_width = 0		
-		max_organisation = 60	
+		max_organisation = 20	
 		default_morale = 0.3		
 		max_strength = 1
 		suppression = 0
@@ -489,7 +489,7 @@ sub_units = {
 		training_time = 120	
 		supply_consumption = 0.01
 		combat_width = 0		
-		max_organisation = 20	
+		max_organisation = 10	
 		default_morale = 0.3		
 		max_strength = 1
 		suppression = 0
@@ -529,7 +529,7 @@ sub_units = {
 		training_time = 120	
 		supply_consumption = 0.03
 		combat_width = 0		
-		max_organisation = 35	
+		max_organisation = 20	
 		default_morale = 0.3		
 		max_strength = 1
 		suppression = 0
@@ -569,15 +569,15 @@ sub_units = {
 		training_time = 120	
 		supply_consumption = 0.05
 		combat_width = 0		
-		max_organisation = 35	
-		default_morale = 0.5		
+		max_organisation = 20	
+		default_morale = 0.3		
 		max_strength = 2
 		suppression = 0
 		
 		can_be_parachuted = yes
 
 		###Extra ability
-		casualty_trickleback = 0.10
+		casualty_trickleback = 0.20
 		experience_loss_factor = -0.10
 
 		need = {
@@ -611,12 +611,12 @@ sub_units = {
 		supply_consumption = 0.06
 		combat_width = 0		
 		max_organisation = 20	
-		default_morale = 0.5		
+		default_morale = 0.3		
 		max_strength = 2
 		suppression = 0
 
 		###Extra ability
-		casualty_trickleback = 0.30
+		casualty_trickleback = 0.50
 		experience_loss_factor = -0.10
 
 		need = {
@@ -881,7 +881,7 @@ sub_units = {
 		training_time = 180	
 		supply_consumption = 0.04
 		combat_width = 0		
-		max_organisation = 60	
+		max_organisation = 20	
 		default_morale = 0.0.40	
 		max_strength = 2
 		suppression = 5
@@ -950,7 +950,7 @@ sub_units = {
 		sprite = infantry
 		map_icon_category = infantry
 		special_forces = yes
-		marines = yes
+        marines = yes
 		
 		priority = 500
 		ai_priority = 300
@@ -975,7 +975,7 @@ sub_units = {
 		training_time = 180	
 		supply_consumption = 0.04
 		combat_width = 0		
-		max_organisation = 60	
+		max_organisation = 20	
 		default_morale = 0.0.40
 		max_strength = 2
 		suppression = 3
@@ -1051,7 +1051,7 @@ sub_units = {
 		training_time = 180	
 		supply_consumption = 0.04
 		combat_width = 0	
-		max_organisation = 60	
+		max_organisation = 20	
 		default_morale = 0.40	
 		max_strength = 2
 		suppression = 2

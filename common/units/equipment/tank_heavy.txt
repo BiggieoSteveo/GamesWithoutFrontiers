@@ -39,7 +39,7 @@ equipments = {
 		#Space taken in convoy
 		lend_lease_cost = 14
 		
-		build_cost_ic = 20 
+		build_cost_ic = 40 
 		resources = {
  			electricity = 1
 			oil = 1
@@ -82,7 +82,7 @@ equipments = {
 		hard_attack = 19
 		ap_attack = 43
 		
-		build_cost_ic = 30
+		build_cost_ic = 50
 		resources = {
  			electricity = 1
 			oil = 2
@@ -115,7 +115,7 @@ equipments = {
 		hard_attack = 24
 		ap_attack = 46
 		
-		build_cost_ic = 30
+		build_cost_ic = 60
 		resources = {
  			electricity = 1
 			oil = 2
@@ -148,7 +148,7 @@ equipments = {
 		hard_attack = 28
 		ap_attack = 55
 		
-		build_cost_ic = 40
+		build_cost_ic = 70
 		resources = {
  			electricity = 1
 			oil = 3
@@ -181,7 +181,7 @@ equipments = {
 		hard_attack = 33
 		ap_attack = 61
 		
-		build_cost_ic = 40
+		build_cost_ic = 80
 		resources = {
  			electricity = 1
 			oil = 3

@@ -124,7 +124,7 @@ technologies = {
 	tech_armor_engineers2 = {
 
 		armored_engineers = {
-			entrenchment = 2
+			entrenchment  = 2
 			
 			fort = {
 				defence = 0.10
@@ -157,7 +157,7 @@ technologies = {
 	tech_armor_engineers3 = {
 
 		armored_engineers = {
-			entrenchment = 2
+			entrenchment  = 2
 			river = {
 				attack = 0.1	
 				defence = 0.10
@@ -187,7 +187,7 @@ technologies = {
 	tech_armor_engineers4 = {
 
 		armored_engineers = {
-			entrenchment = 2
+			entrenchment  = 2
 			urban = {
 				attack = 0.1	
 				defence = 0.1
@@ -218,7 +218,7 @@ technologies = {
 	tech_armor_engineers5 = {
 
 		armored_engineers = {
-			entrenchment = 2
+			entrenchment  = 2
 			urban = {
 				attack = 0.1	
 				defence = 0.1
@@ -249,7 +249,7 @@ technologies = {
 	tech_armor_engineers6 = {
 
 		armored_engineers = {
-			entrenchment = 2
+			entrenchment  = 2
 			urban = {
 				attack = 0.1	
 				defence = 0.1
@@ -280,7 +280,7 @@ technologies = {
 	tech_armor_engineers7 = {
 
 		armored_engineers = {
-			entrenchment = 2
+			entrenchment  = 2
 			urban = {
 				attack = 0.1	
 				defence = 0.1
@@ -335,7 +335,7 @@ technologies = {
 	tech_engineers2 = {
 
 		engineer = {
-			entrenchment = 2
+			entrenchment  = 2
 			
 			fort = {
 				defence = 0.10
@@ -368,7 +368,7 @@ technologies = {
 	tech_engineers3 = {
 
 		engineer = {
-			entrenchment = 2
+			entrenchment  = 2
 			river = {
 				attack = 0.1	
 				defence = 0.10
@@ -398,7 +398,7 @@ technologies = {
 	tech_engineers4 = {
 
 		engineer = {
-			entrenchment = 2
+			entrenchment  = 2
 			urban = {
 				attack = 0.1	
 				defence = 0.1
@@ -429,7 +429,7 @@ technologies = {
 	tech_engineers5 = {
 
 		engineer = {
-			entrenchment = 2
+			entrenchment  = 2
 			urban = {
 				attack = 0.1	
 				defence = 0.1
@@ -460,7 +460,7 @@ technologies = {
 	tech_engineers6 = {
 
 		engineer = {
-			entrenchment = 2
+			entrenchment  = 2
 			urban = {
 				attack = 0.1	
 				defence = 0.1
@@ -491,7 +491,7 @@ technologies = {
 	tech_engineers7 = {
 
 		engineer = {
-			entrenchment = 2
+			entrenchment  = 2
 			urban = {
 				attack = 0.1	
 				defence = 0.1
@@ -908,7 +908,7 @@ technologies = {
 
 ###SIGNAL
 
-	tech_signal_company = {
+    tech_signal_company = {
 
 		enable_subunits = {
 			signal_company
@@ -1330,7 +1330,7 @@ technologies = {
 	}
 	
 ###LOGISTICS
-	
+    
 	tech_logistics_company = {
 
 		enable_subunits = {
@@ -1589,7 +1589,7 @@ technologies = {
 		start_year = 1950
 		folder = {
 			name = support_folder
-			position = { x = 6 y = 26 }
+			position = { x = 9 y = 26 }
 		}
 		
 		categories = {
@@ -1606,7 +1606,6 @@ technologies = {
 
 		maintenance_company = {
 			reliability_factor = 0.05
-			equipment_capture_factor = 0.05
 		}
 		path = {
 			leads_to_tech = tech_maintenance_company4
@@ -1617,7 +1616,7 @@ technologies = {
 		start_year = 1960
 		folder = {
 			name = support_folder
-			position = { x = 9 y = 26 }
+			position = { x = 12 y = 26 }
 		}
 		
 		categories = {
@@ -1640,7 +1639,7 @@ technologies = {
 		start_year = 1970
 		folder = {
 			name = support_folder
-			position = { x = 12 y = 26 }
+			position = { x = 15 y = 26 }
 		}
 		
 		path = {
@@ -1662,7 +1661,6 @@ technologies = {
 
 		maintenance_company = {
 			reliability_factor = 0.05
-			equipment_capture_factor = 0.05
 		}
 		
 		path = {
@@ -1674,7 +1672,7 @@ technologies = {
 		start_year = 1980
 		folder = {
 			name = support_folder
-			position = { x = 15 y = 26 }
+			position = { x = 18 y = 26 }
 		}
 		
 		categories = {
@@ -1699,7 +1697,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
-		start_year = 1990
+		start_year = 2000
 		folder = {
 			name = support_folder
 			position = { x = 18 y = 26 }
@@ -1715,7 +1713,7 @@ technologies = {
 		}
 	}	
 
-	tech_maintenance_company7 = {
+    tech_maintenance_company7 = {
 
 		maintenance_company = {
 			reliability_factor = 0.05
@@ -1775,7 +1773,8 @@ technologies = {
 	tech_field_hospital2 = {
 
 		field_hospital = {
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.10
+			experience_loss_factor = -0.10
 		}
 		
 		enable_subunits = {
@@ -1808,13 +1807,13 @@ technologies = {
 	tech_field_hospital3 = {
 
 		field_hospital = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.1
+			experience_loss_factor = -0.10
 		}
 		
 		helicopter_medical_support = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.10
+			experience_loss_factor = -0.10
 		}
 		
 		path = {
@@ -1842,13 +1841,13 @@ technologies = {
 	tech_field_hospital4 = {
 
 		field_hospital = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.1
+			experience_loss_factor = -0.10
 		}
 		
 		helicopter_medical_support = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.10
+			experience_loss_factor = -0.10
 		}
 
 		path = {
@@ -1876,13 +1875,13 @@ technologies = {
 	tech_field_hospital5 = {
 
 		field_hospital = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.1
+			experience_loss_factor = -0.10
 		}
 		
 		helicopter_medical_support = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.10
+			experience_loss_factor = -0.10
 		}
 		
 		path = {
@@ -1910,13 +1909,13 @@ technologies = {
 	tech_field_hospital6 = {
 
 		field_hospital = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.1
+			experience_loss_factor = -0.10
 		}
 		
 		helicopter_medical_support = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.10
+			experience_loss_factor = -0.10
 		}
 		
 		path = {
@@ -1944,13 +1943,13 @@ technologies = {
 	tech_field_hospital7 = {
 
 		field_hospital = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.1
+			experience_loss_factor = -0.10
 		}
 		
 		helicopter_medical_support = {
-			casualty_trickleback = 0.05
-			experience_loss_factor = -0.05
+			casualty_trickleback = 0.10
+			experience_loss_factor = -0.10
 		}
 
 

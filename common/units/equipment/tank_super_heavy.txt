@@ -42,7 +42,7 @@ equipments = {
 		#Space taken in convoy
 		lend_lease_cost = 15
 		
-		build_cost_ic = 30
+		build_cost_ic = 60
 		resources = {
  			electricity = 1
 			oil = 3
@@ -64,7 +64,7 @@ equipments = {
 
 		archetype = sht_equipment
 		parent = sht_equipment_1
-		priority = 70
+		priority =70
 		visual_level = 1
 		
 		#Misc Abilities
@@ -95,7 +95,7 @@ equipments = {
 
 		archetype = sht_equipment
 		parent = sht_equipment_2
-		priority = 70
+		priority =70
 		visual_level = 2
 		
 		#Misc Abilities

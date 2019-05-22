@@ -628,6 +628,7 @@ SOV_MOT_01 =
 	division_types = { "motorized_infantry" "mechanized_infantry"  }
 
 	# Number reservation system will tie to another group.
+	link_numbering_with = { SOV_MOT_02 }
 
 	fallback_name = "%dya Motostrelkovaya Diviziya"
 
@@ -654,8 +655,11 @@ SOV_MOT_01 =
 		26 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
 		27 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
 		28 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
+		29 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
 		30 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
 		32 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
+		33 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
+		36 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
 		38 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
 		39 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
 		42 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
@@ -687,6 +691,7 @@ SOV_MOT_01 =
 		128 = { "%dya Gvardiya Motostrelkovaya Diviziya" }
 		144 = { "%dya Gvardiya Motostrelkovaya Diviziya" }		
 		4 = { "%dya Motostrelkovaya Diviziya" }
+		9 = { "%dya Motostrelkovaya Diviziya" }
 		12 = { "%dya Motostrelkovaya Diviziya" }
 		13 = { "%dya Motostrelkovaya Diviziya" }
 		15 = { "%dya 'Sivashskaya' Motostrelk. Div." }
@@ -703,6 +708,7 @@ SOV_MOT_01 =
 		41 = { "%dya Motostrelkovaya Diviziya" }
 		43 = { "%dya Motostrelkovaya Diviziya" }
 		46 = { "%dya Motostrelkovaya Diviziya" }
+		47 = { "%dya Motostrelkovaya Diviziya" }
 		48 = { "%dya Motostrelkovaya Diviziya" }
 		52 = { "%dya Motostrelkovaya Diviziya" }
 		54 = { "%dya Motostrelkovaya Diviziya" }
@@ -778,6 +784,7 @@ SOV_MEC_01 =
 	division_types = { "mechanized_infantry" }
 
 	# Number reservation system will tie to another group.
+	link_numbering_with = { SOV_GMC_01 }
 
 	fallback_name = "%dya Mekhanizirovanaya Diviziya"
 
@@ -786,12 +793,14 @@ SOV_MEC_01 =
 	ordered =
 	{
 		1 = { "%dya 'Moskva Proletarskaya' Mekh. Div." }
+		1 = { "%dya 'Vienna' Gvds. Mekh. Diviziya" }
 		2 = { "%dya Gvds. Mekhanizirovanaya Diviziya" }
 		3 = { "%dya Gvds. Mekhanizirovanaya Diviziya" }
 		4 = { "%dya Gvds. Mekhanizirovanaya Diviziya" }
 		5 = { "%dya 'Zimovnikovskaya' Gvds. Mekh. Diviziya" }
 		6 = { "%dya Gvds. Mekhanizirovanaya Diviziya" }
 		7 = { "%dya 'Chernigovskaya' Mekh. Div." }		
+		7 = { "%dya Gvds. Mekhanizirovanaya Diviziya" }
 		8 = { "%dya Gvds. Mekhanizirovanaya Diviziya" }
 		9 = { "%dya Gvds. Mekhanizirovanaya Diviziya" }		
 		15 = { "%dya 'Sivashskaya' Mekh. Div." }
@@ -826,6 +835,28 @@ SOV_MEC_01 =
 	}
 }
 
+SOV_ART_01 = 
+{
+	name = "Mechanized Division"
+
+	for_countries = { SOV }
+
+	can_use = { always = yes }
+
+	division_types = { "light_sp_artillery_brigade" "heavy_sp_artillery_brigade" }
+
+	# Number reservation system will tie to another group.
+	# link_numbering_with = { SOV_GMC_01 }
+
+	fallback_name = "%dya Artilleriyskaya Diviziya"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%dya Artilleriyskaya Diviziya" }
+	}
+}
 
 SOV_ARM_01 = 
 {
@@ -838,6 +869,7 @@ SOV_ARM_01 =
 	division_types = { "light_armor" "medium_armor" }
 
 	# Number reservation system will tie to another group.
+	link_numbering_with = { SOV_ARM_02 }
 
 	fallback_name = "%dya Tankovaya Diviziya"
 
@@ -866,6 +898,7 @@ SOV_ARM_01 =
 		26 = { "%dya Gvardiya Tankovaya Diviziya" }
 		30 = { "%dya Gvardiya Tankovaya Diviziya" }
 		32 = { "%dya Gvardiya Tankovaya Diviziya" }	
+		3 = { "%dya Tankovaya Diviziya" }
 		9 = { "%dya Tankovaya Diviziya" }
 		14 = { "%dya Tankovaya Diviziya" }
 		20 = { "%dya Tankovaya Diviziya" }
@@ -1047,6 +1080,7 @@ SOV_MNT_01 =
 	division_types = { "mountaineers" }
 
 	# Number reservation system will tie to another group.
+	link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Gornostrelkovaya Diviziya"
 

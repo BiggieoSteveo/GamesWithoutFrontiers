@@ -88,10 +88,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_III = 1
-		}
-		
 		research_cost = 2
 		start_year = 1960
 		
@@ -118,10 +114,6 @@ technologies = {
 		path = {
 			leads_to_tech = utility_helicopter_4 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_IV = 1 
 		}
 		
 		research_cost = 2
@@ -152,10 +144,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_V = 1
-		}
-		
 		research_cost = 2
 		start_year = 1975
 		
@@ -182,10 +170,6 @@ technologies = {
 		path = {
 			leads_to_tech = utility_helicopter_6 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VII = 1
 		}
 		
 		research_cost = 2
@@ -216,10 +200,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_VIII = 1
-		}
-		
 		research_cost = 2
 		start_year = 1995
 		
@@ -241,10 +221,6 @@ technologies = {
 
 		enable_equipments = { 
 			utility_helicopter_equipment_7
-		}
-		
-		dependencies = {
-			hardware_XI = 1
 		}
 			
 		
@@ -310,10 +286,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_III = 1
-		}
-		
 		research_cost = 2
 		start_year = 1960
 		
@@ -341,10 +313,6 @@ technologies = {
 		path = {
 			leads_to_tech = naval_helicopter_4 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_IV = 1
 		}
 		
 		research_cost = 2
@@ -376,10 +344,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_V = 1
-		}
-		
 		research_cost = 2
 		start_year = 1975
 		
@@ -407,10 +371,6 @@ technologies = {
 		path = {
 			leads_to_tech = naval_helicopter_6 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VII = 1
 		}
 		
 		research_cost = 2
@@ -442,10 +402,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_VIII = 1
-		}
-		
 		research_cost = 2
 		start_year = 1995
 		
@@ -469,10 +425,7 @@ technologies = {
 		enable_equipments = { 
 			naval_helicopter_equipment_7
 		}
-		
-		dependencies = {
-			hardware_XI = 1
-		}
+			
 		
 		research_cost = 2
 		start_year = 2005
@@ -507,12 +460,8 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_III = 1
-		}
-		
 		research_cost = 2
-		start_year = 1960
+		start_year = 1959
 		
 		folder = {
 			name = helicopter_folder
@@ -537,10 +486,6 @@ technologies = {
 		path = {
 			leads_to_tech = cargo_helicopter_3 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_IV = 1
 		}
 		
 		research_cost = 2
@@ -570,11 +515,7 @@ technologies = {
 			leads_to_tech = cargo_helicopter_4 
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_V = 1
-		}
-		
+					
 		research_cost = 2
 		start_year = 1975
 		
@@ -602,11 +543,7 @@ technologies = {
 			leads_to_tech = cargo_helicopter_5 
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_VII = 1
-		}
-		
+					
 		research_cost = 2
 		start_year = 1985
 		
@@ -634,11 +571,7 @@ technologies = {
 			leads_to_tech = cargo_helicopter_6 
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_VIII = 1
-		}
-		
+					
 		research_cost = 2
 		start_year = 1995
 		
@@ -662,10 +595,8 @@ technologies = {
 			cargo_helicopter_equipment_6
 		}
 		
-		dependencies = {
-			hardware_XI = 1
-		}
-		
+
+					
 		research_cost = 2
 		start_year = 2005
 		
@@ -697,11 +628,7 @@ technologies = {
 			leads_to_tech = attack_helicopter_2 
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_V = 1
-		}
-		
+						
 		research_cost = 2
 		start_year = 1965
 		
@@ -724,14 +651,10 @@ technologies = {
 		enable_equipments = { 
 			attack_helicopter_equipment_2
 		}
-		
+				
 		path = {
 			leads_to_tech = attack_helicopter_3 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VI = 1
 		}
 		
 		research_cost = 2
@@ -756,14 +679,10 @@ technologies = {
 		enable_equipments = { 
 			attack_helicopter_equipment_3
 		}
-		
+				
 		path = {
 			leads_to_tech = attack_helicopter_4 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VIII = 1
 		}
 		
 		research_cost = 2
@@ -788,14 +707,10 @@ technologies = {
 		enable_equipments = { 
 			attack_helicopter_equipment_4
 		}
-		
+				
 		path = {
 			leads_to_tech = attack_helicopter_5 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_X = 1
 		}
 		
 		research_cost = 2
@@ -820,11 +735,7 @@ technologies = {
 		enable_equipments = { 
 			attack_helicopter_equipment_5
 		}
-		
-		dependencies = {
-			hardware_XIII = 1
-		}
-		
+					
 		research_cost = 2
 		start_year = 2005
 		
@@ -856,11 +767,7 @@ technologies = {
 			leads_to_tech = scout_helicopter_2 
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_V = 1
-		}
-		
+						
 		research_cost = 2
 		start_year = 1965
 		
@@ -883,14 +790,10 @@ technologies = {
 		enable_equipments = { 
 			scout_helicopter_equipment_2
 		}
-		
+				
 		path = {
 			leads_to_tech = scout_helicopter_3 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VI = 1
 		}
 		
 		research_cost = 2
@@ -915,14 +818,10 @@ technologies = {
 		enable_equipments = { 
 			scout_helicopter_equipment_3
 		}
-		
+				
 		path = {
 			leads_to_tech = scout_helicopter_4 
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VII = 1
 		}
 		
 		research_cost = 2
@@ -952,11 +851,7 @@ technologies = {
 			leads_to_tech = scout_helicopter_5
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_X = 1
-		}
-		
+					
 		research_cost = 2
 		start_year = 1995
 		
@@ -979,11 +874,7 @@ technologies = {
 		enable_equipments = { 
 			scout_helicopter_equipment_5
 		}
-		
-		dependencies = {
-			hardware_XIII = 1
-		}
-		
+					
 		research_cost = 2
 		start_year = 2005
 		
@@ -1003,7 +894,7 @@ technologies = {
 	
 ###UAVs
 
-	uav = {
+    uav = {
 		
 		recon = {
 			recon = 1
@@ -1027,11 +918,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_VIII = 1
-		}
-		
-		research_cost = 3
+		research_cost = 2
 		start_year = 1990
 		
 		folder = {
@@ -1062,12 +949,8 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_IX = 1
-		}
-		
-		research_cost = 3
-		start_year = 1995
+		research_cost = 2
+		start_year = 1998
 		
 		folder = {
 			name = helicopter_folder
@@ -1092,12 +975,8 @@ technologies = {
 			recon = 1.5
 		}
 		
-		dependencies = {
-			hardware_XIII = 1
-		}
-		
-		research_cost = 3
-		start_year = 2005
+		research_cost = 2
+		start_year = 2003
 		
 		folder = {
 			name = helicopter_folder
@@ -1123,13 +1002,9 @@ technologies = {
 			leads_to_tech = cas_uav_2 
 			research_cost_coeff = 1
 		}
-		
-		research_cost = 3
+						
+		research_cost = 2
 		start_year = 1995
-		
-		dependencies = {
-			hardware_XI = 1
-		}
 		
 		folder = {
 			name = helicopter_folder
@@ -1155,12 +1030,8 @@ technologies = {
 			leads_to_tech = cas_uav_3 
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_XII = 1
-		}
-		
-		research_cost = 3
+						
+		research_cost = 2
 		start_year = 2000
 		
 		folder = {
@@ -1187,12 +1058,8 @@ technologies = {
 			leads_to_tech = naval_uav_3 
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_XIII = 1
-		}
-		
-		research_cost = 3
+						
+		research_cost = 2
 		start_year = 2005
 		
 		folder = {
@@ -1214,17 +1081,13 @@ technologies = {
 		enable_equipments = { 
 			naval_uav_equipment_1
 		}
-		
+				
 		path = {
 			leads_to_tech = naval_uav_2 
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_XI = 1
-		}
-		
-		research_cost = 3
+		research_cost = 2
 		start_year = 1995
 		
 		folder = {
@@ -1247,17 +1110,13 @@ technologies = {
 		enable_equipments = { 
 			naval_uav_equipment_2
 		}
-		
+				
 		path = {
 			leads_to_tech = naval_uav_3 
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_XII = 1
-		}
-		
-		research_cost = 3
+		research_cost = 2
 		start_year = 2000
 		
 		folder = {
@@ -1280,17 +1139,13 @@ technologies = {
 		enable_equipments = { 
 			naval_uav_equipment_3
 		}
-		
+				
 		path = {
 			leads_to_tech = cas_uav_3 
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_XIII = 1
-		}
-		
-		research_cost = 3
+		research_cost = 2
 		start_year = 2005
 		
 		folder = {

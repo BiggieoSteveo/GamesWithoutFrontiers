@@ -82,7 +82,7 @@ technologies = {
 		rocket_sp_artillery = {
 			soft_attack = 0.05
 		}		
-		research_speed_factor = 0.01
+		research_time_factor = -0.01
 
 		research_cost = 2
 		start_year = 1953
@@ -112,7 +112,7 @@ technologies = {
 		rocket_sp_artillery = {
 			soft_attack = 0.05
 		}		
-		research_speed_factor = 0.01
+		research_time_factor = -0.01
 
 		research_cost = 2
 		start_year = 1962
@@ -322,7 +322,7 @@ technologies = {
 
 	manned_space_travel = {
 		
-		research_speed_factor = 0.0025
+		research_time_factor = -0.0025
 
 		research_cost = 2
 		start_year = 1961
@@ -354,7 +354,7 @@ technologies = {
 
 	sub_orbital_flight = {
 		
-		research_speed_factor = 0.0025
+		research_time_factor = -0.0025
 		decryption = 0.1
 
 		research_cost = 2
@@ -382,7 +382,7 @@ technologies = {
 
 	orbital_flight = {
 		
-		research_speed_factor = 0.0025
+		research_time_factor = -0.0025
 		encryption = 0.1
 
 		research_cost = 2
@@ -410,7 +410,7 @@ technologies = {
 
 	advancing_space_travel = {
 
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 	
 		research_cost = 2
 		start_year = 1969
@@ -442,7 +442,7 @@ technologies = {
 
 	multi_crewed_flight = {
 
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 		
 		research_cost = 2
 		start_year = 1964
@@ -469,7 +469,7 @@ technologies = {
 
 	modern_systems = {	
 
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1973
@@ -496,7 +496,7 @@ technologies = {
 
 	manned_lunar_programs = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1973
@@ -523,7 +523,7 @@ technologies = {
 
 	space_shuttle = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1977
@@ -585,7 +585,7 @@ technologies = {
 
 	external_fuel_tanks = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		army_speed_factor = 0.05
 
@@ -615,7 +615,7 @@ technologies = {
 
 	advanced_space_travel = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1988
@@ -647,7 +647,7 @@ technologies = {
 
 	colonization_modules = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1993
@@ -701,7 +701,7 @@ technologies = {
 
 	manned_martian_programs = {	
 
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 	
 		research_cost = 2
 		start_year = 1999
@@ -727,7 +727,7 @@ technologies = {
 
 	unmanned_lunar_missions = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1959
@@ -818,7 +818,7 @@ technologies = {
 
 	lunar_probe_lander = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1967
@@ -846,7 +846,7 @@ technologies = {
 
 	crewed_lunar_missions = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1961
@@ -879,7 +879,7 @@ technologies = {
 
 	manned_lunar_flyby = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1968
@@ -908,7 +908,7 @@ technologies = {
 
 	manned_lunar_landing = {	
 
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 	
 		research_cost = 2
 		start_year = 1969
@@ -967,7 +967,7 @@ technologies = {
 
 	lunar_colonization = {	
 
-		MONTHLY_POPULATION = 0.1
+		MONTHLY_POPULATION  = 0.1
 		conscription_factor = 0.005
 
 		research_cost = 5
@@ -997,7 +997,7 @@ technologies = {
 
 	unmanned_martian_missions = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1960
@@ -1091,7 +1091,7 @@ technologies = {
 
 	martian_rover_lander = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1973
@@ -1120,7 +1120,7 @@ technologies = {
 
 	crewed_martian_missions = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 5
 		start_year = 1985
@@ -1154,7 +1154,7 @@ technologies = {
 
 	manned_martian_flyby = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 5
 		start_year = 1987
@@ -1183,7 +1183,7 @@ technologies = {
 
 	manned_martian_landing = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 5
 		start_year = 1995
@@ -1242,7 +1242,7 @@ technologies = {
 
 	martian_colonization = {
 
-		MONTHLY_POPULATION = 0.2
+		MONTHLY_POPULATION  = 0.2
 		conscription_factor = 0.005
 
 		research_cost = 9
@@ -1272,7 +1272,7 @@ technologies = {
 
 	unmanned_venus_missions = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1961
@@ -1392,7 +1392,7 @@ technologies = {
 
 	pressurized_module = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1971
@@ -1523,7 +1523,7 @@ technologies = {
 
 	laboratory_module = {
 
-		research_speed_factor = 0.02
+		research_time_factor = -0.02
 
 		research_cost = 2
 		start_year = 1979
@@ -1559,7 +1559,7 @@ technologies = {
 		signal_company = {
 			initiative = 0.02
 		}
-		research_speed_factor = 0.005
+		research_time_factor = -0.005
 
 		research_cost = 2
 		start_year = 1982
@@ -1595,7 +1595,7 @@ technologies = {
 		signal_company = {
 			initiative = 0.03
 		}
-		research_speed_factor = 0.005
+		research_time_factor = -0.005
 
 		research_cost = 2
 		start_year = 1998
@@ -1623,7 +1623,7 @@ technologies = {
 
 	unmanned_mercury_missions = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1972
@@ -1745,7 +1745,7 @@ technologies = {
 
 	unmanned_jupiter_missions = {	
 	
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1973
@@ -1864,7 +1864,7 @@ technologies = {
 
 	unmanned_saturn_missions = {
 
-		research_speed_factor = 0.001
+		research_time_factor = -0.001
 
 		research_cost = 2
 		start_year = 1978

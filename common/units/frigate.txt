@@ -1,11 +1,12 @@
 sub_units = {
-	destroyer = {
+
+	frigate = {
 		sprite = destroyer
 		map_icon_category = ship
 		priority = 3
 		active = yes
 		type = { screen_ship }
-		need = { destroyer = 1 }
+		need = { frigate = 1 }
 		
 		max_organisation = 40
 
@@ -13,13 +14,13 @@ sub_units = {
 		supply_consumption = 0.01
 	}
 	
-	ddg = {
+	ffg = {
 		sprite = destroyer
 		map_icon_category = ship
 		priority = 3
 		active = yes
 		type = { screen_ship }
-		need = { ddg = 1 }
+		need = { ffg = 1 }
 		
 		max_organisation = 40
 

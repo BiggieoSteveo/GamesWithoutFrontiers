@@ -21,10 +21,6 @@ technologies = {
 			leads_to_tech = heavy_fighter1
 			research_cost_coeff = 1
 		}
-		path = {
-			leads_to_tech = cv_early_fighter
-			research_cost_coeff = 1
-		}
 		
 		research_cost = 1.5
 		start_year = 1933
@@ -39,8 +35,46 @@ technologies = {
 			air_equipment
 		}
 		
+		sub_technologies = {
+			cv_early_fighter
+		}
+		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	cv_early_fighter = {
+
+		enable_equipments = {
+			cv_fighter_equipment_0
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1933
+		
+		categories = {
+			naval_air
+			light_fighter
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = fighter1
+			}
 		}
 	}
 	heavy_fighter1 = {
@@ -155,9 +189,47 @@ technologies = {
 			cat_mr_fighter
 		}
 		
+		sub_technologies = {
+			cv_fighter1
+		}
 		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	cv_fighter1 = {
+
+		enable_equipments = {
+			cv_fighter_equipment_1
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1936
+		
+		categories = {
+			naval_air
+			light_fighter
+			air_equipment
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = fighter2
+			}
 		}
 	}
 	
@@ -191,9 +263,47 @@ technologies = {
 			cat_mr_fighter
 		}
 		
+		sub_technologies = {
+			cv_fighter2
+		}
 		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	cv_fighter2 = {
+
+		enable_equipments = {
+			cv_fighter_equipment_2
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1940
+		
+		categories = {
+			naval_air
+			light_fighter
+			air_equipment
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = fighter3
+			}
 		}
 	}
 	
@@ -225,25 +335,67 @@ technologies = {
 			cat_mr_fighter
 		}
 		
+		sub_technologies = {
+			cv_fighter3 
+		}
+		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	cv_fighter3 = {
+
+		enable_equipments = {
+			cv_fighter_equipment_3
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1944
+		
+		categories = {
+			naval_air
+			light_fighter
+			air_equipment
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_multirole1
+			}
 		}
 	}
 	
 	jet_multirole1 = {
 
 		enable_equipments = {
-		jet_multirole_equipment_1
+				jet_multirole_equipment_1
 		}
 			
 		path = {
 			leads_to_tech = jet_multirole2
 			research_cost_coeff = 1
 		}
+
+		sub_technologies = {
+			cv_jet_multirole1
+		}
 		
 		dependencies = {
 			jet_engines = 1
-			hardware_I = 1
 		}
 				
 		research_cost = 3
@@ -267,6 +419,41 @@ technologies = {
 			factor = 1
 		}
 	}
+	cv_jet_multirole1 = {
+
+		enable_equipments = {
+			cv_jet_multirole_equipment_1
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1946
+		
+		categories = {
+			naval_air
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_multirole2
+			}
+		}
+	}
 	
 	jet_multirole2 = {
 
@@ -285,6 +472,10 @@ technologies = {
 		
 		research_cost = 2
 		start_year = 1948
+
+		sub_technologies = {
+			cv_jet_multirole2
+		}
 		
 		folder = {
 			name = light_air_techs_folder
@@ -303,7 +494,43 @@ technologies = {
 			factor = 1
 		}
 	}
+	cv_jet_multirole2 = {
 
+		enable_equipments = {
+			cv_jet_multirole_equipment_2
+		}
+		
+		research_cost = 1
+		start_year = 1948
+		
+		categories = {
+			naval_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_multirole3
+			}
+		}
+	}
+	
 	jet_multirole3 = {
 
 		enable_equipments = {
@@ -335,6 +562,9 @@ technologies = {
 		research_cost = 2
 		start_year = 1950
 		
+		sub_technologies = {
+			cv_jet_multirole3
+		}
 		folder = {
 			name = light_air_techs_folder
 			position = { x = 2.5 y = 14 }
@@ -350,6 +580,42 @@ technologies = {
 		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	cv_jet_multirole3 = {
+
+		enable_equipments = {
+			cv_jet_multirole_equipment_3
+		}
+			
+		research_cost = 1
+		start_year = 1950
+
+		categories = {
+			naval_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_multirole4
+			}
 		}
 	}
 
@@ -371,12 +637,12 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_II = 1
-		}
-		
 		research_cost = 2
 		start_year = 1955
+
+		sub_technologies = {
+			cv_jet_multirole4
+		}
 		
 		folder = {
 			name = light_air_techs_folder
@@ -393,6 +659,42 @@ technologies = {
 		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	cv_jet_multirole4 = {
+
+		enable_equipments = {
+			cv_jet_multirole_equipment_4
+		}
+				
+		research_cost = 1
+		start_year = 1955
+		
+		categories = {
+			naval_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_multirole5
+			}
 		}
 	}
 
@@ -413,14 +715,14 @@ technologies = {
 			leads_to_tech = jet_multirole6
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_III = 1
-		}
 
 		research_cost = 3
 		start_year = 1960
 
+		sub_technologies = {
+			cv_jet_multirole5
+		}
+		
 		folder = {
 			name = light_air_techs_folder
 			position = { x = 2.5 y = 18 }
@@ -436,6 +738,42 @@ technologies = {
 		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	cv_jet_multirole5 = {
+
+		enable_equipments = {
+			cv_jet_multirole_equipment_5
+		}
+		
+		research_cost = 1.5
+		start_year = 1960
+		
+		categories = {
+			naval_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_multirole6
+			}
 		}
 	}
 
@@ -467,13 +805,13 @@ technologies = {
 			research_cost_coeff = 1.5
 		}
 		
-		dependencies = {
-			hardware_IV = 1
-		}
-		
 		research_cost = 3
 		start_year = 1965
 
+		sub_technologies = {
+			cv_jet_multirole6
+		}
+		
 		folder = {
 			name = light_air_techs_folder
 			position = { x = 2.5 y = 20 }
@@ -491,672 +829,6 @@ technologies = {
 			factor = 1
 		}
 	}
-
-	jet_multirole7 = {
-
-		enable_equipments = {
-			jet_multirole_equipment_7
-		}
-		
-		on_research_complete = {
-			swap_ideas = {
-				remove_idea = jet_multirole_cost_increase_6
-				add_idea = jet_multirole_cost_increase_7
-			}
-		}
-		
-		path = {
-			leads_to_tech = jet_multirole8
-			research_cost_coeff = 1
-		}
-		dependencies = {
-			hardware_V = 1
-		}
-		
-		research_cost = 4
-		start_year = 1970
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 2.5 y = 22 }
-		}
-		
-		categories = {
-			light_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
-	jet_multirole8 = {
-
-		enable_equipments = {
-			jet_multirole_equipment_8
-		}
-		
-		on_research_complete = {
-			swap_ideas = {
-				remove_idea = jet_multirole_cost_increase_7
-				add_idea = jet_multirole_cost_increase_8
-			}
-		}
-		
-		path = {
-			leads_to_tech = jet_multirole9
-			research_cost_coeff = 1
-		}
-		dependencies = {
-			hardware_VI = 1
-		}
-		
-		research_cost = 4
-		start_year = 1975
-	
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 2.5 y = 24 }
-		}
-		
-		categories = {
-			light_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
-	jet_multirole9 = {
-
-		enable_equipments = {
-			jet_multirole_equipment_9
-		}
-		
-		on_research_complete = {
-			swap_ideas = {
-				remove_idea = jet_multirole_cost_increase_8
-				add_idea = jet_multirole_cost_increase_9
-			}
-		}
-		
-		path = {
-			leads_to_tech = jet_multirole10
-			research_cost_coeff = 1
-		}
-
-		path = {
-			leads_to_tech = jet_interceptor9
-			research_cost_coeff = 1.5
-		}
-
-		path = {
-			leads_to_tech = jet_CAS8
-			research_cost_coeff = 1.5
-		}
-		
-		dependencies = {
-			hardware_VII = 1
-		}
-		
-		research_cost = 4
-		start_year = 1980
-
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 2.5 y = 26 }
-		}
-		
-		categories = {
-			light_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
-	jet_multirole10 = {
-
-		enable_equipments = {
-			jet_multirole_equipment_10
-		}
-		
-		on_research_complete = {
-			swap_ideas = {
-				remove_idea = jet_multirole_cost_increase_9
-				add_idea = jet_multirole_cost_increase_10
-			}
-		}
-				
-		path = {
-			leads_to_tech = mr_stealth
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VIII = 1
-		}
-		
-		research_cost = 4
-		start_year = 1985
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 2.5 y = 28 }
-		}
-		
-		categories = {
-			light_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
-	mr_stealth = {
-
-		enable_equipments = {
-			mr_stealth_fighter_equipment_1
-		}
-				
-		path = {
-			leads_to_tech = cas_stealth
-			research_cost_coeff = 1.5
-		}
-
-		path = {
-			leads_to_tech = jump_stealth
-			research_cost_coeff = 1.5
-		}
-		
-		dependencies = {
-			hardware_XIII = 1
-		}
-		
-		research_cost = 6
-		start_year = 2005
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 2.5 y = 36 }
-		}
-		
-		categories = {
-			light_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	## CV Multiroles#
-	
-	cv_early_fighter = {
-
-		enable_equipments = {
-			cv_fighter_equipment_0
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1933
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 16 y = 2 }
-		}
-		
-		path = {
-			leads_to_tech = cv_fighter1
-			research_cost_coeff = 1
-		}
-		
-		path = {
-			leads_to_tech = cv_CAS1
-			research_cost_coeff = 1
-		}
-		
-		categories = {
-			naval_air
-			light_fighter
-			air_equipment
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = fighter1
-			}
-		}
-	}
-	cv_fighter1 = {
-
-		enable_equipments = {
-			cv_fighter_equipment_1
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1936
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 4 }
-		}
-		
-		path = {
-			leads_to_tech = cv_fighter2
-			research_cost_coeff = 1
-		}
-		
-		categories = {
-			naval_air
-			light_fighter
-			air_equipment
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = fighter2
-			}
-		}
-	}
-	
-	cv_fighter2 = {
-
-		enable_equipments = {
-			cv_fighter_equipment_2
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1940
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 6 }
-		}
-		
-		path = {
-			leads_to_tech = cv_fighter3
-			research_cost_coeff = 1
-		}
-		
-		categories = {
-			naval_air
-			light_fighter
-			air_equipment
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = fighter3
-			}
-		}
-	}
-
-	cv_fighter3 = {
-
-		enable_equipments = {
-			cv_fighter_equipment_3
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1944
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 8 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole1
-			research_cost_coeff = 1
-		}
-		
-		categories = {
-			naval_air
-			light_fighter
-			air_equipment
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole1
-			}
-		}
-	}
-	
-	cv_jet_multirole1 = {
-
-		enable_equipments = {
-			cv_jet_multirole_equipment_1
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1946
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 10 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole2
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_II = 1
-			jet_engines = 1
-		}
-		
-		categories = {
-			naval_air
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole2
-			}
-		}
-	}
-	
-	cv_jet_multirole2 = {
-
-		enable_equipments = {
-			cv_jet_multirole_equipment_2
-		}
-		
-		research_cost = 1
-		start_year = 1948
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 12 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole3
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_I = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole3
-			}
-		}
-	}
-	
-	cv_jet_multirole3 = {
-
-		enable_equipments = {
-			cv_jet_multirole_equipment_3
-		}
-			
-		research_cost = 1
-		start_year = 1950
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 14 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole4
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_I = 1
-		}
-
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole4
-			}
-		}
-	}
-
-	cv_jet_multirole4 = {
-
-		enable_equipments = {
-			cv_jet_multirole_equipment_4
-		}
-				
-		research_cost = 1
-		start_year = 1955
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 16 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole5
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_II = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole5
-			}
-		}
-	}
-
-	cv_jet_multirole5 = {
-
-		enable_equipments = {
-			cv_jet_multirole_equipment_5
-		}
-		
-		research_cost = 1.5
-		start_year = 1960
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 18 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole6
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_III = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole6
-			}
-		}
-	}
-
 	cv_jet_multirole6 = {
 
 		enable_equipments = {
@@ -1165,20 +837,6 @@ technologies = {
 		
 		research_cost = 1.5
 		start_year = 1965
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 20 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole7
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_IV = 1
-		}
 		
 		categories = {
 			naval_air
@@ -1208,6 +866,48 @@ technologies = {
 		}
 	}
 
+	jet_multirole7 = {
+
+		enable_equipments = {
+			jet_multirole_equipment_7
+		}
+		
+		on_research_complete = {
+			swap_ideas = {
+				remove_idea = jet_multirole_cost_increase_6
+				add_idea = jet_multirole_cost_increase_7
+			}
+		}
+		
+		path = {
+			leads_to_tech = jet_multirole8
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 4
+		start_year = 1970
+
+		sub_technologies = {
+			cv_jet_multirole7
+		}
+		
+		folder = {
+			name = light_air_techs_folder
+			position = { x = 2.5 y = 22 }
+		}
+		
+		categories = {
+			light_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	cv_jet_multirole7 = {
 
 		enable_equipments = {
@@ -1216,20 +916,6 @@ technologies = {
 		
 		research_cost = 2
 		start_year = 1970
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 22 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole8
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_V = 1
-		}
 		
 		categories = {
 			naval_air
@@ -1259,6 +945,48 @@ technologies = {
 		}
 	}
 
+	jet_multirole8 = {
+
+		enable_equipments = {
+			jet_multirole_equipment_8
+		}
+		
+		on_research_complete = {
+			swap_ideas = {
+				remove_idea = jet_multirole_cost_increase_7
+				add_idea = jet_multirole_cost_increase_8
+			}
+		}
+		
+		path = {
+			leads_to_tech = jet_multirole9
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 4
+		start_year = 1975
+
+		sub_technologies = {
+			cv_jet_multirole8
+		}
+		
+		folder = {
+			name = light_air_techs_folder
+			position = { x = 2.5 y = 24 }
+		}
+		
+		categories = {
+			light_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	cv_jet_multirole8 = {
 
 		enable_equipments = {
@@ -1267,20 +995,6 @@ technologies = {
 		
 		research_cost = 2
 		start_year = 1975
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 24 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole9
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VI = 1
-		}
 		
 		categories = {
 			naval_air
@@ -1310,6 +1024,58 @@ technologies = {
 		}
 	}	
 
+	jet_multirole9 = {
+
+		enable_equipments = {
+			jet_multirole_equipment_9
+		}
+		
+		on_research_complete = {
+			swap_ideas = {
+				remove_idea = jet_multirole_cost_increase_8
+				add_idea = jet_multirole_cost_increase_9
+			}
+		}
+		
+		path = {
+			leads_to_tech = jet_multirole10
+			research_cost_coeff = 1
+		}
+
+		path = {
+			leads_to_tech = jet_interceptor9
+			research_cost_coeff = 1.5
+		}
+
+		path = {
+			leads_to_tech = jet_CAS8
+			research_cost_coeff = 1.5
+		}
+		
+		research_cost = 4
+		start_year = 1980
+
+		sub_technologies = {
+			cv_jet_multirole9
+		}
+		
+		folder = {
+			name = light_air_techs_folder
+			position = { x = 2.5 y = 26 }
+		}
+		
+		categories = {
+			light_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	cv_jet_multirole9 = {
 
 		enable_equipments = {
@@ -1318,19 +1084,6 @@ technologies = {
 		
 		research_cost = 2
 		start_year = 1980
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 26 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_multirole10
-			research_cost_coeff = 1
-		}
-		dependencies = {
-			hardware_VII = 1
-		}
 		
 		categories = {
 			naval_air
@@ -1360,6 +1113,48 @@ technologies = {
 		}
 	}
 
+	jet_multirole10 = {
+
+		enable_equipments = {
+			jet_multirole_equipment_10
+		}
+		
+		on_research_complete = {
+			swap_ideas = {
+				remove_idea = jet_multirole_cost_increase_9
+				add_idea = jet_multirole_cost_increase_10
+			}
+		}
+				
+		path = {
+			leads_to_tech = mr_stealth
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 4
+		start_year = 1985
+
+		sub_technologies = {
+			cv_jet_multirole10
+		}
+		
+		folder = {
+			name = light_air_techs_folder
+			position = { x = 2.5 y = 28 }
+		}
+		
+		categories = {
+			light_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	cv_jet_multirole10 = {
 
 		enable_equipments = {
@@ -1368,20 +1163,6 @@ technologies = {
 		
 		research_cost = 2
 		start_year = 1985
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 28 }
-		}
-		
-		path = {
-			leads_to_tech = cv_mr_stealth
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VIII = 1
-		}
 		
 		categories = {
 			naval_air
@@ -1407,6 +1188,46 @@ technologies = {
 		}
 	}
 	
+	mr_stealth = {
+
+		enable_equipments = {
+			mr_stealth_fighter_equipment_1
+		}
+				
+		path = {
+			leads_to_tech = cas_stealth
+			research_cost_coeff = 1.5
+		}
+
+		path = {
+			leads_to_tech = jump_stealth
+			research_cost_coeff = 1.5
+		}
+		
+		sub_technologies = {
+			cv_mr_stealth
+		}
+		
+		research_cost = 6
+		start_year = 2005
+		
+		folder = {
+			name = light_air_techs_folder
+			position = { x = 2.5 y = 36 }
+		}
+		
+		categories = {
+			light_air
+			jet_technology
+			air_equipment
+			light_fighter
+			cat_mr_fighter
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	cv_mr_stealth = {
 
 		enable_equipments = {
@@ -1415,15 +1236,6 @@ technologies = {
 		
 		research_cost = 3
 		start_year = 2005
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 14 y = 36 }
-		}
-		
-		dependencies = {
-			hardware_XIII = 1
-		}
 		
 		categories = {
 			naval_air
@@ -1445,7 +1257,7 @@ technologies = {
 			}
 		}
 	}
-
+	
 	## Interceptors ##
 	
 	#Jet Interceptor
@@ -1462,7 +1274,6 @@ technologies = {
 		
 		dependencies = {
 			jet_engines = 1
-			hardware_II = 1
 		}
 		
 		research_cost = 3
@@ -1500,12 +1311,7 @@ technologies = {
 		path = {
 			leads_to_tech = high_mach_jet_interceptor1
 			research_cost_coeff = 1
-		}	
-
-		dependencies = {
-			hardware_I = 1
-		}
-		
+		}		
 		research_cost = 2
 		start_year = 1948
 
@@ -1544,10 +1350,6 @@ technologies = {
 			research_cost_coeff = 1.5
 		}
 		
-		dependencies = {
-			hardware_II = 1
-		}
-		
 		xor = { high_mach_jet_interceptor1 }
 		
 		research_cost = 2
@@ -1583,10 +1385,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_III = 1
-		}
-		
 		research_cost = 2
 		start_year = 1955
 
@@ -1618,10 +1416,6 @@ technologies = {
 		path = {
 			leads_to_tech = jet_interceptor6
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_IV = 1
 		}
 		
 		research_cost = 3
@@ -1665,10 +1459,6 @@ technologies = {
 			research_cost_coeff = 1.5
 		}
 		
-		dependencies = {
-			hardware_V = 1
-		}
-		
 		research_cost = 3
 		start_year = 1965
 
@@ -1702,10 +1492,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_VI = 1
-		}
-		
 		research_cost = 4
 		start_year = 1970
 
@@ -1737,10 +1523,6 @@ technologies = {
 		path = {
 			leads_to_tech = jet_interceptor9
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VII = 1
 		}
 		
 		research_cost = 4
@@ -1783,10 +1565,6 @@ technologies = {
 			leads_to_tech = jet_multirole9
 			research_cost_coeff = 1.5
 		}
-		
-		dependencies = {
-			hardware_VIII = 1
-		}
 	
 		research_cost = 4
 		start_year = 1980
@@ -1823,11 +1601,7 @@ technologies = {
 		path = {
 			leads_to_tech = jump_stealth
 			research_cost_coeff = 1
-		}
-
-		dependencies = {
-			hardware_XI = 1
-		}
+		}		
 		
 		sub_technologies = {
 			cv_stealth_fighter
@@ -1858,10 +1632,6 @@ technologies = {
 
 		enable_equipments = {
 			cv_stealth_fighter_equipment_1
-		}
-		
-		dependencies = {
-			hardware_XI = 1
 		}
 		
 		research_cost = 2.5
@@ -1898,10 +1668,6 @@ technologies = {
 		path = {
 			leads_to_tech = jump_jet2
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VI = 1
 		}
 		
 		research_cost = 4
@@ -1948,10 +1714,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_VII = 1
-		}
-		
 		research_cost = 3
 		start_year = 1975
 
@@ -1994,10 +1756,6 @@ technologies = {
 		path = {
 			leads_to_tech = jump_jet4
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VIII = 1
 		}
 		
 		research_cost = 4
@@ -2044,10 +1802,6 @@ technologies = {
 			research_cost_coeff = 1
 		}	
 		
-		dependencies = {
-			hardware_IX = 1
-		}
-		
 		research_cost = 4
 		start_year = 1985
 
@@ -2091,10 +1845,6 @@ technologies = {
 			leads_to_tech = mr_stealth
 			research_cost_coeff = 1.5
 		}
-		
-		dependencies = {
-			hardware_XIII = 1
-		}
 				
 		research_cost = 6
 		start_year = 2005
@@ -2135,10 +1885,6 @@ technologies = {
 			leads_to_tech = high_mach_jet_interceptor2
 			research_cost_coeff = 1
 		}
-		
-		dependencies = {
-			hardware_II = 1
-		}
 
 		
 		xor = { jet_interceptor3 }
@@ -2175,10 +1921,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_III = 1
-		}
-		
 		research_cost = 2
 		start_year = 1955
 
@@ -2210,10 +1952,6 @@ technologies = {
 		path = {
 			leads_to_tech = high_mach_jet_interceptor4
 			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_IV = 1
 		}
 		
 		
@@ -2252,10 +1990,6 @@ technologies = {
 		path = {
 			leads_to_tech = jet_interceptor7
 			research_cost_coeff = 1.5
-		}
-		
-		dependencies = {
-			hardware_V = 1
 		}
 		
 		research_cost = 3
@@ -2299,6 +2033,10 @@ technologies = {
 			position = { x = -4 y = 4 }
 		}
 		
+		sub_technologies = {
+			cv_CAS1
+		}
+		
 		categories = {
 			light_air
 			cas_bomber
@@ -2309,7 +2047,41 @@ technologies = {
 			factor = 1
 		}
 	}
+	cv_CAS1 = {
 
+		enable_equipments = {
+			cv_CAS_equipment_1
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1936
+		
+		categories = {
+			naval_air
+			cas_bomber
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = CAS2
+			}
+		}
+	}
+	
 	CAS2 = {
 
 		enable_equipments = {
@@ -2329,6 +2101,10 @@ technologies = {
 			position = { x = -4 y = 6 }
 		}
 		
+		sub_technologies = {
+			cv_CAS2
+		}
+		
 		categories = {
 			light_air
 			cas_bomber
@@ -2337,6 +2113,41 @@ technologies = {
 		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	
+	cv_CAS2 = {
+
+		enable_equipments = {
+			cv_CAS_equipment_2
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1940
+		
+		categories = {
+			naval_air
+			cas_bomber
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = CAS3
+			}
 		}
 	}
 	
@@ -2357,7 +2168,11 @@ technologies = {
 			name = light_air_techs_folder
 			position = { x = -4 y = 8 }
 		}
-
+		
+		sub_technologies = {
+			cv_CAS3
+		}
+		
 		categories = {
 			light_air
 			cas_bomber
@@ -2366,6 +2181,41 @@ technologies = {
 		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	
+	cv_CAS3 = {
+
+		enable_equipments = {
+			cv_CAS_equipment_3
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1944
+		
+		categories = {
+			naval_air
+			cas_bomber
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = CAS4
+			}
 		}
 	}
 	
@@ -2386,7 +2236,11 @@ technologies = {
 			name = light_air_techs_folder
 			position = { x = -4 y = 10 }
 		}
-
+		
+		sub_technologies = {
+			cv_CAS4
+		}
+		
 		categories = {
 			light_air
 			cas_bomber
@@ -2397,7 +2251,42 @@ technologies = {
 			factor = 1
 		}
 	}
+	
+	cv_CAS4 = {
 
+		enable_equipments = {
+			cv_CAS_equipment_4
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1946
+		
+		categories = {
+			naval_air
+			cas_bomber
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_CAS1
+			}
+		}
+	}
+	
 	jet_CAS1 = {
 
 		enable_equipments = {
@@ -2418,9 +2307,12 @@ technologies = {
 		
 		dependencies = {
 			jet_engines = 1
-			hardware_I = 1
 		}
-
+		
+		sub_technologies = {
+			cv_jet_CAS1
+		}
+		
 		categories = {
 			light_air
 			cas_bomber
@@ -2432,7 +2324,44 @@ technologies = {
 			factor = 1
 		}
 	}
+	
+	cv_jet_CAS1 = {
 
+		enable_equipments = {
+			cv_jet_CAS_equipment_1
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1948
+		
+		categories = {
+			naval_air
+			cas_bomber
+			jet_technology
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_CAS2
+			}
+		}
+
+	}
+	
 	jet_CAS2 = {
 
 		enable_equipments = {
@@ -2449,17 +2378,17 @@ technologies = {
 			research_cost_coeff = 1.5
 		}
 		
-		dependencies = {
-			hardware_II = 1
-		}
-		
 		research_cost = 2
 		start_year = 1950
 		folder = {
 			name = light_air_techs_folder
 			position = { x = -4 y = 14 }
 		}
-
+		
+		sub_technologies = {
+			cv_jet_CAS2
+		}
+		
 		categories = {
 			light_air
 			cas_bomber
@@ -2471,7 +2400,44 @@ technologies = {
 			factor = 1
 		}
 	}
+	
+	cv_jet_CAS2 = {
 
+		enable_equipments = {
+			cv_jet_CAS_equipment_2
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1950
+		
+		categories = {
+			naval_air
+			cas_bomber
+			jet_technology
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_CAS3
+			}
+		}
+
+	}
+	
 	jet_CAS3 = {
 
 		enable_equipments = {
@@ -2483,17 +2449,17 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_III = 1
-		}
-		
 		research_cost = 2
 		start_year = 1955
 		folder = {
 			name = light_air_techs_folder
 			position = { x = -4 y = 16 }
 		}
-	
+		
+		sub_technologies = {
+			cv_jet_CAS3
+		}
+		
 		categories = {
 			light_air
 			cas_bomber
@@ -2505,7 +2471,44 @@ technologies = {
 			factor = 1
 		}
 	}
+	
+	cv_jet_CAS3 = {
 
+		enable_equipments = {
+			cv_jet_CAS_equipment_3
+		}
+	
+		research_cost = 1 #Carrier Variant
+		start_year = 1955
+		
+		categories = {
+			naval_air
+			cas_bomber
+			jet_technology
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_CAS4
+			}
+		}
+
+	}
+	
 	jet_CAS4 = {
 
 		enable_equipments = {
@@ -2517,15 +2520,15 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_IV = 1
-		}
-		
 		research_cost = 3
 		start_year = 1960
 		folder = {
 			name = light_air_techs_folder
 			position = { x = -4 y = 18 }
+		}
+		
+		sub_technologies = {
+			cv_jet_CAS4
 		}
 		
 		categories = {
@@ -2539,7 +2542,43 @@ technologies = {
 			factor = 1
 		}
 	}
+	
+	cv_jet_CAS4 = {
 
+		enable_equipments = {
+			cv_jet_CAS_equipment_4
+		}
+	
+		research_cost = 1.5 #Carrier Variant
+		start_year = 1960
+		
+		categories = {
+			naval_air
+			cas_bomber
+			jet_technology
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_CAS5
+			}
+		}
+	}
+	
 	jet_CAS5 = {
 
 		enable_equipments = {
@@ -2556,15 +2595,15 @@ technologies = {
 			research_cost_coeff = 1.5
 		}
 		
-		dependencies = {
-			hardware_V = 1
-		}
-		
 		research_cost = 3
 		start_year = 1965
 		folder = {
 			name = light_air_techs_folder
 			position = { x = -4 y = 20 }
+		}
+		
+		sub_technologies = {
+			cv_jet_CAS5
 		}
 		
 		categories = {
@@ -2578,7 +2617,43 @@ technologies = {
 			factor = 1
 		}
 	}
+	
+	cv_jet_CAS5 = {
 
+		enable_equipments = {
+			cv_jet_CAS_equipment_5
+		}
+	
+		research_cost = 1.5 #Carrier Variant
+		start_year = 1965
+		
+		categories = {
+			naval_air
+			cas_bomber
+			jet_technology
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_CAS6
+			}
+		}
+	}
+	
 	jet_CAS6 = {
 
 		enable_equipments = {
@@ -2590,17 +2665,17 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_VI = 1
-		}
-		
 		research_cost = 3
 		start_year = 1970
 		folder = {
 			name = light_air_techs_folder
 			position = { x = -4 y = 22 }
 		}
-
+		
+		sub_technologies = {
+			cv_jet_CAS6
+		}
+		
 		categories = {
 			light_air
 			cas_bomber
@@ -2612,7 +2687,43 @@ technologies = {
 			factor = 1
 		}
 	}
+	
+	cv_jet_CAS6 = {
 
+		enable_equipments = {
+			cv_jet_CAS_equipment_6
+		}
+	
+		research_cost = 1.5 #Carrier Variant
+		start_year = 1970
+		
+		categories = {
+			naval_air
+			cas_bomber
+			jet_technology
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_CAS7
+			}
+		}
+	}
+	
 	jet_CAS7 = {
 
 		enable_equipments = {
@@ -2624,15 +2735,15 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		dependencies = {
-			hardware_VII = 1
-		}
-		
 		research_cost = 4
 		start_year = 1975
 		folder = {
 			name = light_air_techs_folder
 			position = { x = -4 y = 24 }
+		}
+		
+		sub_technologies = {
+			cv_jet_CAS7
 		}
 		
 		categories = {
@@ -2646,7 +2757,43 @@ technologies = {
 			factor = 1
 		}
 	}
+	
+	cv_jet_CAS7 = {
 
+		enable_equipments = {
+			cv_jet_CAS_equipment_7
+		}
+	
+		research_cost = 2 #Carrier Variant
+		start_year = 1975
+		
+		categories = {
+			naval_air
+			cas_bomber
+			jet_technology
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+			modifier = {
+				factor = 0
+				has_tech = jet_CAS8
+			}
+		}
+	}
+	
 	jet_CAS8 = {
 
 		enable_equipments = {
@@ -2670,8 +2817,8 @@ technologies = {
 			research_cost_coeff = 1.5
 		}
 		
-		dependencies = {
-			hardware_VIII = 1
+		sub_technologies = {
+			cv_jet_CAS8
 		}
 		
 		categories = {
@@ -2686,6 +2833,38 @@ technologies = {
 		}
 	}
 	
+	cv_jet_CAS8 = {
+
+		enable_equipments = {
+			cv_jet_CAS_equipment_8
+		}
+	
+		research_cost = 2 #Carrier Variant
+		start_year = 1980
+		
+		categories = {
+			naval_air
+			cas_bomber
+			jet_technology
+			air_equipment
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				OR = {
+					has_tech = early_carrier
+					has_tech = light_carrier1
+				}
+			}
+			modifier = {
+				add = 3
+				has_navy_size = { type = carrier size > 0 }
+			}
+		}
+	}
+	
 	cas_stealth = {
 
 		enable_equipments = {
@@ -2695,10 +2874,6 @@ technologies = {
 		path = {
 			leads_to_tech = mr_stealth
 			research_cost_coeff = 1.5
-		}
-		
-		dependencies = {
-			hardware_XIII = 1
 		}
 		
 		research_cost = 6
@@ -2718,648 +2893,6 @@ technologies = {
 		
 		ai_will_do = {
 			factor = 1
-		}
-	}
-	
-	## cv CAS ###
-	
-	cv_CAS1 = {
-
-		enable_equipments = {
-			cv_CAS_equipment_1
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1936
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 4 }
-		}
-		
-		path = {
-			leads_to_tech = cv_CAS2
-			research_cost_coeff = 1
-		}
-		
-		categories = {
-			naval_air
-			light_fighter
-			air_equipment
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = fighter2
-			}
-		}
-	}
-	
-	cv_CAS2 = {
-
-		enable_equipments = {
-			cv_CAS_equipment_2
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1940
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 6 }
-		}
-		
-		path = {
-			leads_to_tech = cv_CAS3
-			research_cost_coeff = 1
-		}
-		
-		categories = {
-			naval_air
-			light_fighter
-			air_equipment
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = fighter3
-			}
-		}
-	}
-
-	cv_CAS3 = {
-
-		enable_equipments = {
-			cv_CAS_equipment_3
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1944
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 8 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS1
-			research_cost_coeff = 1
-		}
-		
-		categories = {
-			naval_air
-			light_fighter
-			air_equipment
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole1
-			}
-		}
-	}
-	
-	cv_jet_CAS1 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_1
-		}
-	
-		research_cost = 1 #Carrier Variant
-		start_year = 1946
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 10 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS2
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_I = 1
-			jet_engines = 1
-		}
-		
-		categories = {
-			naval_air
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole2
-			}
-		}
-	}
-	
-	cv_jet_CAS2 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_2
-		}
-		
-		research_cost = 1
-		start_year = 1948
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 12 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS3
-			research_cost_coeff = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole3
-			}
-		}
-	}
-	
-	cv_jet_CAS3 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_3
-		}
-			
-		research_cost = 1
-		start_year = 1950
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 14 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS4
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_II = 1
-		}
-
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole4
-			}
-		}
-	}
-
-	cv_jet_CAS4 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_4
-		}
-				
-		research_cost = 1
-		start_year = 1955
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 16 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS5
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_III = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole5
-			}
-		}
-	}
-
-	cv_jet_CAS5 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_5
-		}
-		
-		research_cost = 1.5
-		start_year = 1960
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 18 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS6
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_IV = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole6
-			}
-		}
-	}
-
-	cv_jet_CAS6 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_6
-		}
-		
-		research_cost = 1.5
-		start_year = 1965
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 20 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS7
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_V = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole7
-			}
-		}
-	}
-
-	cv_jet_CAS7 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_7
-		}
-		
-		research_cost = 2
-		start_year = 1970
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 22 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS8
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VI = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole8
-			}
-		}
-	}
-
-	cv_jet_CAS8 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_8
-		}
-		
-		research_cost = 2
-		start_year = 1975
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 24 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS9
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VII = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole9
-			}
-		}
-	}	
-
-	cv_jet_CAS9 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_9
-		}
-		
-		research_cost = 2
-		start_year = 1980
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 26 }
-		}
-		
-		path = {
-			leads_to_tech = cv_jet_CAS10
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_VIII = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
-			modifier = {
-				factor = 0
-				has_tech = jet_multirole10
-			}
-		}
-	}
-
-	cv_jet_CAS10 = {
-
-		enable_equipments = {
-			cv_jet_CAS_equipment_10
-		}
-		
-		research_cost = 2
-		start_year = 1985
-		
-		folder = {
-			name = light_air_techs_folder
-			position = { x = 18 y = 28 }
-		}
-		
-		path = {
-			leads_to_tech = cv_mr_stealth
-			research_cost_coeff = 1
-		}
-		
-		dependencies = {
-			hardware_IX = 1
-		}
-		
-		categories = {
-			naval_air
-			jet_technology
-			air_equipment
-			light_fighter
-			cat_mr_fighter
-		}
-		
-		ai_will_do = {
-			factor = 0
-			modifier = {
-				add = 1
-				OR = {
-					has_tech = early_carrier
-					has_tech = light_carrier1
-				}
-			}
-			modifier = {
-				add = 3
-				has_navy_size = { type = carrier size > 0 }
-			}
 		}
 	}
 }

@@ -27,7 +27,7 @@ equipments = {
 		#Space taken in convoy
 		lend_lease_cost = 5
 
-		build_cost_ic = 2.5
+		build_cost_ic = 5
 		resources = {
  			electricity = 1
 			oil = 1
@@ -58,9 +58,9 @@ equipments = {
 
 		maximum_speed = 12
 
-		defense = 6		
+        defense = 6		
 
-		build_cost_ic = 3.75
+		build_cost_ic = 7.5
 		resources = {
  			electricity = 1
 			oil = 1
@@ -80,10 +80,10 @@ equipments = {
 		visual_level = 2
 
 		maximum_speed = 14	
-	  
-		defense = 6	  
+      
+        defense = 6	  
 		
-		build_cost_ic = 5
+		build_cost_ic = 10
 		resources = {
  			electricity = 1
 			oil = 1
@@ -104,9 +104,9 @@ equipments = {
 
 		maximum_speed = 16
 
-		defense = 6		
+        defense = 6		
 		
-		build_cost_ic = 6.25
+		build_cost_ic = 12.5
 		resources = {
  			electricity = 1
 			oil = 2
@@ -117,7 +117,7 @@ equipments = {
 	
 #1995	
 	
-	motorized_equipment_5 = {
+	motorized_equipment_5= {
 		year = 1995
 
 		archetype = motorized_equipment
@@ -129,7 +129,7 @@ equipments = {
 		
 		defense = 7
 		
-		build_cost_ic = 7.5
+		build_cost_ic = 15
 		resources = {
  			electricity = 1
 			oil = 2
