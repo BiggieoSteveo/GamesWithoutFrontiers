@@ -63,7 +63,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Umukoro_Kamau"
+	name = "Umukoro Kamau"
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_GNB_Umukoro_Kamau.dds"
 	expire = "1965.1.1"
