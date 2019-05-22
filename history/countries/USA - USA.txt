@@ -83,11 +83,20 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Pascal Marshal"
-	desc = "POLITICS_PASCAL_MARSHAL_DESC"
-	picture = "Portrait_USA_Pascal_Marshal.dds"
+	name = "Pierce Stevens"
+	desc = "POLITICS_PIERCE_STEVENS_DESC"
+	picture = "Portrait_USA_Pierce_Stevens.dds"
 	expire = "1965.1.1"
-	ideology = supremacism_subtype
+	ideology = reactionary_subtype
+	traits = { }
+}
+
+create_country_leader = {
+	name = "Henry Fontana"
+	desc = "POLITICS_PIERCE_STEVENS_DESC"
+	picture = "Portrait_USA_Henry_Fontana.dds"
+	expire = "1965.1.1"
+	ideology = plutocracy
 	traits = { }
 }
 
@@ -101,11 +110,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Pierce Stevens"
-	desc = "POLITICS_PIERCE_STEVENS_DESC"
-	picture = "Portrait_USA_Pierce_Stevens.dds"
+	name = "Pascal Marshal"
+	desc = "POLITICS_PASCAL_MARSHAL_DESC"
+	picture = "Portrait_USA_Pascal_Marshal.dds"
 	expire = "1965.1.1"
-	ideology = reactionary_subtype
+	ideology = supremacism_subtype
 	traits = { }
 }
 
