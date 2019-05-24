@@ -28,4 +28,19 @@
  JAP_death_cultism_ADJ:0 "Japanese"
  
  ###Political Parties###
- 
+ JAP_cluster_party:0 "YUN"
+ JAP_cluster_party_long:0 "Yunaiteddopuroretariāto"
+ JAP_neo-bolshevism_party:0 "ZRR"
+ JAP_neo-bolshevism_party_long:0 "Zen'nihon rōdō-sha renmei"
+ JAP_technocracy_party:0 "Gitsu Sakai"
+ JAP_technocracy_party_long:0 "Gitsu Sakai"
+ JAP_social_liberalism_party:0 "Jinmin Riberaru"
+ JAP_social_liberalism_party_long:0 "Jinmin Riberaru"
+ JAP_social_conservatism_party:0 "Aikoku-teki Riberaru"
+ JAP_social_conservatism_party_long:0 "Aikoku-teki Riberaru"
+ JAP_reactionary_party:0 "Sokuku-shokai"
+ JAP_reactionary_party_long:0 "Sokuku-shokai"
+ JAP_ultranationalism_party:1 "KA"
+ JAP_ultranationalism_party_long:1 "Kokumin aikokusensen"
+ JAP_death_cultism_party:0 "ZRR"
+ JAP_death_cultism_party_long:0 "Zen'nihon rōdō-sha renmei"

@@ -65,19 +65,19 @@ set_politics = {
 }
 
 create_country_leader = { 
-	name = "Hamano Fujimaro"
+	name = "Jimmu Hashimoto"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Jap_Hamano_Fujimaro.dds"
+	#picture = "Portrait_Jap_Hamano_Fujimaro.dds"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy
 	traits = { }
 }
 
-create_country_leader = { 
-	name = "Kajiwara Toshitsugu"
-	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Jap_Kajiwara_Toshitsugu.dds"
-	expire = "1965.1.1"
-	ideology = death_cultism_subtype
-	traits = { }
-}
+#create_country_leader = { 
+#	name = "Kajiwara Toshitsugu"
+#	desc = "POLITICS_KING_ZOG_DESC"
+#	picture = "Portrait_Jap_Kajiwara_Toshitsugu.dds"
+#	expire = "1965.1.1"
+#	ideology = death_cultism_subtype
+#	traits = { }
+#}
